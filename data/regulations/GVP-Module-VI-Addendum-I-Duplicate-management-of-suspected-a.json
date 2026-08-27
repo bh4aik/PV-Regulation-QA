@@ -1,0 +1,265 @@
+{
+  "title": "GVP Module VI – Addendum I: Duplicate management of suspected adverse reaction reports",
+  "shortTitle": "GVP Module VI Addendum I",
+  "documentNumber": "",
+  "issuingAuthority": "",
+  "issueDate": "",
+  "effectiveDate": "",
+  "status": "现行有效",
+  "category": "指南",
+  "country": "欧盟",
+  "chapters": [
+    {
+      "title": "28 July 2017",
+      "articles": [
+        {
+          "num": "VI. Add I.1.",
+          "text": "Introduction\nDuplicate case reports of suspected adverse reactions can pose significant problems for analysing\nsignals arising from pharmacovigilance databases, both artificially inflating and masking signals of\ndisproportionate reporting (see GVP Module IX Addendum I). The applicable reporting rules cannot\navoid duplicate reporting. Databases should therefore be routinely screened to detect and eliminate\nduplicate cases and the European Medicines Agency (the ‘Agency’), competent authorities in Member\nStates and marketing authorisation holders shall all collaborate in the detection and elimination of\nduplicates in the EudraVigilance database [Articles 107(5) & 107a(3) of Directive 2001/83]. The\nguidance in this document proposes methods for detecting, confirming and managing duplicate cases\nsuitable for organisations receiving pharmacovigilance data in various different formats and describes\nmethods for stakeholders to collaborate with the Agency in the detection and management of duplicate\ncases. This guidance is part of the good pharmacovigilance practices (GVP) and an Addendum to GVP\nModule VI – Management and reporting of adverse reactions to medicinal products.\nGuidance is also provided for situations where individual cases might be reported by different senders\ne.g. where a marketing authorisation holder is aware that a healthcare professional or a patient has\nreported an adverse reaction to one of the medicinal products, for which they hold a marketing\nauthorisation, to the competent authority of a Member State. GVP Module VI states that when one\nparty is made aware that the primary source(s) may also have reported the suspected adverse\nreaction to another concerned party, the report should still be considered as a valid individual case\nsafety report (ICSR). All the relevant information necessary for the detection of the duplicate case\nshould be included in the ICSR.\nA duplicate refers to the same individual case reported by a primary source to describe suspected\nadverse reaction(s) related to the administration of one or more medicinal products to an individual\npatient at a particular point of time. This individual case may be reported by different senders, through\ndifferent routes, whereby the case information may be handled differently by the processor of the\ncase, which makes it difficult to identify the reported cases as duplicates. Case handling refers e.g. to\ncoding practices, obtaining follow-up information and processing of personal data in line with EU Data\n,2\nProtection legislation.\nDetection and handling of duplicates by competent authorities and marketing authorisation holders\nform an important element of good case management and the collaboration of marketing authorisation\nholders and competent authorities in Member States with the Agency in the detection of duplicates in\n,4\nEudraVigilance (EV) is mandated by Directive 2001/83/EC. The presence of duplicates in any\npharmacovigilance database can create misleading signals and therefore impact on the safety\nmonitoring and potential regulatory actions. How duplicates can impact on the identification of\npotential new safety issues can be illustrated by an example of duplication in the US FDA Adverse\nEvents Reporting System (AERS) database. In an evaluation of quinine-induced thrombocytopenia,\nresearchers identified 20% of 141 reports as duplicates.Norèn et al.highlighted that since commonly\nused data-mining procedures may highlight associations with as few as three reports, one or two\nduplicates may severely affect their utility.\nRegulation (EC) No 45/2001\nDirective 95/46/EC\nDirective 2001/83/EC Article 107(5) “Marketing authorisation holders shall collaborate with the Agency and the Member\nStates in the detection of duplicates of suspected adverse reaction reports”"
+        },
+        {
+          "num": "Article 107",
+          "text": "a (3) “Member States shall collaborate with the Agency and the marketing authorisation holders in the\ndetection of duplicates of suspected adverse reaction reports.”\nHauben M, Reich L, DeMicco J, Kim K. `Extreme Duplication' in the US FDA Adverse Events Reporting System Database.\nDrug Safety. 2007; 309(6): 551-554\nNorén GN, Orre R, Bate A, Edwards I R. Duplicate detection in adverse drug reaction surveillance. Data Mining and\nKnowledge Discovery. 2007, 14: 305-328\nThe simplified reporting rules will come into effect on 22 November 2017, and this is expected to\nsignificantly reduce the number of duplicate cases, although they can never be completely excluded.\nAs an initial step in 2006 to investigate which procedures exist for handling potential duplicates, the\nEudraVigilance Expert Working Group (EV EWG) collected some information on the various aspects of\nduplicate detection and management through a questionnaire to Member States, marketing\nauthorisation holders as well as clinical trial sponsors. Based on the feedback received, the EV EWG\nprepared the Guideline on Duplicate Detection and Management of Individual Cases and Individual\nCase Safety Reports (ICSRs), which was published in 2011 and has provided competent authorities in\nMember States, marketing authorisation holders, sponsors and any other organisations involved in\ncase handling and processing (e.g. third party service providers) with clear directions on the\nmanagement of duplicates. The aforementioned guideline is now replaced by this GVP Module VI\nAddendum I, which updates the original guideline to take account of the simplified reporting rules and\nthe changes to the responsibilities of competent authorities in Member States, marketing authorisation\nholders and sponsors.\nThe objective of this new guidance is to promote accurate detection and handling of duplicate cases,\nwith the ultimate aim of achieving a duplicate-free database. Organisations need to implement\nduplicate management strategies that are most suitable for their individual situation, while taking into\naccount that the electronic exchange of ICSRs in ICH-E2B(R2) and E2B(R3) formatsmay require\nspecific actions to be taken upon detection of duplicates.\nThere are various ways in which individual case information and the related ICSRs can be recorded. In\nmost circumstances, the method will depend on the complexity of the organisation’s database and the\namount of data received. Therefore, it should be acknowledged that this document is not able to\naddress every situation and that alternative approaches might exist. However, the key principles and\nprocesses as outlined in this guidance should be adhered to."
+        },
+        {
+          "num": "VI. Add I.2.",
+          "text": "General aspects of duplicate cases\nRegardless of the system used for collecting and collating ICSRs, there should always be an\nappropriate mechanism in place for identifying duplicates. The potential causes for duplicates should be\ncarefully taken into account, as well as the appropriate processes to detect and manage them. If\nduplicates are identified, analysis of the root cause should be performed and corrective action taken,\nwhere appropriate.\nExamples of common causes of duplicate reports are:\n A consumer and a healthcare professional reporting the same reaction occurrence;\n Multiple health care professionals treating the same patient reporting the same reaction\noccurrence;\n An reaction occurrence being reported to EV by the original reporter to both the marketing\nauthorisation holder and a competent authority in a Member State;\n Literature reporting of the same reaction occurrence for generics.\nHandling duplicate reports typically involves three steps:\n(1) searching/detection of duplicates;\n(2) confirmation of duplicates; and\nHereafter, ICH-E2B(R2) or (R3) formats shall be referred to as “ICH-E2B format”, unless it is necessary to specify which\nformat is being discussed\n(3) management of duplicates.\nThe identification of potential duplicates in collections of individual cases is a challenge. Duplicates will\noften either have been submitted by different senders or processed in different reporting systems, and\nas such case information can be in many instances dissimilar: different terms may have been used to\ncode the same incident, patient information may be of different level of specificity due to differences in\nthe implementation of the personal data protection rules in Member States or the listed medicinal\nproducts may be coded differently related to the same incident due to the absence of an international\nstandard on identification of medicinal products. This makes the identification of duplicates a\nchallenging and resource intensive task. It appears to be clear that the problem of duplicate reports is\nfairly common in spontaneous reporting systems, although there is certainly a lack of published\nresearch, both on the extent of the problem and the methods employed to detect them. Even upon the\nconfirmation that reports are indeed duplicates it is not always obvious how to proceed: should the\nduplicates be maintained in the database or should one of them perhaps be removed from the data\nset; if so, which one(s)?\nReviewing pharmacovigilance systems for potential duplicates is also considered necessary when\nevaluating signals e.g. signals of disproportionate reporting (SDR). Such review may be necessary in\naddition to routine duplicate and data quality checking. Although databases should be screened\nregularly for potential duplicates, there may be situations when an individual case was reported more\nthan once in the database and may have not appeared initially as a potential duplicate.\nAll stakeholders are reminded about the duplicate handling provisions laid down in GVP Module VI,\nwhereby the most relevant sections will be also referenced in this document where applicable. The\ndetection and management of duplicates is also an element that needs to be addressed by applicants\nand marketing authorisation holders as part of their pharmacovigilance system master file (PSMF) (see\nGVP Module II)."
+        },
+        {
+          "num": "VI. Add I.3.",
+          "text": "Detection of duplicate cases\nDatabases should be reviewed regularly to identify duplicates. As a general rule, every newly received\nICSR referring to an individual case should be considered a potential duplicate and should be checked\nthoroughly against the cases that are already present in the database. Therefore, screening for\nduplicates should be done at the time when a new report arrives in the database i.e. during data entry\nor during the process of loading ICSRs that have been received electronically. Some IT systems offer\nlookup and duplicate detection features to assist the identification of an identical case during data\nentry procedures, based on automated and semi-automated search criteria. Similar tools can be used\nfor e.g. automatic flagging of potential duplicates at the time of importing ICSRs that are received\nelectronically in ICH-E2B(R2) or ICH-E2B(R3) format (see GVP Annex IV - International Conference on\nHarmonisation of Technical Requirements for Registration of Pharmaceuticals for Human Use (ICH)\nguidelines for pharmacovigilance).\nDuplicate searches are generally based on similarities in patient, adverse reaction and medicinal\nproduct data. Different search criteria may be suitable for different datasets. For pharmacovigilance\nsystems that do not have to deal with large datasets, a simple table which sorts the reports by age,\nsex, suspected/interacting medicinal products and adverse reactions can be suitable to detect\nsimilarities. Adding ‘country’ to this search can be valuable, depending on the dataset. For cases\nreceived in ICH-E2B format, screening of the case ID numbers and duplicate fields (see below for ICH-\nE2B (R2) & (R3) field names and codes) may offer a quick start.\nTable VI. Add I.1. ICH-E2B data field names with R2 & R3 codes\nField name* E2B(R2) code E2B(R3) code\nSender’s (case) safety report unique identifier A.1.0.1 C.1.1\nWorldwide unique case identification A.1.10.1 or A.1.10. C.1.8.1\nSource(s) of the case identifier A.1.11.1 C.1.9.1.r.\nCase identifier(s) A.1.11.2 C.1.9.1.r.\n*Useful fields for quick identification of duplicate cases\nIn large databases like EudraVigilance, there is a strong need to eliminate duplicates. Therefore, an\ninitial grouping of ICSRs is performed based on the primary source country, sex and age of the patient.\nThe EudraVigilance algorithm further quantifies the difference of ICSRs from a statistical point of view\ntaking into account additional parameters related to the patient, the primary source, the reported\nmedicinal product(s)/active substance(s) and adverse reaction(s) as well as the fact that case\ninformation may vary e.g. due to differences in coding practices.\nThere are many options for using patient, adverse reaction and medicinal product data and their\nspecific data-elements for duplicate detection purposes. Other data fields (e.g. reaction end/start date)\ncan be used to make the assessment more likely. Whatever algorithm is applied, it should be taken\ninto account that information in the cases may differ, and that the main purpose of this step is to seek\nfor similarities in the cases, thus highlighting potential duplicates for manual review. If no match is\nfound upon the initial search, the search can be broadened e.g. by expanding the criteria to include\nnull values (e.g. a new report concerning a female patient will be checked against other cases with a\nfemale patient cases and where the patient’s gender is unknown).\nDifferences in coding practices based on MedDRA (see GVP Annex IV) can be addressed by taking into\naccount that the medical concepts need to be consistent, rather than searching for an exact match of\nterms. Furthermore, it is important to be aware of the natural course of reported reactions and that\nthese can become more serious (for example: a rash can develop into a Stevens Johnson Syndrome).\nTherefore, a search for duplicates can be based on the MedDRA Preferred Term (PT) Level, but moving\nup to the associated Higher Level Term (HLT) or even HLGT (Higher Level Group Term (HLGT) might\nbe appropriate.\nIndividual cases originating from clinical trials are usually well-documented and duplicate detection can\ninclude other criteria which will be more reliable, e.g. Research centre ID and study details (EudraCT\nnumber, protocol number).\nIt is recommended to carefully validate the duplicate detection algorithms of databases and to evaluate\nthe need for tuning the algorithms over time e.g. the quality/level of details of ICSRs may differ over\ntime. For example, when specific data fields have been made mandatory, these might be considered\nfor inclusion in the duplicate detection algorithm.\nIt is apparent that duplicates might involve more than two individual cases, and can be considered a\ncluster i.e. if case A is a potential duplicate of case B and case B is a potential duplicate of case C.\nBearing this in mind, throughout this document the term “duplicate cluster” is used to denote two or\nmore cases which have been identified as potential duplicates of each other."
+        },
+        {
+          "num": "VI. Add I.3.1.",
+          "text": "What to do if possible duplicates in EudraVigilance have been\ndetected\nIf, when reviewing cases obtained from EudraVigilance, there is a suspicion that two or more cases are\nduplicates of one another; the reviewer should send an email to duplicates@ema.europa.eu with\ninformation on which cases are suspected to be duplicates. The Agency will not routinely send feedback\non whether or not the cases are duplicates. To receive such feedback, the sender of the email should\nrequest this in the email.\nThe information that the Agency needs is either the case numbers (either Worldwide unique case\nsafety IDs or Safety report IDs) or local report numbers (those starting with EU-EC-) of the suspected\nduplicates in a cluster.\nTo report suspected duplicates, the agency encourages that the sender sends each suspected cluster of\nduplicates as a single row in a table similar to the format below:\nTable VI. Add I.2. EMA preferred format for receiving notification of suspected duplicates\nCluster 1 EU-EC-123456 EU-EC-3456789\nCluster 2 EU-EC-1564838 EU-EC-2254839 EU-EC-5742358 EU-EC-9137568\nCluster 3 EU-EC-5748548 EU-EC-2563147 EU-EC-9876543\nIf the Agency confirms that the cases are duplicates, then, as described in VI.Add I.4.1.2., a master\ncase will be created, with the duplicates merged underneath and the case numbers of the duplicates in\nthe report duplicates section of the master. The master case will be transmitted to EV and, if\nnecessary, rerouted to competent authorities in Member States within the usual rerouting timelines.\nThe master case will be immediately available to marketing authorisation holders for downloading for\nLevel 1 access and will be available the following day for Level 2 access as described in the\nEudraVigilance Access Policy. The awareness date for marketing authorisation holders and competent\nauthorities in Member States of the confirmed duplication will then coincide with the day zero for the\nmaster for marketing authorisation holders & competent authorities in Member States."
+        },
+        {
+          "num": "VI. Add I.3.2.",
+          "text": "Confirmation of duplicates cases\nUpon identification of potential duplicates, a manual confirmation will always be necessary. A well-\ndocumented case, including a case narrative, is a prerequisite to confirm if two cases are duplicates\nand it is of utmost importance that all stakeholders adhere to the principles set out in GVP Module VI,\nregarding data quality of individual case safety reports transmitted electronically and duplicate\nmanagement. This also applies for cases that are reportable in line with Directive 2001/20/EC.\nDirective 2001/83/EC, Articles 107a(3) and 107(5) require Member States and marketing authorisation\nholders, respectively, to collaborate with the Agency, and each other, in the detection of duplicates of\nsuspected adverse reaction reports. In addition GVP Module VI emphasises the need for marketing\nauthorisation holders and competent authorities in Member States to ensure the highest quality of the\nICSRs transmitted electronically to the EudraVigilance database within the correct time frames, and\nwhich enable the detection and management of duplicate ICSRs in their system. Those transmitted\nICSRs should be complete, entire and undiminished in their structure, format and content. Judgement\nwill always need to be applied especially for certain types of medicinal products and adverse reactions\nsuch as cases related to vaccines in ‘neonates/infants’ or widely used medicinal products amongst\n‘elderly’ patients (e.g. vaccine reports in a ‘neonate’ with an adverse reaction of ‘injection site\nEuropean Medicines Agency policy on access to EudraVigilance data for medicinal products for human use (EudraVigilance\nAccess Policy), revision 2\nreaction’, even if the dates of administration, primary source, medical history and concurrent drug\nfields match, one cannot be certain that reports are true duplicates as it is a common reaction possibly\nreported for many ‘neonates’ with similar history from the same clinic).\nPopulation of the ‘Linked reports’ section (ICH-E2B(R2) data field ‘A.1.12’)/ICH-E2B(R3) data field\n‘C.1.10.r’) with the numbers of other cases that are linked by a common element or elements, but are\ndistinct from one another, is a particularly effective method of enabling confirmation that cases are not\nduplicates of one another. Conversely, population of the ‘Report duplicates’ section (ICH-E2B(R2) data\nfield ‘A.1.11’/ ICH-E2B(R3) data field ‘C.1.9.1’) with all other reference numbers by which the case is\nknown is a particularly effective method of enabling detection and confirmation of duplicates.\nIf there is conflicting or limited information, which on first review does not allow determination that the\ncases are duplicates, additional information from the reporter or sender needs to be sought. It is\nrecommended to keep track of all duplicate investigations, also if cases are confirmed not to be\nduplicates.\nIf the individuality of cases cannot be confirmed without compromising legal expedited reporting\ntimelines, it is recommended to enter the potential duplicated case into the database as a valid case.\nHowever, investigations to confirm or clarify the information submitted should be continued. Once the\nindividual case is confirmed as a duplicate or otherwise, appropriate steps should be taken to manage\nthe duplicates as described in VI.Add I.4.."
+        },
+        {
+          "num": "VI. Add I.4.",
+          "text": "Management of duplicates cases\nDuplicate cases are generally managed through a process of merging two or more cases into one\nmaster case. This process can consist of one of the following approaches:\n The master case can either be based on one of the existing cases, with information from the other\nsubordinate duplicate cases added unless the same, or more precise, information is already\npresent in the master case (this is referred to in this document as “Allocation of a master case”),\nor;\n The master case can be created as a new case combining the information from the subordinate\nduplicate cases (this is referred to in this document as “Creation of a master case”).\nRegardless of the approach chosen, the master case should always contain all case reference numbers\nfrom all subordinate duplicate cases, such that they can be easily traced. The master case should\nreflect the most accurate and up-to-date information available to the organisation.\nBoth concepts are acceptable; however, whatever method chosen, the process should be well-\ndocumented. Proper record management should ensure that all received ICSRs for all individual cases\ncan be tracked adequately, including all information as reported by the primary sources, the reporters\nand the report senders. The ‘Date report was first received from source’and ‘Date of receipt of the\nmost recent information for this report’of the duplicates must remain unchanged unless new\ninformation is received.\nA challenge to be faced in duplicate management relates to situations where conflicting or divergent\ninformation is provided by different senders. Attempts should be made to obtain clarification. If this is\nnot possible, the case narrative should reflect information from both sources.\nThe master case should be a complete representation of the case, whereby all information should be\npresented in full compliance with ICH-E2B and the guidance provided in GVP Module VI. Regarding the\n‘Date report was first received from source’ (ICH-E2B(R2) ‘A.1.6’ or ICH-E2B(R3) ‘C.1.4’)\n‘Date of receipt of the most recent information for this report’ (ICH-E2B(R2) ‘A.1.7’ or ICH-E2B(R3) ‘C.1.5’)\nadverse reactions, one can choose to merge all reported reactions as presented in the duplicated cases\nin the master case. However, if the reactions reflect similar concepts, but one is more specific (e.g.\n‘liver injury’ versus ‘fulminant hepatitis’), one may choose the more specific term. Medical judgement\nshould always be applied in these and other decisions which are based on whether the extra specificity\nis clinically important. If there is conflicting information, it is not considered appropriate to reflect this\ntwice in the structured fields of the master case as this would impede calculation of cumulative doses.\nSince the completeness of the cases can vary (e.g. one case may have follow-up information clarifying\nand amending certain points, whereas the other simply has the initial information), the most accurate\ninformation should always be used.\nIt may, however, not be possible to determine which case is the most accurate and complete, and so\nin some cases, where it is necessary and possible and where a field has been populated differently in\nthe duplicate cases, either one value or another may be chosen, or an average be stated, with clear\nreference in the case narrative that there is conflicting information obtained from different sources and\nwhat the conflicting information is. It will not always be appropriate to do this, especially in cases of\nsuspected overdose or underdose, and medical judgement is always required in such cases.\nIf information has been populated in one case, but not in another, and there is no reason to believe\nthat the lack of such information is necessarily correct, then it is appropriate to add the extra\ninformation, e.g. case 1 has no concomitant medication, whereas case 2 has paracetamol as\nconcomitant medication; unless case 2 is the more recent case, and clearly states that the patient was\nnot, contrary to previous information, receiving paracetamol, then the paracetamol should be included\nas concomitant medication in the master case."
+        },
+        {
+          "num": "VI. Add I.4.1.",
+          "text": "Process of managing duplicates detected during periodic\nscreening\nConfirmed duplicates that have been detected after data entry are usually managed through a merging\nprocess. By merging cases, usually a master case is created in a database, which refers to the case\nchosen or created to represent the duplicated information. When creating a master case it is important\nto capture the case-identifiers and the sources of the duplicated cases in the ICH-E2B(R2) data field\n‘A.1.11’/ICH-E2B(R3) data field ‘C.1.9.1’."
+        },
+        {
+          "num": "VI. Add I.4.1.1.",
+          "text": "Allocation of a master case\nThe allocation of a master case refers to the procedure where one of the confirmed duplicate cases is\nallocated as the master case and retains its classification as a valid case. The master case should\nsupport all pharmacovigilance activities such as signal detection and medical review of ICSRs.\nThe allocation of a master case procedure necessitates the “invalidation/inactivation” of the\nsubordinate duplicates. This means that subordinate duplicate cases remain in the database for the\npurpose of audit trails, but will not be used for any other pharmacovigilance purpose. Figure VI. Add"
+        },
+        {
+          "num": "I.1.",
+          "text": "provides a pictorial representation of the allocation of a master case.\nFigure VI. Add I.1. The allocation of a master case when duplicates have been detected during periodic screening\nCase 1Case 2Case 1Case 1\nPatient APatient APatient APatient A\nEvent BCase 1Event BCase 2Case 1Event BEvent B\nReporter XPatient A Reporter YPatient AReporter XPatient ACase 2Reporter X\nEvent BEvent BEvent BPatient ACase 2Reporter Y\nReporter XReporter YReporter XEvent BPatient ACase 2 refs\nReporter YEvent B\nReporter Y\nCase 1 is allocated as the Master\nCase and Case 2 is invalidated.The information from Case 2 is\nCases 1 and 2 already exist in theThe file for Case 2 is incorporatedevaluated and, where necessary,\ndatabase.into the file for Case 1.incorporated into Case 1.\nOn periodic screening, they areThe file for Case 2 should contain aAny internal reference numbers\nidentified as duplicates of eachreference to this action and a linkallocated to Case 2 should be\nother.to the file for Case 1captured in Case 1.\nDuplicate Detection & confirmationDuplicate managementData validation and entry\nFollow-up information received for any of the subordinate duplicate cases will need to be evaluated\nand, incorporated into the master case unless the same, or more precise, information is already\npresent in the master case.\nThis concept is most suitable for:\n Organisations (e.g. marketing authorisation holders, regional pharmacovigilance centres) which\nmainly receive cases in non-ICH-E2B-format, and where manual data entry is performed for the\nmajority of the cases; and/or\n When the duplicate detection process is taking place at the time of data entry.\nThe Worldwide unique case identification number (ICH-E2B(R2) data field ‘A.1.10.1’ or ‘A.1.10.2’/ICH-\nE2B(R3) data field ‘C.1.8.1’) of the individual case that is allocated as the master case should be\nmaintained. The other subordinate duplicate case reference numbers should not be reused, but should\nbe recorded in the ‘Other case identifiers in previous transmissions’ (ICH-E2B(R2) data field\n‘A.1.11’/ICH-E2B(R3) data field ‘C.1.9.1’).\nWhen allocating the master case based on the identified duplicates either the case that was first\nreceived, the case that contains the most detailed information or the case that was already transmitted\nto external partners can be selected. If there is no significant new information (see GVP Module VI for\nclarification of significance regarding follow-up information), the master case does not need to be\ntransmitted to external partners (e.g. competent authorities in Member States, EMA). Case identifiers\nfrom previously transmitted cases should always be considered as significant new information,\nhowever case identifiers from non-transmitted cases need not be considered as significant new\ninformation.\nAll subordinate duplicate cases and related ICSRs should be retained and there should be adequate\ncross-referencing between case files and/or database entries.\nIf follow-up information is received for any of the duplicated cases, the master case should be updated\naccordingly."
+        },
+        {
+          "num": "VI. Add I.4.1.2.",
+          "text": "Creation of a master case\nThe Creation of a master case refers to the procedure where a master case is created with a new\nWorldwide Unique Case Identifier (ICH-E2B data field ‘A.1.10’), based on all the information contained\nin the subordinate duplicate cases. All of these subordinates are flagged as duplicates and linked to the\nmaster case and remain valid for the purposes of receiving follow-up information; only the master\ncase, will be used for pharmacovigilance activities such as signal detection and medical evaluation.\nIf there is no significant new information related to the case (see GVP Module VI for guidance on\nFollow-up information), the master case does not need to be transmitted to external partners (e.g.\ncompetent authorities in Member States, EMA). Figure VI. Add I.2. provides a pictorial representation\nof the Creation of a master case.\nFigure VI. Add I.2. The Creation of a master case when duplicates have been detected during periodic screening\nMaster Case\nPatient A\nCase 1Case 2Event B\nPatient APatient AMaster CaseReporter X\nEvent BCase 1Event BCase 2\nReporter Y\nReporter XPatient A Reporter YPatient ACase 1Case 2Case 1Case 2\nCase 1 refs\nEvent BEvent BPatient ACase 1Patient ACase 2Patient ACase 1Case 2 refsPatient ACase 2\nReporter XReporter YPatient AEvent BPatient AEvent BPatient AEvent BPatient AEvent B\nReporter XEvent BReporter YEvent BReporter XEvent BReporter YEvent B\nReporter XReporter YReporter XReporter Y\nCases 1 and 2 are flagged as\nduplicates and a Master Case isThe information from Cases 1 & 2 is\nCases 1 and 2 already exist in thecreated.evaluated and incorporated into the\ndatabase.A reference to this action and a linkMaster Case.\nOn periodic screening, they areto the file for the Master CaseAny internal reference numbers\nidentified as duplicates of eachshould be added to the files forallocated to Cases 1 & 2 should be\nother.Cases 1 & 2incorporated into the Master Case.\nDuplicate Detection & confirmationDuplicate managementData validation and entry\nIf follow-up information is received for any of the subordinate duplicated cases, they should be\nupdated automatically based on the newly obtained ICSRs. All new information should be evaluated\nand the master case manually updated accordingly.\nThis is the method employed in EudraVigilance.\nThis concept is most suitable for:\n Organisations (e.g. competent authorities in Member States, EMA), which mainly receive individual\ncases electronically in ICH-E2B-format from multiple Electronic Data Interchange (EDI) partners as\nit allows maintenance and traceability of all ICSRs as received originally from the Sender."
+        },
+        {
+          "num": "VI. Add I.4.2.",
+          "text": "Process maps and descriptions for allocation or creation of a\nmaster case\nA detailed description of the process flow for the Allocation or Creation of a master case based on\nduplicates existing in a database is presented in the flowchart in Figure VI. Add I.3..\nA detailed description of the process flow for the Allocation of a master case based on duplicates\ndetected at the time of data entry is presented in the flowchart in Figure VI. Add I.4.. This process\nrefers mainly to situations where a case has been reported on paper, and it has been identified as a\nduplicate of another case before any data has been entered in the local database.\nFigure VI. Add I.3. Business process map – allocating or creating a master case of duplicates existing in a\ndatabase\nSTART"
+        },
+        {
+          "num": "1.",
+          "text": "Run periodic duplicate\nscreening"
+        },
+        {
+          "num": "2.",
+          "text": "Potential\nno\nduplicateEND\nidentified?\nyes"
+        },
+        {
+          "num": "3.",
+          "text": "Validate potential duplicates"
+        },
+        {
+          "num": "4.",
+          "text": "Duplicateno4.1 Record absence of\nEND\nconfirmed?*duplicate\nyes"
+        },
+        {
+          "num": "5.",
+          "text": "Was at least oneyes5.1 How many>1\nof the cases submitted to ancases were submitted to\nEDI-partner?EDI-partner?\nno"
+        },
+        {
+          "num": "5.1.1",
+          "text": "Allocate or create Master5.1.2 Allocate or create"
+        },
+        {
+          "num": "6.",
+          "text": "Allocate or create Master\nCase based on the caseMaster Case based on most\nCase\nsubmitted to EDI-partnercomplete case"
+        },
+        {
+          "num": "7.",
+          "text": "Inactivate/Invalidate5.1.1.1 Inactivate/Invalidate5.1.2.1 Inactivate/Invalidate\nunderlying duplicates in ownunderlying duplicates in ownunderlying duplicates in own\ndatabase and include casedatabase and include casedatabase, include case\nidentifiers in Masteridentifiers in Masteridentifiers in Master and send\nnullifications for\ninactivated/invalidated\nunderlying duplicates to EDI\npartner\nno8. Does Master5.1.1.2 Does\nCase meet expeditedduplicate case contain\nreporting criteria?new information?\nyesyes no\nGo to Step 9\n9.Send Master Case to EDI\npartner\nEND\n* assessment is valid only at this point in time and can change upon receipt of new information.\nReceipt of new information should trigger a new check for duplicates\nTable VI. Add I.3. Process description – allocating or creating a master case of duplicates existing in a database\nStep Action"
+        },
+        {
+          "num": "1.",
+          "text": "Run periodic duplicate screening\nPeriodically search the database for potential duplicates.\nDatabases should be reviewed regularly to identify duplicates. It is best practice to perform\nthese reviews on a daily basis, to ensure timely identification of duplicates, and to prevent a\nlarge backlog of duplicates developing.\nIf receipt of cases is not a daily occurrence, then the database should be reviewed whenever\ncases have been received and processed."
+        },
+        {
+          "num": "2.",
+          "text": "Potential duplicate identified?\nIf no, end process\nIf yes, continue with Step 3"
+        },
+        {
+          "num": "3.",
+          "text": "Validate potential duplicates\nManually verify whether the automatically identified potential duplicates are actual\nduplicates."
+        },
+        {
+          "num": "4.",
+          "text": "Duplicate confirmed?\nIs the case a duplicate of a case that already exists in the database?\nThis decision is only valid at this point in time and must be based on the information\npresently available. The assessment of whether or not cases are duplicates of one another\ncan change upon receipt of new information. Receipt of new information should trigger a\nnew check for duplicates.\nIf it is not possible to be certain that cases are duplicates of one another, continue as\nthough they are not.\nIf no, continue with Step 4.1\nIf yes, continue with Step 5"
+        },
+        {
+          "num": "4.1",
+          "text": "Document absence of duplicate\nRecord the decision that this case is not a duplicate of the automatically identified potential\nduplicates, in order to avoid re-assessing these potential duplicate clusters during periodic\nduplicate screening.\nEnd process"
+        },
+        {
+          "num": "5.",
+          "text": "Was at least one of the cases submitted to an EDI-partner?\nWere any of the most recent versions of the cases in the duplicate cluster previously\nsubmitted to an EDI partner?\nIf yes continue with step 5.1\nIf no, continue with step 6."
+        },
+        {
+          "num": "5.1",
+          "text": "How many cases were submitted to EDI partner?\nHow many of the cases in the duplicate cluster were submitted to an EDI partner?\nStep Action\nIf only 1 of the cases was submitted, then base the master case on that one. If more than 1\ncase was submitted, then base the master case on one of those which was submitted.\nWhen allocating a case, the worldwide case safety ID (ICH-E2B(R2) data field ‘A.1.10.1’ or\n‘A.1.10.2’/ICH-E2B(R3) data field ‘C.1.8.1’) of the master case should be that of one of the\nsubmitted cases.\nIf only 1 case was submitted, continue with step 5.1.1\nIf more than 1 case was submitted, continue with step 5.1.2"
+        },
+        {
+          "num": "5.1.1",
+          "text": "Allocate or create master case based on the case submitted to EDI partner\nDepending on the method of duplicate management in the system, create or allocate a\nMaster case based on the case already submitted to an EDI partner. The Worldwide case\nsafety ID (ICH-E2B data field ‘A.1.10’) of the case already submitted to an EDI partner\nshould be retained, if possible."
+        },
+        {
+          "num": "5.1.1.1",
+          "text": "Inactivate/Invalidate the underlying duplicates in own database and include case identifiers\nin the master case\nAll underlying duplicates in the database should be inactivated, invalidated or otherwise\nmarked as part of a duplicate cluster. Case identifiers from the underlying duplicates should\nbe included in the duplicates section (ICH-E2B(R2) data field ‘A.1.11’/ICH-E2B(R3) data field\n‘C.1.9.1’) of the Master case.\nGo to Step 5.1.1.2."
+        },
+        {
+          "num": "5.1.1.2",
+          "text": "Does duplicate case contain significant new information?\nDo(es) the duplicate case(s) contain any significant new information as described in GVP\nModule VI?\nIf yes, go to step 9.\nIf no, end process."
+        },
+        {
+          "num": "5.1.2",
+          "text": "Allocate or create master case based on most complete case submitted to EDI partner\nDepending on the method of duplicate management in the system, create or allocate a\nMaster case based on the most-complete case already submitted to an EDI partner."
+        },
+        {
+          "num": "5.1.2.1",
+          "text": "Inactivate/Invalidate the underlying duplicates in own database, include case identifiers in\nMaster and send nullifications for inactivated underlying duplicates to EDI partner\nAll underlying duplicates in the database should be inactivated, invalidated or otherwise\nmarked as part of a duplicate cluster. Case identifiers from the underlying duplicates should\nbe included in the duplicates section (ICH-E2B(R2) data field ‘A.1.11’/ICH-E2B(R3) data field\n‘C.1.9.1’) of the Master case.\nFor the underlying duplicates that were created in your database, and have already been\ntransmitted to an EDI partner, nullification reports should be transmitted to the same EDI\npartner(s).\nSince at least 2 of these cases have been transmitted to an EDI partner, then the master\ncase will certainly contain new information relevant to case management for the EDI\nStep Action\npartner. Therefore, the master case should be transmitted.\nGo to Step 9."
+        },
+        {
+          "num": "6.",
+          "text": "Allocate or create master case based on most complete case\nDepending on the method of duplicate management in the system, create or allocate a\nMaster case based on the most-complete case."
+        },
+        {
+          "num": "7.",
+          "text": "Inactivate/Invalidate the underlying duplicates in own database and include case identifiers\nin Master\nAll underlying duplicates in the database should be inactivated, invalidated or otherwise\nmarked as part of a duplicate cluster. Case identifiers from the underlying duplicates should\nbe included in the duplicates section (ICH-E2B(R2) data field ‘A.1.11’/ICH-E2B(R3) data field\n‘C.1.9.1’) of the Master case."
+        },
+        {
+          "num": "8.",
+          "text": "Does Master meet expedited reporting criteria?\nDoes the Master case, now meet expedited reporting criteria or warrant transmission to an\nEDI partner?\nIf no, end process\nIf yes, continue with step 9."
+        },
+        {
+          "num": "9.",
+          "text": "Send Master report to EDI partner\nSend the Master case to the relevant EDI partners.\nIf one, or more, of the cases has already been transmitted to an EDI partner, then the\nMaster case should be transmitted to those same EDI partners*.\nIf the cases merged under a Master case were transmitted to the receiving database by\nmore than one EDI partner, then the information that the receiving organisation considers\nthese cases to be duplicates does not need to be shared with the transmitting EDI partners.\n* If the original case was sent to an NCA before 22 Nov 2017 and the latest version is to be\nsent on or after 22 Nov 2017, then you should send it to EudraVigilance and not to the NCA.\nEnd\nFigure VI. Add I.4. Business process map – managing duplicates at the time of data entry\nSTART"
+        },
+        {
+          "num": "1.",
+          "text": "Check for duplicate at\ntime of data entry\n2.2.\n2.1"
+        },
+        {
+          "num": "2.",
+          "text": "PotentialnoDoes caseno\nContinue\nduplicatemeet expedited reportingEND\nto create\nidentified?criteria?\nnew case\nyesyes"
+        },
+        {
+          "num": "3.",
+          "text": "Validate potentialContinue\nduplicatewith step 9\nno4.1 Record"
+        },
+        {
+          "num": "4.",
+          "text": "Duplicate\nabsence of\nconfirmed?*\nduplicate\nGo to step 2.1\nyes"
+        },
+        {
+          "num": "5.1",
+          "text": "Record the fact that a"
+        },
+        {
+          "num": "5.",
+          "text": "Is there anyno duplicate case has been received\nEND\nnew information?that does not contain any new\ninformation\nyes"
+        },
+        {
+          "num": "6.",
+          "text": "Isno 6.1 Add\nexisting case part ofinformation to\nduplicate cluster?existing case\nyes"
+        },
+        {
+          "num": "7.",
+          "text": "Add new information to\nMaster Case and, if\nnecessary, to relevant\nunderlying duplicate case\nno8. Does the new\ninformation warrant a\nfollow-up report?\nyes\n9.Send (Master) report\nto EDI partner\nEND\n*assessment is valid only at this point in time and can change upon receipt of new\ninformation. Receipt of new information should trigger a new check for duplicates\nAll of the steps in this flowchart assume that preliminary data entry on the newly-arrived data has been performed, and a new case\nhas therefore been created. If duplicate detection is performed prior to the creation of a new case, then one should consider the\n“potential duplicate” referred to in steps 2, 3 & 4 to be an “existing case” and, in Step 5.1, the arrival of a follow-up with no new\ninformation should not be captured in the duplicates section (ICH-E2B(R2) data field ‘A.1.11’/ICH-E2B(R3) data field ‘C.1.9.1’), but\nin another relevant field in one’s pharmacovigilance database.\nTable VI. Add I.4. Process description – managing duplicates at the time of data entry\nStep Action"
+        },
+        {
+          "num": "1.",
+          "text": "Check for duplicate at time of data entry\nDuring data entry, search your database for potential duplicates."
+        },
+        {
+          "num": "2.",
+          "text": "Potential duplicate identified?\nIf no, continue with Step 2.1\nIf yes, continue with Step 3"
+        },
+        {
+          "num": "2.1",
+          "text": "Continue to create new case"
+        },
+        {
+          "num": "2.2",
+          "text": "Does case meet expedited reporting criteria?\nIf no, end process.\nIf yes, continue with Step 9"
+        },
+        {
+          "num": "3.",
+          "text": "Validate potential duplicate\nManually verify whether the automatically identified potential duplicates are actual duplicates"
+        },
+        {
+          "num": "4.",
+          "text": "Duplicate confirmed?\nIs the case a duplicate of a case that already exists in your database?\nThis decision is only valid at this point in time and must be based on the information presently\navailable. The assessment of whether or not cases are duplicates of one another can change\nupon receipt of new information. Receipt of new information should trigger a new check for\nduplicates.\nIf you cannot be certain that cases are duplicates of one another, you should continue as\nthough they are not.\nIf no, continue with Step 4.1\nIf yes, continue with Step 5"
+        },
+        {
+          "num": "4.1",
+          "text": "Record absence of duplicate\nRecord the decision that this case is not a duplicate of the automatically-identified potential\nduplicates, in order to avoid re-assessing these potential duplicate clusters during periodic\nduplicate screening.\nThis step may not be relevant depending on the systems available and the volume of data\nprocessed by the organisation.\nGo to Step 2.1"
+        },
+        {
+          "num": "5.",
+          "text": "Is there any new information?\nDo(es) the duplicate(s) contain any new information that you do not currently hold?\nIf no, continue with step 5.1\nIf yes, continue with step 6."
+        },
+        {
+          "num": "5.1",
+          "text": "Record the fact that a duplicate case has been received that does not contain any new\ninformation\nStep Action\nThis information should be captured in the duplicates section (ICH-E2B(R2) data field\n‘A.1.11’/ICH-E2B(R3) data field ‘C.1.9.1’) and also the case narrative (ICH-E2B(R2) data field\n‘B.5.1’/ICH-E2B(R3) data field ‘H.5.r.1a’) of the existing case.\nIf the date that the most recent information for the duplicate case was received is different to\nthat of the master case, this may be recorded in the case, but it should not be recorded in the\n‘Date of receipt of the most recent information for this report’ (ICH-E2B(R2) data field\n‘A.1.7b’/ICH-E2B(R3) data field ‘C.1.5’)\nEnd process"
+        },
+        {
+          "num": "6.",
+          "text": "Is existing case part of duplicate cluster?\nIs the existing case already part of a duplicate cluster?\nIf no, continue with step 6.1\nIf yes, continue with step 7."
+        },
+        {
+          "num": "6.1",
+          "text": "Add information to existing case\nAdd the new information to the existing case as follow-up information.\nContinue with Step 8."
+        },
+        {
+          "num": "7.",
+          "text": "Add new information to Master case and, if necessary, to relevant underlying duplicate case\nAdd the new information to the master case and, if necessary, also add it to the relevant\nunderlying duplicate case."
+        },
+        {
+          "num": "8.",
+          "text": "Does the new information warrant a follow-up report?\nIn line with GVP Module VI. Follow-up information, the sender should report follow-up\ninformation on an expedited basis if significant new medical information has been received or\nwhere new administrative information is available that could impact on the case management,\ne.g. new case identifiers have become known or additional documents which may be relevant\nfor the medical assessment of the case have become available to the sender.\nIf the master case with new information added would not normally be reportable e.g. if it is\nnow downgraded to non-serious, this should still be reported\nIf yes, continue with step 9\nIf no, end process."
+        },
+        {
+          "num": "9.",
+          "text": "Send (Master) report to EDI partner\nSend the latest version of the case, or, if applicable, the master case, to the relevant EDI\npartners.\nIf the original case was sent to an NCA before 22 Nov 2017 and the latest version is to be\nsent on or after 22 Nov 2017, then you should send it to EudraVigilance and not to the NCA.\nEnd"
+        },
+        {
+          "num": "VI. Add I.4.3.",
+          "text": "Sending nullifications\nGVP Module VI contains detailed guidance on the sending of nullifications, and should be taken into\naccount when performing this task. Specifically, the following scenario and applicable action are\npresented, if all the duplicates originate from the same sender:\nTable VI. Add I.5. Actions to take when duplicates are identified\nScenario Action\nAn individual caseOne of the individual cases should be nullified. The remaining valid case should\nhas been identifiedbe updated with any additional information as relevant to the nullified case.\nas a duplicate of\nNOTE: In case of duplicate reports where one report needs to be nullified, the\nanother individual\nupdate of the remaining case should be performed in the form of a follow-up\ncase previously\nreport. Information on the identification of the nullified case(s) should be\nsubmitted by the\nprovided (ICH-E2B(R2) data field ‘A.1.11’/ICH-E2B(R3) data field ‘C.1.11’).\nsame sender."
+        },
+        {
+          "num": "VI. Add I.4.4.",
+          "text": "Duplicates received from the same sender organisation\nIf cases in a duplicate cluster are received from the same sender, the sender organisation should be\nnotified about the identified duplicates. If the sender organisation agrees that the cases are duplicates,\nthe sender organisation should proceed as indicated in VI.Add I.4., merging the cases and sending a\nnullification report for the other duplicate case(s) as applicable to the receiver(s).\nThe sender organisation should be distinguished from the primary source (the person who is reporting the facts). For the\npurpose of this document the sender organisation relates to the applicant, marketing authorisation holder, sponsor or the\nnational competent authority (including regional pharmacovigilance centres)."
+        }
+      ]
+    }
+  ],
+  "_cleanedBy": "heuristic",
+  "sourceUrl": "https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/guideline-good-pharmacovigilance-practices-gvp-module-vi-addendum-i-duplicate-management-suspected-adverse-reaction-reports_en.pdf",
+  "id": "GVP-Module-VI-Addendum-I-Duplicate-management-of-suspected-a",
+  "sourceTitle": "",
+  "rawFile": "ema/guideline-good-pharmacovigilance-practices-gvp-module-vi-addendum-i-duplicate-ma.md",
+  "updatedAt": "2026-08-18T13:17:58.063Z",
+  "articleCount": 60
+}

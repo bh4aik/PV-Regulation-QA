@@ -1,0 +1,29 @@
+{
+  "title": "GVP – Annex II: Templates – Direct Healthcare Professional Communication (DHPC) (Rev 1)",
+  "shortTitle": "GVP Annex II DHPC Template",
+  "documentNumber": "",
+  "issuingAuthority": "",
+  "issueDate": "",
+  "effectiveDate": "",
+  "status": "现行有效",
+  "category": "指南",
+  "country": "欧盟",
+  "chapters": [
+    {
+      "title": "",
+      "articles": [
+        {
+          "num": "",
+          "text": "9 October 2017\nAnnex II – Templates: Direct Healthcare Professional Communication (DHPC)\n(Rev 1)\nDate for coming into effect of first version 24 January 2013\nDraft Revision 1* finalised by the Agency in collaboration with Member States 17 November 2015\nDraft Revision 1 agreed by the European Risk Management Facilitation Group24 November 2015\n(ERMS FG)\nDraft Revision 1 adopted by Executive Director 8 December 2015\nRelease for consultation 15 December 2015\nEnd of consultation (deadline for comments) 29 February 2016\nRevised draft Revision 1 finalised by the Agency in collaboration with Member27 September 2017\nStates\nRevised draft Revision 1 agreed by the EU Network Pharmacovigilance4 October 2017\nOversight Group (EU-POG)\nRevised draft Revision 1 adopted by Executive Director as final 9 October 2017\nDate for coming into effect of Revision 1* 13 October 2017\n*Note: Revision 1 contains the following:\n- Revision in the light of experience (see EMA/118465/2012 Rev 1* - Track-change version following\npublic consultation for marked changes).\nNote: This template should also be used for the preparation of a core EU DHPC (see GVP Module XV\nXV.C.2.1.).\nSee websites for contact details\nEuropean Medicines Agency www.ema.europa.euThe European Medicines Agency is\nHeads of Medicines Agencies www.hma.eu an agency of the European Union\n© European Medicines Agency and Heads of Medicines Agencies, 2017.\nReproduction is authorised provided the source is acknowledged.\n\n<Date>\n<Active substance, name of medicinal product and main message (e.g.\nintroduction of a warning or a contraindication)>\nDear Healthcare professional,\n<Name of marketing authorisation holder> in agreement with <the European Medicines Agency> and\nthe <National Competent Authority > would like to inform you of the following:\nSummary\nGuidance: This section should be in bold/larger font size than the other sections of the DHPC and\npreferably in bullet points.\n• <Brief description of the safety concern in the context of the therapeutic indication,\nrecommendations for risk minimisation (e.g. contraindications, warnings, precautions of use) and,\nif applicable, switch to alternative treatment>\n• <Recall information, if applicable, including level (pharmacy or patient) and date of recall>\nBackground on the safety concern\nGuidance: This section may include the following information:\n<Brief description of the therapeutic indication of the medicinal product>\n<Important details about the safety concern (adverse reaction, seriousness, statement on the\nsuspected causal relationship, and, if known, the pharmacodynamic mechanism, temporal relationship,\npositive re-challenge or de-challenge, risk factors)>\n<An estimation of the frequency of the adverse reaction or reporting rates with estimated patient\nexposure>\n<A statement indicating any association between the adverse reaction and off-label use, if applicable>\n<If applicable, details on the recommendations for risk minimisation>\n<A statement if the product information is to be or has been revised, including a description of the\nchanges made or proposed> Guidance: No need however to include or attach the precise (translated)\ntext of the product information which, at the time of dissemination of the DHPC may not be available\nas final approved translations)\n<Place of the risk in the context of the benefit>\n<The reason for disseminating the DHPC at this point in time>\n<Any evidence supporting the recommendation (e.g. include citation(s) of key study/ies)>\n<A statement on any previous DHPCs related to the current safety concern that have recently been\ndisseminated>\n<Any schedule for follow-up action(s) by the marketing authorisation holder/competent authority, if\napplicable>\nGuideline on Good Pharmacovigilance Practices (GVP) Annex II - DHPC (Rev 1)\n\nCall for reporting\n<A reminder of the need and how to report adverse reactions in accordance with the national\nspontaneous reporting system, including the details (e.g. name, postal address, fax number, website\naddress) on how to access the national spontaneous reporting system>\n<For biological medicinal products, also include a reminder to report the product name and batch\ndetails>.\n<Mention if product is subject to additional monitoring and the reason why>\nCompany contact point\n<Contact point details for access to further information, including relevant website address(es),\ntelephone numbers and a postal address>\nAnnexes (if applicable)\n<Link/reference to other available relevant information, such as information on the website of a\ncompetent authority>\n<Additional scientific information, if applicable>\n<List of literature references, if applicable>\nGuideline on Good Pharmacovigilance Practices (GVP) Annex II - DHPC (Rev 1)"
+        }
+      ]
+    }
+  ],
+  "_cleanedBy": "heuristic",
+  "sourceUrl": "https://www.ema.europa.eu/en/documents/template-form/guideline-good-pharmacovigilance-practices-annex-ii-templates-direct-healthcare-professional-communication-dhpc-rev-1_en.pdf",
+  "id": "GVP-Annex-II-Templates-Direct-Healthcare-Professional-Commun",
+  "sourceTitle": "",
+  "rawFile": "ema/guideline-good-pharmacovigilance-practices-annex-ii-templates-direct-healthcare-.md",
+  "updatedAt": "2026-08-18T13:17:58.059Z",
+  "articleCount": 1
+}

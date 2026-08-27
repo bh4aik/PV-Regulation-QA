@@ -1,0 +1,302 @@
+{
+  "title": "GVP Module XVI – Addendum II: Methods for evaluating the effectiveness of risk minimisation measures",
+  "shortTitle": "GVP Module XVI Addendum II",
+  "documentNumber": "",
+  "issuingAuthority": "",
+  "issueDate": "",
+  "effectiveDate": "",
+  "status": "现行有效",
+  "category": "指南",
+  "country": "欧盟",
+  "chapters": [
+    {
+      "title": "26 July 202",
+      "articles": [
+        {
+          "num": "XVI.Add.II.1.",
+          "text": "Introduction\nThis Addendum to GVP Module XVI provides additional guidance to be followed by marketing\nauthorisation holders and competent authorities on data sources and methods for monitoring\noutcomes of risk minimisation measures (RMM) in line with the guidance on RMM effectiveness\nevaluation in GVP Module XVI. Depending on the intended outcomes of RMM, studies evaluating\nRMM effectiveness may integrate different qualitative and quantitative measurements and\nresearch approaches (including mixed methods) to evaluate outcomes of RMM described in GVP\nModule XVI. Dissemination, risk knowledge, behavioural and health outcomes may be considered,\nand in this respect the guidance on objectives of RMM effectiveness studies in GVP Module XVI\nshould be followed. The Addendum also provides guidance on the reporting of the results of RMM\neffectiveness studies.\nThe ENCePP Guide on Methodological Standards in Pharmacoepidemiology should be considered\nfor further methodological guidance, and the Guidelines for Good Pharmacoepidemiology Practices\nof the International Society of Pharmacoepidemiology may provide additional guidance."
+        },
+        {
+          "num": "XVI.Add.II.2.",
+          "text": "Data sources\nDepending on the context and objectives of RMM effectiveness evaluation, primary data may be\nspecifically generated to evaluate effectiveness, or secondary (pre-existing) data originally\ncollected for other purposes may be used. Applying qualitative, survey or pharmacoepidemiological\nmethods (see XVI.Add.II.3.) requires different data sources. The ENCePP Guide on Methodological\nStandards in Pharmacoepidemiology provides further guidance on approaches to data collection.\nFor pharmacoepidemiological studies, relevant information on clinical actions including prescribing\nbehaviour and health outcomes may be extracted from routinely collected data in electronic\nhealthcare databases of (electronic) medical records, registries, or administrative claims records,\nfor secondary data analyses (1–3). Suitable electronic healthcare databases are described in the\nliterature (4) or may be identified from the HMA-EMA Catalogue of Real-World Data Sources,\nwhich is a publicly available tool. Medical records do not usually capture whether the prescribed\nmedicine has actually been taken, a limitation which applies to all secondary healthcare data\ncollected for a different purpose, as well as for administrative claims data (see XVI.Add.II.2.5. ).\nDatabases of spontaneous reports of suspected adverse reactions are a further source for\npharmacoepidemiological studies.\nhttps://encepp.europa.eu/encepp-tools/methodological-guide_en\nhttps://www.pharmacoepi.org/resources/policies/guidelines-08027/\nhttps://encepp.europa.eu/encepp-tools/methodological-guide_en\nhttps://catalogues.ema.europa.eu/"
+        },
+        {
+          "num": "XVI.Add.II.2.1.",
+          "text": "Data sources for qualitative research\nCommon data sources for qualitative research in healthcare are interviews, focus groups and\ndifferent existing types of documentations (e.g. media reports or clinical guidelines). These data\nsources may contain information about cognitive processes and experiences of patients and\nhealthcare professionals that provide in-depth understanding of the reasons for RMM achieving (or\nnot) the intended outcomes.\nThe type of documentation to use as data source for understanding perception and information\nneeds in certain patient or healthcare professional populations may be determined by their media\npreferences. Preferences for e.g. news, social or scientific media can be identified through\nqualitative or quantitative media research.\nThe recruitment of participants in focus groups or interviews, and the selection of documentation is\naimed at saturation of data, i.e. all viewpoints, experiences, and suggestions prevalent in the\nconcerned patient or healthcare professional population(s) are collected and the collated data\nprovide for a robust understanding of the cognitive processes and experiences that are typical in\nthe population of interest. This includes covering less common views or needs of sub-populations\nof patients and healthcare professionals. Therefore, diverse participants should be selected to\nprovide in-depth insights. Appropriate sampling is a key requirement to obtain relevant\ninformation and to minimise bias. The sampling strategy’s target is relevance and\nrepresentativeness of the information to be collected, and various strategies can be applied:\nrepresentative sampling in relation to certain criteria describing the population of interest,\noversampling of specific subpopulations or complete sampling to include all concerned people\nwithin a defined region or timeframe, or step-by-step sampling to identify all themes or investigate\nemerging themes more in depth (5–7). Alternatively, purposive sampling is a non-random method\nwhere researchers use their expertise to identify and select participants who provide information-\nrich cases, making best use of available resources (8). However, where the sampling strategy\nleads to non-representative sampling, the results need to be interpreted in a qualitative setting,"
+        },
+        {
+          "num": "i.e.",
+          "text": "they cannot be interpreted like the results of a representative study. Finally, the appropriate\nsampling strategy should be adapted to the diversity of the patient or healthcare professional\npopulation of interest and recruit also those who may be less proactive to participate in such\nresearch.\nData collection through interviews or focus groups should preferably use open questions and can\nbe conducted with variable degrees of structure, depending on the study objective and the\navailable evidence on the topic to be studied (9–11). Studies should be conducted to standards\nthat avoid response bias, e.g. where questionnaires or semi-structured interview guides are used,\nthese should be validated, and interviewers should be experienced."
+        },
+        {
+          "num": "XVI.Add.II.2.2.",
+          "text": "Surveys\nSurveys are a method to collect primary data from a sample of a population and typically apply a\nstandardised questionnaire through in-person interviews or options for self-reporting with postal\nmailings or electronic communication (e.g. open-source web applications). These may be\nsupported by audio computer-assisted self-interviewing (A-CASI) tools or interactive voice\nresponse systems (IVRS). The choice of the most suitable data collection approach will depend on\nthe target population characteristics, the disease and the treatment characteristics, and the type\nof information to be collected.\nFor a healthcare professional survey, participants may be recruited from web panels and member\nlists of professional or learned societies. For patient recruitment, prescribers or pharmacists may\nbe best placed to identify patients in the relevant clinical setting, and existing web panels as well\nas e.g. member lists of patient organisations may be considered.\nValidated health measurement instruments (e.g. self-reported questionnaires or diaries running on\ninterfaces such as hand-held devices or computers) may collect patient-reported outcome\nmeasures (PROM) and patient-reported experience measures (PREM)."
+        },
+        {
+          "num": "XVI.Add.II.2.3.",
+          "text": "Registries\nPatient or disease registries as defined in the Guideline on Registry-Based Studies may play an\nimportant role for evaluating the effectiveness of RMM by monitoring the use of medicines or\nhealth services, thus collecting data relevant to determine behavioural or health outcomes.\nBehaviours relevant to RMM include e.g. changes in prescribing patterns, usage of diagnostic tests\nidentifying risk factors for adverse reactions or attending teratogenic risk counselling. Registries\nmay be beneficial for collecting data for specific populations such as patients with rare diseases,\npatients who require highly specialised healthcare interventions, or pregnant women. Some\nregistries collect additional information, such as lifestyle factors, smoking, alcohol use, nutrition,\nand weight, which may be risk factors for certain adverse reactions and therefore be useful for\nRMM effectiveness evaluation.\nThe financial and administrative burden and time effort for setting up tailor-made registries may\nlimit their use solely for RMM effectiveness evaluation and access to existing registries for\nsecondary data analysis may be preferable. Important limitations to be considered are voluntary\npatient enrolment which may affect accrual rates and introduce selection bias, data quality issues\nor missing data (12,13).\nA registry-based evaluation of the effectiveness of RMM should follow the Guideline on Registry-\nBased Studies."
+        },
+        {
+          "num": "XVI.Add.II.2.4.",
+          "text": "Medical records\nElectronic medical records may be considered for effectiveness evaluation of RMM in primary care\n(general practitioner and community services) and/or secondary care (hospitals and specialists)\n(4) for their rich clinical details such as diagnoses, procedures, laboratory values and health\nhttps://www.ema.europa.eu/en/guideline-registry-based-studies-scientific-guideline\nhttps://www.ema.europa.eu/en/guideline-registry-based-studies-scientific-guideline\noutcomes. Medical records are a suitable source for measuring changes in prescribing behaviour,\nbut the feasibility of obtaining and measuring health outcomes in electronic medical records largely\ndepends on the type of outcome, the seriousness of the adverse event and coding practices, e.g.\nfor laboratory test results.\nWhere relevant outcome variables are not routinely collected, complementary primary data\ncollection may be considered, although this solicited approach may introduce different types of\nbias depending on the methodology."
+        },
+        {
+          "num": "XVI.Add.II.2.5.",
+          "text": "Administrative claims\nAdministrative claims data are generated by healthcare systems for insurance purposes and cover\nthe entire population or a subset of insured patients. Claims data usually capture information from\nall healthcare professionals for insured patients and are normally well suited for drug utilisation\nstudies as they record prescriptions at the time of dispensing, i.e. they record that the patient has\nobtained the medicine.\nDifferent reimbursement policies between countries and policy changes over time may impact the\ndata source’s suitability for evaluating RMM effectiveness. A major limitation of administrative\nclaims data is that information not relevant for billing purposes is not documented, such as\nlaboratory values, results of imaging and other diagnostic procedures, prescriptions not submitted\nor not eligible for reimbursement, and self-medication."
+        },
+        {
+          "num": "XVI.Add.II.2.6.",
+          "text": "Healthcare record linkage\nHealthcare record linkage systems bring together information from multiple data sources at the\nlevel of individual patients, expanding data that is not captured in the initial data source. For\nexample, dispensing data may be linked to cancer- or other registries. Data linkage is regulated at\nnational level to ensure ethical standards and data protection regulation are adhered to which\nmay restrict record linkage."
+        },
+        {
+          "num": "XVI.Add.II.2.7.",
+          "text": "Spontaneous reporting systems\nInterpreting data from spontaneous reporting systems of suspected adverse reactions for the\npurpose of RMM effectiveness evaluation needs to consider:\n• General underreporting of suspected adverse reactions;\n• Increased risk awareness due to the RMM or other sources of information (e.g. national\ninformation campaign) possibly leading to increased reporting;\n• Weber effect, which describes a frequently seen decline in reporting once an adverse reaction\nof a medicinal product becomes well-known (14); and\nRegulation (EU) 2016/679 of the European Parliament and of the Council on the protection of natural persons with regard\nto the processing of personal data and on the free movement of such data (General Data Protection Regulation)\n• Lack of precise data on the exposure to medicinal products for calculating reporting rates.\nTherefore, only comparing trends in spontaneous reporting of suspected adverse reactions for the\nmedicinal product or product class of interest with products used as therapeutic alternatives is not\nconsidered adequate for demonstrating RMM effectiveness. However, comparing reporting rates of\na specific suspected adverse reaction over time may be useful for RMM evaluation in specific\nsituations. An example of such situation is where the continued spontaneous reporting of a serious\nadverse reaction with a specifically severe outcome (e.g. adverse pregnancy outcome) supports\nthe evidence from non-interventional studies which indicates that the RMM may not be effective\n(see XVI.Add.II.3.3. ). Spontaneous reporting may also be useful to identify risk factors for\nadverse reactions in relation to how medicines are used, e.g. in the context of medication errors.\nDespite limitations, monitoring trends of spontaneous reporting rates for specific suspected\nadverse reaction over time (e.g. in annual reports) maybe useful and can under certain\ncircumstances be agreed with the competent authority, e.g. in situations where non-interventional\nstudies are not feasible."
+        },
+        {
+          "num": "XVI.Add.II.2.8.",
+          "text": "Factors influencing the choice of data source(s)\nThe choice of data source(s) for RMM effectiveness studies should be determined by the following\nfactors to ensure study objectives are feasible:\n• Scope and research question: Good understanding of eligible data sources to verify whether\nkey variables and information required to answer the research question are available for\nsecondary use of routinely collected healthcare data, given that this data collection was not\ndesigned to answer the research question. The data source’s strengths and limitations should\nbe considered in the study design.\n• Accessibility of data sources: Access and conditions for collaboration with data source owners\nshould be clarified.\n• Information on exposure and outcome: The validity of information on exposure and outcome\ndata should be verified.\n• Availability and timeliness: Pre-existing healthcare data is more likely to be readily available\nfor analysis compared to primary data collection, and timelines for the entire process from\ndata delivery to availability of secondary use data including lag times should be considered.\nAlso, the periodicity of refresh of the database over time may be a limitation. Low exposure in\nthe period following product launch in healthcare may pose challenges to recruitment of study\nparticipants in primary data collection, and to detect e.g. changes in prescribing trends based\non secondary use data.\n• Prevalence of outcomes of interest: Routinely collected data tends to have large sample sizes\nwhich may be relevant for rare exposures and rare outcomes.\n• Observation period: For detecting changes over time or delayed effects of RMM, data must be\ncollected over a sufficiently long period of time to ensure RMM dissemination and\nimplementation at healthcare level has happened. As the complete medical history may not be\navailable in databases, the extent of left and/or right truncation should be considered, e.g. if\nno information is available outside of the respective insurance period in the case of claims\ndata.\n• Representativeness of the study population: The representativeness of the study population for\nthe entire population should be assessed. For example, where claims databases are used, the\npopulation with a specific health insurance may be inherently different to the entire population,\nwhich may introduce bias. Survey studies are prone to selection bias that may affect the\ngeneralisability of results. The approach to RMM effectiveness evaluation includes evaluating\nintended outcomes of RMM and, as appropriate, unintended outcomes associated with the use\nof the concerned and other medicinal products (see GVP Module XVI, Figure XVI.). Where\nunintended outcomes are evaluated, the study population should preferably not be limited to\nthe population targeted by the RMM for the concerned medicinal product and expanded to\ninclude populations where unintended outcomes (see GVP Module XVI, Table XVI.) may be\nexpected.\n• Completeness of the data: The amount of missing or incomplete variables should be\nconsidered where data was initially collected for a purpose different from the research\nquestion, e.g. indication of medicines use, co-morbidities, co-medication, patient monitoring,\nsmoking, diet, body mass index or family history of disease.\nThe ENCePP Guide on Methodological Standards in Pharmacoepidemiology provides further\nguidance on assessing study feasibility."
+        },
+        {
+          "num": "XVI.Add.II.3.",
+          "text": "Research methods\nFigure XVI.Add.II.. shows relevant methods and study designs for evaluating the effectiveness of\nRMM, considering each step of the RMM implementation pathway. Effectiveness evaluation includes\nmeasuring intended outcomes of RMM (i.e. product-specific targeted effects) and as appropriate,\nother relevant outcomes (i.e. non-targeted effects) associated with the use of the concerned and\nother medicinal products that may counteract the effectiveness of RMM under evaluation (see GVP\nModule XVI, Figure XVI..).\nImplementation metrics are useful to determine the extent of RMM implementation as planned and\ndepend on the nature of the RMM. Measures of dissemination and receipt of information and RMM\nmaterials are used to ascertain delivery to and receipt by the target audience. Quantitative\nmethods may be applied to assess the implementation and impact of RMM at each implementation\nstep. Qualitative methods assess the context of RMM effectiveness and help determining enablers\nand barriers in terms of user acceptance and integration of RMM in healthcare systems.\nhttps://encepp.europa.eu/encepp-tools/methodological-guide_en\nFigure XVI.Add.II.: Approach to RMM effectiveness evaluation showing examples of quantitative\nand qualitative methods at each step of the RMM implementation pathway\nNote: Medicinal product-specific targeted effects and, as appropriate, relevant non-targeted effects associated\nwith the use of the concerned (blue boxes) and other medicinal products (white boxes) may be measured."
+        },
+        {
+          "num": "XVI.Add.II.3.1.",
+          "text": "Qualitative methods\nQualitative research plays a distinctive role in evaluating healthcare interventions (15), especially\non issues not yet well understood (9,10). It can study cognitive processes and experiences in their\nnatural setting, such as knowledge, risk awareness, trust, reasoning processes and attitudes about\nmedicines, communication needs and preferences, and experiences of using medicines in real life.\nFactors that may be enablers and barriers for implementing RMM in healthcare and achieving\nbehavioural change can be identified through qualitative research. These factors include those\nrelating to the interaction between humans and systems elements, as investigated by human\nfactors discipline for enhancing safety and reducing adverse incidences and human error (16–18).\nQualitative studies may generate concepts or hypothesis to be further investigated through\nquantitative research and inform protocols, sampling strategies and measurement tools for\nquantitative studies. Qualitative studies may also explore explanations and reasons for results\nfrom quantitative research (19) and identify reasons other than the RMM leading to the outcomes\nof interest.\nHuman factors research methods include human factors failure modes and effects analysis (FMEA),\nperception/cognition/action (PCA) analysis, root cause analysis (RCA) and fault tree analysis (FTA) and are frequently used\nto evaluate the risk of medication errors in line with the PRAC Good Practice Guide on Risk Minimisation and Prevention of\nMedication Errors (accessible at ema.europa.eu).\nAmong the various possible study designs (20), the following are well-established and particularly\nrelevant for evaluating RMM:\n• Interpretative phenomenological study: Investigates a phenomenon in the real-world context\n(21), e.g. the cognitive process or experience of patients and healthcare professionals with\ndisease, medicines use and RMM, including related media behaviours, communication needs\nand preferences (22).\n• Grounded theory study: Aims at developing concepts that are grounded in the data and\nsubsequently formulates - through an iterative and comparative process - a well-grounded\ntheory on a cognitive process or experience, e.g. to explore existing knowledge and beliefs in\ncontext of health communication (6,23–25).\n• Mixed methods study: Combines qualitative with quantitative methods to benefit from the\nstrengths of each, typically using multiple data sources, perspectives and data analysis\nmethods, for example in an approach called triangulation (5–7).\n• Case study: Intends to gain an in-depth understanding of a unique event in its complexity,\napplying qualitative, quantitative or mixed methods data and analysis, e.g. for understanding\nexperiences of patients and healthcare professionals with RMM for a specific medicinal product,\na specific RMM tool or RMM implementation in specific healthcare settings (26,27).\n• Action research study: Evaluates ongoing implementation of an action in a participatory\napproach (6,28), e.g. the implementation of a RMM in healthcare with active research\nparticipation of patients and healthcare professionals.\nQualitative studies should be designed for rigour, and tools for assessing their quality are\nencouraged to be used, in order for the studies to serve as evidence for evaluation and decision-\nmaking on RMM (10,19,29,30)."
+        },
+        {
+          "num": "XVI.Add.II.3.2.",
+          "text": "Survey methods\nA survey may be conducted to evaluate dissemination of RMM tools, risk knowledge and\nbehavioural outcomes, provided adequate survey methodology is applied.\nSampling and recruitment of survey participants should ensure that the study population is similar\nto and hence representative of the target population and avoid selection bias due to dissimilarity in\none or several relevant aspects. For example, where marketing authorisation holders rely on\nprescribers to recruit patients, efforts should be made to mitigate the potential for selection bias\nintroduced by e.g. another source for recruiting patients. Selection bias may also occur if web-\nbased survey technology that excludes participants less familiar with internet technology is used.\nBias may be minimised by selecting the optimal sampling frame, accounting for the expected\nresponse rate, age, sex, geographical distribution, and additional characteristics of the study\npopulation, and by achieving similar response rates across diverse participants to minimise non-\nresponse bias. As response rates in health surveys are generally low, continuous sampling may be\nnecessary until the pre-defined sample size has been met, and additional measures that improve\nresponse rates (31) may be considered.\nBias may also be minimised by assuring that the sample contains appropriate diversity to allow\nstratification of results by key population characteristics (e.g. by oversampling a small but\nimportant subgroup). For example, in a physician survey, the sampling strategy should consider\nwhether a general random sample would be sufficient, or if the sampling frame should be stratified\nby key characteristics such as specialty, type of practice (e.g. general practitioner, specialist or\nhospital care). In a patient survey, characteristics such as socio-economic status and education,\nmedical condition(s), and chronic versus acute use of medicines should be considered for\noptimising the sampling frame.\nThe recruitment strategy should also consider that accurate and complete data collection is\nachieved. Efforts should be made to document the proportion of non-responders and their\ncharacteristics to evaluate potential effects on the representativeness of the sample.\nSurveys often collect and analyse self-reported data, thus introducing misclassification of exposure\nor recall bias when participants do not remember previous events or experiences accurately or\nomit details. Respondents may also improve or modify an aspect of their reported behaviour in\nresponse to their awareness of being surveyed.\nThe data collection instrument should be designed to avoid desired-response-bias (e.g. multiple-\nchoice response options with obvious desired response), to cover all relevant aspects of the RMM\nand to be able to identify different levels of risk knowledge and attitude. For data collection\ninstruments to be considered reliable the following principles should be adhered:\n• Pre-testing and validation: Testing the draft instrument in samples of participants that should\nbe similar to the study population identifies questions that are poorly understood, ambiguous,\nor produce invalid responses. Pre-tests should be carried out using the same procedures that\nwill be used when applying the data collection instrument to the study population.\n• Content validity: Items or variables included in the data collection instrument should capture\nall aspects related to end-users’ risk knowledge and attitudes relevant to the RMM. It is also\nimportant that the items or variables are clear and unambiguous and that questions pertaining\ndirectly to the implemented regulatory action are avoided (e.g. \"do you know that product X is\ncontraindicated for disease Y?\") and non-leading questions are used.\n• Construct validity: Items or variables in the data collection instrument should be developed in\na way that they are likely to accurately measure (at different degrees) end-users’ risk\nknowledge and attitudes relevant to the RMM.\nSurveys may be analysed quantitatively including:\n• Descriptive statistics, such as:\n- Response rate (i.e. proportion of participants who responded of the total number of invited\nparticipants);\n- Rate of incomplete responses among responding participants;\n- Pooled proportion of participants responding correctly to the questions;\n- Stratification by selected characteristics such as RMM target population (e.g. healthcare\nprofessional or specialist, patient, carer), geographic region, receipt, and type of RMM;\n• Comparison of responder and non-responder characteristics (if data is available);\n• Comparison of responders and overall RMM target population characteristics;\n• Comparison of characteristics of responders with correct and incorrect answers.\nInformation collected as free text may also be analysed qualitatively, e.g. using thematic content\nanalysis techniques by identifying common recurrent themes or topics.\nTo obtain valid survey results, a weight may have to be attached to each respondent considering\nthe following:\n• Differences in selection, e.g. if certain subgroups were over-sampled;\n• Differences in response rates between sub-groups;\n• Differences of responders compared to target population (e.g. healthcare speciality, volume of\nprescribing);\n• Clustering.\nVariations among healthcare settings in Member States may pose challenges to implementing\nsurvey studies in several Member States due to time constrains for determining and complying\nwith national ethical and data protection requirements. Therefore, early feasibility assessment is\nparamount in the successful implementation of a survey. National (or regional) requirements for\nproviding incentives to survey participants also need to be accounted for.\nThere may be also data protection requirements when healthcare professionals are contacted\nbased on a prescriber list of a marketing authorisation holder.\nAlthough survey studies aimed at evaluating risk knowledge and attitudes do not attempt to collect\npatient health-related information, patients who complete the survey are likely to have received\nthe medicinal product revealing their condition/disease. Therefore, unless the patient response is\ncompletely anonymous, data protection regulation applies, and informed consent must be\nprovided.\nSurvey studies must follow the provisions of the legislation on the protection of natural persons\nwith regard to the processing of personal data and on the free movement of such data, as laid\ndown in Regulation (EU) 2016/679 (General Data Protection Regulation) and Regulation (EU)\n2018/1725 of the European Parliament and of the Council and require approval(s) by the relevant\nbody(ies) in Member States."
+        },
+        {
+          "num": "XVI.Add.II.3.3.",
+          "text": "Pharmacoepidemiological methods\nOutcomes of RMM may investigated with non-interventional methods that measure how medicinal\nproducts are prescribed, dispensed, or used over time, by means of electronic health records,\nmedical chart abstraction or claims data (see XVI.Add.II.2). Detecting changes in adverse reaction\nreporting, despite known limitations, may contribute to this investigation (see XVI.Add.II.2.7. ).\nSince RMM are generally implemented in the entire target population, the identification of a control\ngroup may not always be possible and the comparison against suitable reference values should be\nconsidered (see GVP Module XVI).\nFor marketed medicinal products, quantitative measures (see GVP Module XVI) should be\nestimated in the same study population before and after the RMM intervention, with pre-\nintervention information acting as a surrogate control (i.e. quasi-experimental designs). However,\nin absence of pre-intervention information (e.g. for medicinal products with RMM at the time of\ninitial marketing authorisation), any effect of the RMM estimated at (a) time point(s) after\nimplementation can only be evaluated against a predefined reference value (i.e. literature review,\nhistorical data, expected frequency in general population, outcome frequency in pre-authorisation\nclinical trials) taking into account all possible limitations (32) (see GVP Module XVI). The selection\nof a reference value should be justified.\nWhilst appropriate to describe the population for understanding generalisability of observed\noutcomes, simple descriptive approaches do not determine whether statistically significant changes\nhave occurred (3,33)."
+        },
+        {
+          "num": "XVI.Add.II.3.3.1.",
+          "text": "Single time point cross-sectional study\nThe guidance on cross-sectional study designs in GVP Module VIII applies. Cross-sectional studies\ncan only measure an association between exposure and outcome at a single point in time.\nTherefore, the method is commonly used to monitor indicators of RMM implementation and to\ncomplement other studies investigating e.g. patterns of medicines use."
+        },
+        {
+          "num": "XVI.Add.II.3.3.2.",
+          "text": "Before-after cross-sectional study\nA before-after cross-sectional study is defined as an evaluation at one point in time before and one\npoint in time after the RMM dissemination to healthcare systems (accounting for the\nimplementation timeframe). Including a control can strengthen this design (3); however, careful\nconsideration should be given to whether a suitable control can be identified, e.g. healthcare\nprofessionals not targeted by the RMM to control for general prescribing trends. When\nuncontrolled, baseline trends are ignored, potentially leading to RMM outcomes being estimated\nincorrectly.\nWhen a RMM is put in place at the time of initial marketing authorisation, the comparison of an\noutcome frequency indicator obtained after the RMM against a predefined reference value would\nbe acceptable (see GVP Module XVI)."
+        },
+        {
+          "num": "XVI.Add.II.3.3.3.",
+          "text": "Before-after time series analysis\nTime series analysis has commonly been used to evaluate the effectiveness of RMM and should be\nconsidered whenever feasible as one of the more robust approaches (3). A time series analysis\nspanning the date of RMM dissemination to healthcare systems (e.g. interrupted segmented\nregression analysis) accounts for secular trends and can provide statistical evidence about whether\nobserved changes are significant.\nTime series analysis is well suited to study changes in outcomes that are expected to occur\nrelatively quickly following RMM, such as changing prescribing rates. Time series analysis can be\nused to estimate the immediate change in outcome after the RMM, the change in trend in the\noutcome over time compared to before, and the effects at specific time points following the RMM.\nThe Cochrane Effective Practice and Organisation of Care (EPOC) Resources for Review Authors on\nInterrupted Time Series (ITS) Analysis provides further information on the utility of time series\nregression (34).\nTime series analysis requires that enough data points are collected before and after the RMM. The\npower to undertake a time series analysis depends upon the sample size, the effect size, the\nprevalence of exposure, the number of data points and their balance before and after the\nintervention time period (35). Long time periods may also be affected by changes in trends\nunrelated to the RMM that can violate model assumptions and introduce confounding when\nevaluating RMM.\nLike the before-after cross-sectional design, including a control can strengthen this design by\nminimising potential confounding.\nFactors such as autocorrelation, seasonality and non-stationarity should be checked when\nconducting time series analysis and may require more complicated modelling approaches if\ndetected or considered likely to occur (36). Interventions associated with major immediate\nchanges (e.g. product withdrawals) may be evaluated without regression modelling, but they risk\nproducing spurious results when the changes are more subtle or multiple confounders are present\n().\nTime series analysis also requires that the time point of RMM dissemination to healthcare systems\n(accounting for the implementation timeframe) is known prior to the analysis. When this is not the\ncase (e.g. during a phased roll out of a regulatory action), more complex modelling techniques and\ndata-driven time series approaches such as Joinpoint regression analysis could be considered (37).\nThere are literature examples of time series analysis using a control (38), estimating effects twelve\nmonths after the intervention (33), dealing with autocorrelation and seasonality (39), and using\nJoinpoint regression (40).\nhttps://epoc.cochrane.org/"
+        },
+        {
+          "num": "XVI.Add.II.3.3.4.",
+          "text": "Cohort study\nThe cohort study design may be useful to establish the base population for the conduct of drug\nutilisation studies to assess behavioural and health outcomes (see GVP Module XVI) or to perform\naetiological studies (see GVP Module VIII).\nCohort studies are in particular suitable to examine RMM aimed at preventing adverse pregnancy\noutcomes (41) or other effects on health outcomes, or medicines use in populations targeted by\nthe RMM (42). Modelling the effect of RMM on health outcomes may require more complex study\ndesigns. In aetiological studies, propensity score methodology may be used, e.g. to measure the\nreduction in stroke with warnings on the use of antipsychotics (43)."
+        },
+        {
+          "num": "XVI.Add.II.4.",
+          "text": "Reporting on RMM effectiveness studies"
+        },
+        {
+          "num": "XVI.Add.II.4.1.",
+          "text": "Study registration\nAll non-interventional studies evaluating the effectiveness of RMM should be a priori registered in\nthe HMA-EMA Catalogue of Real-World Data Studies. As for all non-interventional post-\nauthorisation safety studies (PASS), the requirements for study reports, reporting of adverse\nreactions/events and data relevant to the risk-benefit balance of the studied medicinal product\napply and should be reported by the organisation responsible for the conduct of the study in line\nwith the requirements of GVP Module VIII."
+        },
+        {
+          "num": "XVI.Add.II.4.2.",
+          "text": "Checklist for harmonised reporting of study\nresults\nEstablished reporting standards such as the Strengthening the Reporting of Observational studies\nin Epidemiology (STROBE) Statement may have limited effects on the reporting quality of studies\nevaluating RMM effectiveness (while being appropriate for other purposes). This is because these\nstandards focus on single study designs without addressing the underlying rationale and critical\nfactors relevant to the implementation of health interventions such as RMM in healthcare contexts.\nThe recent Reporting Recommendations Intended for Pharmaceutical Risk Minimization Evaluation\nStudies: Standards for Reporting of Implementation Studies Extension (RIMES-SE), tailored to\nstudy designs frequently used for RMM evaluation (42), should be used to standardise reporting of\nthe results of such studies. Reporting items have been derived from the RIMES-SE standard for\nreporting results of RMM effectiveness studies (see Table XVI.App.II.., RIMES-SE items are\nmarked by #), to facilitate the completion of the final report in the format described in GVP Module\nVIII.\nhttps://catalogues.ema.europa.eu/\nhttps://www.strobe-statement.org/\nhttps://www.equator-network.org/reporting-guidelines/the-reporting-recommendations-intended-for-pharmaceutical-\nrisk-minimization-evaluation-studies-standards-for-reporting-of-implementation-studies-extension-rimes-se/\nTable XVI.Add.II..: Additional reporting items for RMM effectiveness PASS\nPASS reportAdditional reporting items\nsection"
+        },
+        {
+          "num": "6.",
+          "text": "RationaleRegulatory action and its implementation in terms of:\nand#\n- Goals and objectives of the RMM, in particular the intended clinical actions\nbackground\n- Implementation timetable\n- Underpinning dissemination- and implementation-relevant theory(ies), model,\nframework or pilot work and description of the expected pathway for\neffectiveness of the action#\n- Target population(s) (e.g. individual recipient(s), healthcare facilities(s)) and\ntheir key characteristics (e.g. geography, disease condition, age, sex,\nethnicity, socioeconomic status, personnel/medical speciality)#\n- Regulatory action/communication/RMM tool selection# and development,\nincluding pilot testing# and formative evaluation\n- Stakeholder engagement (e.g. of patient and healthcare professional\nrepresentatives) in the development of RMM and communication#\n- Context of implementation (e.g. social, economic, healthcare, cultural issues\nand sensitivities, local languages, enablers and barriers that might influence\nimplementation)#\n- Implicated healthcare facilities (e.g. number, type, and location(s))#\n- Organisations responsible for implementing the RMM along the\nimplementation pathway#\n- Dissemination channels#, including rationale for why specific channels were\nselected\n- Degree to which RMM were disseminated completely to all target populations\nand implemented as intended (degree of fidelity), and description of any\nadaptations reported, including at local level#\n- Outcome measurements, including for knowledge-, behaviour- and health-\nrelated outcomes, how to assess them, including data sources and the pre-\ndetermined thresholds of success#\n11.4Discussion of whether the results demonstrate the intended effect across the\nGenerali-target population(s) and patients#\nsability"
+        },
+        {
+          "num": "12.",
+          "text": "OtherDegree to which the regulatory action/RMM was integrated in healthcare, policy,\ninformationpractice and/or research implications, and likely sustainability of the\neffectiveness of the RMM#\nContextual changes which may have affected effectiveness of the RMM,\nincluding any enablers and barriers of effectiveness#\nProcesses incurred as a result of implementation as compared to previous usual\ncare#\nReferences"
+        },
+        {
+          "num": "1.",
+          "text": "Vora P, Artime E, Soriano-Gabarró M, Qizilbash N, Singh V, Asiimwe A. A review of studies evaluating the\neffectiveness of risk minimisation measures in Europe using the European Union electronic Register of\nPost-Authorization Studies. Pharmacoepidemiol Drug Saf. 2018 Apr 16 [cited 2018 Apr 19]."
+        },
+        {
+          "num": "2.",
+          "text": "Farcas A, Huruba M, Mogosan C. Study design, process and outcome indicators of post‐authorization\nstudies aimed at evaluating the effectiveness of risk minimization measures in the EU PAS Register. Br J\nClin Pharmacol. 2019 Mar;85(3):476–91."
+        },
+        {
+          "num": "3.",
+          "text": "Goedecke T, Morales DR, Pacurariu A, Kurz X. Measuring the impact of medicines regulatory interventions\n- Systematic review and methodological considerations: methods for measuring impact of medicines\nregulatory interventions. Br J Clin Pharmacol. 2018 Mar;84(3):419–33."
+        },
+        {
+          "num": "4.",
+          "text": "Pacurariu A, Plueschke K, McGettigan P, Morales DR, Slattery J, Vogl D, et al. Electronic healthcare\ndatabases in Europe: descriptive analysis of characteristics and potential for use in medicines regulation.\nBMJ Open. 2018 Sep;8(9):e023090."
+        },
+        {
+          "num": "5.",
+          "text": "Flick U. An Introduction to Qualitative Research. 3rd ed. London: Sage Publications Ltd.; 2006."
+        },
+        {
+          "num": "6.",
+          "text": "Lingard L, Albert M, Levinson W. Grounded theory, mixed methods, and action research. BMJ. 2008 Aug\n7;337:a567."
+        },
+        {
+          "num": "7.",
+          "text": "Creswell JW, Plano Clark VL. Designing and conducting mixed methods research. 3rd ed. London: Sage\nPublications Ltd.; 2017."
+        },
+        {
+          "num": "8.",
+          "text": "Etikan I. Comparison of Convenience Sampling and Purposive Sampling. Am J Theor Appl Stat.\n2016;5(1):1."
+        },
+        {
+          "num": "9.",
+          "text": "Silvermann David (ed). Qualitative Research. 4th ed. London: Sage Publications Ltd.; 2016."
+        },
+        {
+          "num": "10.",
+          "text": "Kuper A, Lingard L, Levinson W. Critically appraising qualitative research. BMJ. 2008 Aug 7;337:a1035."
+        },
+        {
+          "num": "11.",
+          "text": "Campbell A, Taylor BJ, McGlade A. Research Design in Social Work: Qualitative and Quantitative Methods\n(Transforming Social Work Practice Series). Learning Matters; 2016."
+        },
+        {
+          "num": "12.",
+          "text": "Bouvy JC, Blake K, Slattery J, De Bruin ML, Arlett P, Kurz X. Registries in European post-marketing\nsurveillance: a retrospective analysis of centrally approved products, 2005-2013. Pharmacoepidemiol Drug\nSaf. 2017 Dec;26(12):1442–50."
+        },
+        {
+          "num": "13.",
+          "text": "McGettigan P, Alonso Olmo C, Plueschke K, Castillon M, Nogueras Zondag D, Bahri P, et al. Patient\nregistries: An underused resource for medicines evaluation: operational proposals for increasing the use of\npatient registries in regulatory assessments. Drug Saf. 2019 Jul 13."
+        },
+        {
+          "num": "14.",
+          "text": "Weber JCP. Epidemiology of adverse reactions to nonsteroidal anti-inflammatory drugs. In: Side-effects of\nanti-inflammatory drugs, advances in inflammation research. Rainsford, K.D. and Velo, G.D. New York:\nRaven Press; 1984. p. 1–7."
+        },
+        {
+          "num": "15.",
+          "text": "Moore GF, Audrey S, Barker M, Bond L, Bonell C, Hardeman W, et al. Process evaluation of complex\ninterventions: Medical Research Council guidance. BMJ. 2015 Mar 19;350:h1258."
+        },
+        {
+          "num": "16.",
+          "text": "Tsukahara VHB, Calil SJ. Root Cause Analysis Combined with Human Factors Engineering Tools for\nAdverse Events Investigation in Healthcare. In: Kyriacou E, Christofides S, Pattichis CS (eds). XIV\nMediterranean Conference on Medical and Biological Engineering and Computing 2016 [Internet]. Cham:\nSpringer International Publishing; 2016 [cited 2024 Jan 17]. p. 1024–7. (IFMBE Proceedings; vol. 57).\nAvailable from: http://link.springer.com/10.1007/978---32703-7_201."
+        },
+        {
+          "num": "17.",
+          "text": "Flin R, Jackson J, Sarac C, Raduma M. Human Factors in Patient Safety: Review of Topics and Tools.\nGeneva: World Health Organization [Internet]. 2009 Jan 1; Available from:\nhttps://www.henrythehand.com/wp-content/uploads/2011/02/human_factors_review.pdf."
+        },
+        {
+          "num": "18.",
+          "text": "Charted Institute of Ergonomics & Human Factors (CIEHF). What is ergonomics: find out how it makes life\nbetter. [Internet] [cited 2024 Jan 17]. Available from: https://ergonomics.org.uk/learn/what-is-\nergonomics.html."
+        },
+        {
+          "num": "19.",
+          "text": "Taylor BJ, Killick C, McGlade A. Understanding & Using Research in Social Work [Internet]. London: SAGE\nPublications, Inc.; 2015 [cited 2020 Apr 22]. Available from:\nhttp://sk.sagepub.com/books/understanding-and-using-research-in-social-work"
+        },
+        {
+          "num": "20.",
+          "text": "Creswell JW. Qualitative Inquiry and Research Design: Choosing Among Five Approaches. 2012th ed.\nLondon: Sage Publications Ltd.; 2012."
+        },
+        {
+          "num": "21.",
+          "text": "Smith JA, Flower P, Larkin M. Interpretative Phenomenological Analysis: Theory, Method and Research.\nLondon: Sage. Qual Res Psychol. 2009 Nov 25;6(4):346–7."
+        },
+        {
+          "num": "22.",
+          "text": "Bahri P, Fogd J, Morales D, Kurz X, ADVANCE consortium. Application of real-time global media monitoring\nand “derived questions” for enhancing communication by regulatory bodies: the case of human\npapillomavirus vaccines. BMC Med. 2017 02;15(1):91."
+        },
+        {
+          "num": "23.",
+          "text": "Charmaz Kathy. Introducing Qualitative Methods series. 2nd ed. London: Sage Publications Ltd; 2014."
+        },
+        {
+          "num": "24.",
+          "text": "Newman PA, Seiden DS, Roberts KJ, Kakinami L, Duan N. A small dose of HIV? HIV vaccine mental models\nand risk communication. Health Educ Behav Off Publ Soc Public Health Educ. 2009 Apr;36(2):321–33."
+        },
+        {
+          "num": "25.",
+          "text": "Omedo M, Ogutu M, Awiti A, Musuva R, Muchiri G, Montgomery SP, et al. The effect of a health\ncommunication campaign on compliance with mass drug administration for schistosomiasis control in\nwestern Kenya--the SCORE project. Am J Trop Med Hyg. 2014 Nov;91(5):982–8."
+        },
+        {
+          "num": "26.",
+          "text": "Yin RK. Case Study Research: Design and Methods. 5th ed. London: Sage Publications Ltd.; 2013."
+        },
+        {
+          "num": "27.",
+          "text": "Bahri P, Morales DR, Inoubli A, Dogné JM, Straus SMJM. Proposals for engaging patients and healthcare\nprofessionals in risk minimisation from an analysis of stakeholder input to the EU valproate assessment\nusing the novel Analysing Stakeholder Safety Engagement Tool (ASSET). Drug Saf. 2021 Feb;44(2):193-\n[epub 30 Oct 2020]."
+        },
+        {
+          "num": "28.",
+          "text": "Bradbury H. The SAGE Handbook of Action Research [Internet]. London: SAGE Publications Ltd; 2015\n[cited 2020 Apr 7]. Available from: http://methods.sagepub.com/book/the-sage-handbook-of-action-\nresearch-3e"
+        },
+        {
+          "num": "29.",
+          "text": "Taylor BJ, Moorhead SA. The social sciences. In: In Bahri P (ed) Communicating about risks and safe use\nof medicines: real life and applied research. Singapore: Springer Nature; 2020."
+        },
+        {
+          "num": "30.",
+          "text": "Noyes J, Booth A, Cargo M, Flemming K, Harden A, Harris J, Garside R, Hannes K, Pantoja T, Thomas J."
+        }
+      ]
+    },
+    {
+      "title": "Chapter 21: Qualitative evidence. In: Higgins JPT, Thomas J, Chandler J, Cumpston M, Li T, Page MJ,",
+      "articles": [
+        {
+          "num": "31.",
+          "text": "VanGeest JB, Johnson TP, Welch VL. Methodologies for improving response rates in surveys of physicians:\na systematic review. Eval Health Prof. 2007 Dec;30(4):303–21."
+        },
+        {
+          "num": "32.",
+          "text": "Prieto L, Spooner A, Hidalgo-Simon A, Rubino A, Kurz X, Arlett P. Evaluation of the effectiveness of risk\nminimization measures: effectiveness of risk minimisation. Pharmacoepidemiol Drug Saf. 2012\nAug;21(8):896–9."
+        },
+        {
+          "num": "33.",
+          "text": "Weatherburn CJ, Guthrie B, Dreischulte T, Morales DR. Impact of medicines regulatory risk\ncommunications in the United Kingdom on prescribing and clinical outcomes: systematic review, time\nseries analysis and meta-analysis. Br J Clin Pharmacol. 2019 Aug 29."
+        },
+        {
+          "num": "34.",
+          "text": "Cochrane Effective Practice and Organisation of Care (EPOC). Interrupted time series (ITS) analyses.\nEPOC Resources for review authors, 2017. [Internet]. Available from:\nhttps://epoc.cochrane.org/sites/epoc.cochrane.org/files/public/uploads/Resources-for-\nauthors2017/interrupted_time_series_analyses.docx."
+        },
+        {
+          "num": "35.",
+          "text": "Zhang F, Wagner AK, Ross-Degnan D. Simulation-based power calculation for designing interrupted time\nseries analyses of health policy interventions. J Clin Epidemiol. 2011 Nov;64(11):1252–61."
+        },
+        {
+          "num": "36.",
+          "text": "Bernal JL, Cummins S, Gasparrini A. Interrupted time series regression for the evaluation of public health\ninterventions: a tutorial. Int J Epidemiol. 2017 01;46(1):348–55."
+        },
+        {
+          "num": "37.",
+          "text": "Kim HJ, Fay MP, Feuer EJ, Midthune DN. Permutation tests for joinpoint regression with applications to\ncancer rates. Stat Med. 2000 Feb 15;19(3):335–51."
+        },
+        {
+          "num": "38.",
+          "text": "Hedenmalm K, Kurz X, Morales D. Effect of withdrawal of fusafungine from the market on prescribing of\nantibiotics and other alternative treatments in Germany: a pharmacovigilance impact study. Eur J Clin\nPharmacol. 2019 Mar 5."
+        },
+        {
+          "num": "39.",
+          "text": "Hernandez-Santiago V, Marwick CA, Patton A, Davey PG, Donnan PT, Guthrie B. Time series analysis of\nthe impact of an intervention in Tayside, Scotland to reduce primary care broad-spectrum antimicrobial\nuse. J Antimicrob Chemother. 2015 Aug;70(8):2397–404."
+        },
+        {
+          "num": "40.",
+          "text": "Hedenmalm K, Blake K, Donegan K, Macia MA, Gil M, Williams J, et al. A European multicentre drug\nutilisation study of the impact of regulatory measures on prescribing of codeine for pain in children.\nPharmacoepidemiol Drug Saf. 2019 Jun 20."
+        },
+        {
+          "num": "41.",
+          "text": "Zomerdijk IM, Ruiter R, Houweling LMA, Herings RMC, Sturkenboom MCJM, Straus SMJM, et al.\nIsotretinoin exposure during pregnancy: a population-based study in The Netherlands. BMJ Open. 2014\nNov 12;4(11):e005602."
+        },
+        {
+          "num": "42.",
+          "text": "Morales DR, Morant SV, MacDonald TM, Mackenzie IS, Doney ASF, Mitchell L, et al. Impact of EMA\nregulatory label changes on systemic diclofenac initiation, discontinuation, and switching to other pain\nmedicines in Scotland, England, Denmark, and The Netherlands. Pharmacoepidemiol Drug Saf. 2020 Jan\n."
+        },
+        {
+          "num": "43.",
+          "text": "Sultana J, Fontana A, Giorgianni F, Tillati S, Cricelli C, Pasqua A, et al. Measuring the effectiveness of\nsafety warnings on the risk of stroke in older antipsychotic users: a nationwide cohort study in two large\nelectronic medical records databases in the United Kingdom and Italy. Drug Saf. 2019 Sep 25."
+        },
+        {
+          "num": "44.",
+          "text": "Smith MY, Russell A, Bahri P, Mol PGM, Frise S, Freeman E, et al. The RIMES Statement: A checklist to\nassess the quality of studies evaluating risk minimization programs for medicinal products. Drug Saf. 2018\nApr;41(4):389–401. and Smith MY, Morrato EH, Mora N, Nguyen V, Pinnock H, Winterstein AG. The\nreporting recommendations intended for pharmaceutical risk minimization evaluation studies: standards\nfor reporting of implementation studies extension (RIMES-SE). Drug Saf. 2024 Jul;47(7):655-."
+        }
+      ]
+    }
+  ],
+  "_cleanedBy": "heuristic",
+  "sourceUrl": "https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/guideline-good-pharmacovigilance-practices-gvp-module-xvi-addendum-ii-methods-evaluating-effectiveness-risk-minimisation-measures_en.pdf",
+  "id": "GVP-Module-XVI-Addendum-II-Methods-for-evaluating-the-effect",
+  "sourceTitle": "",
+  "rawFile": "ema/guideline-good-pharmacovigilance-practices-gvp-module-xvi-addendum-ii-methods-ev.md",
+  "updatedAt": "2026-08-18T13:17:58.078Z",
+  "articleCount": 68
+}

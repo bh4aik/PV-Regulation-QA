@@ -1,0 +1,367 @@
+{
+  "title": "Questions and answers on the periodic safety update report single assessment (PSUSA) guidance document for assessors",
+  "shortTitle": "PSUSA Q&A Guidance",
+  "documentNumber": "",
+  "issuingAuthority": "",
+  "issueDate": "",
+  "effectiveDate": "",
+  "status": "现行有效",
+  "category": "指南",
+  "country": "欧盟",
+  "chapters": [
+    {
+      "title": "April 202",
+      "articles": [
+        {
+          "num": "1.1.3.",
+          "text": "Significant concerns about the quality of the PSUR data and pharmacovigilance"
+        },
+        {
+          "num": "1.2.1.",
+          "text": "What is the strength and nature of the evidence that is needed to support regulatory"
+        },
+        {
+          "num": "1.3.1.",
+          "text": "Should the PRAC Rapporteur/LMS reflect their ongoing or recently concluded"
+        },
+        {
+          "num": "1.3.2.",
+          "text": "How to deal with inconsistency or non-compliance with previous regulatory procedure"
+        },
+        {
+          "num": "1.4.1.",
+          "text": "How should conclusions on a drug-drug interaction (DDI) with the product(s) covered"
+        },
+        {
+          "num": "1.4.2.",
+          "text": "How should conclusions on PSUSAs for fixed-dose combinations (FDCs) and/or mono\nsubstances be reflected in the AR and under which circumstances should findings be"
+        },
+        {
+          "num": "1.4.3.",
+          "text": "How will information about new DDI or extrapolation related to NAPs be"
+        },
+        {
+          "num": "2.",
+          "text": "Specific assessment aspects with related sections of the PSUR AR"
+        },
+        {
+          "num": "2.1.2.",
+          "text": "Where there is sufficient cumulative evidence regarding a safety issue which needs to\nbe reflected in the PI, is it acceptable to request an updated/new wording across all PIs,"
+        },
+        {
+          "num": "2.2.",
+          "text": "Overview of exposure and safety data (section 1.3.4 on data in summary tabulations)"
+        },
+        {
+          "num": "2.2.1",
+          "text": "Can the tables of cumulative safety data from clinical trials and post-marketing"
+        },
+        {
+          "num": "2.4.",
+          "text": "Signals and topics under monitoring (PSUR AR template: annex LMS assessment"
+        },
+        {
+          "num": "2.4.1.",
+          "text": "If a signal is refuted should the assessment as a precautionary principle still request\nthat this be followed up in future PSURs? If yes, based on what evidence should this be"
+        },
+        {
+          "num": "2.4.3.",
+          "text": "How to deal with a discrepancy between number of events presented by the MAH and\nPage /"
+        },
+        {
+          "num": "2.4.5.",
+          "text": "How to deal with a discrepancy between number of events presented by the MAH in\nthe body text of the PSUR and in summary tabulations or discrepancies in consecutive"
+        },
+        {
+          "num": "2.5.",
+          "text": "Benefit evaluation (PSUR AR template: Annex PRAC Rapporteur/LMS assessment"
+        },
+        {
+          "num": "2.5.1.",
+          "text": "How to deal with new data/studies on efficacy provided by the MAH considering that\nthe focus of the PSUR assessment is whether there are new risks or whether risks have"
+        },
+        {
+          "num": "2.6.",
+          "text": "B/R balance (PSUR AR template: annex LMS assessment comments on PSUR, section 4."
+        },
+        {
+          "num": "2.6.1.",
+          "text": "How to regard the B/R balance for old established products especially when different\nindications are authorised in different MSs and how to achieve a common position on the B/R\nbalance when different indications are authorised in different MS and the level of information"
+        },
+        {
+          "num": "2.6.2.",
+          "text": "Should a conclusion of “B/R balance remains unchanged” be understood as an"
+        },
+        {
+          "num": "2.6.3.",
+          "text": "Can a PSUR procedure add a new indication to approved medicinal products in a MS?"
+        },
+        {
+          "num": "2.7.1.",
+          "text": "How to deal with requests for cumulative reviews and how to differentiate between"
+        },
+        {
+          "num": "2.8.",
+          "text": "PSUR frequency and EURD list (PSUR AR template: section 4/5. on PSUR frequency).."
+        },
+        {
+          "num": "2.8.1.",
+          "text": "Under which scenarios should the PRAC Rapporteur/LMS consider (or not) to change"
+        },
+        {
+          "num": "2.8.2.",
+          "text": "Should separate entries in the EURD list be considered for active substances, where\nthere are major differences depending on the indication or route of administration, to allow"
+        },
+        {
+          "num": "2.8.3.",
+          "text": "When should products referred to in Articles 10(1) (generics) and 10a (well\nestablished use) of Directive 2001/83/EC, as amended, (not) be requested for inclusion in a"
+        },
+        {
+          "num": "2.9.1.",
+          "text": "How to achieve consistency in the summary sections 1-4 across different PSUSA and"
+        },
+        {
+          "num": "4.",
+          "text": "Use of Real World Evidence (RWE) including DARWIN EU, Real World\nPage /"
+        },
+        {
+          "num": "1.",
+          "text": "General principles\nThe PSUR is a global document and therefore the relevant European Union (EU) information, e.g. EU\nproduct information (PI), description of ongoing procedures to update the EU PI (variations) and EU risk\nminimisation activities and the assessment of their effectiveness, is expected to be provided within the\nregional appendix of the PSUR."
+        },
+        {
+          "num": "1.1.",
+          "text": "Aim of the PSUR/PSUSA and data to be reviewed"
+        },
+        {
+          "num": "1.1.1.",
+          "text": "What is the purpose of a PSUR and its (single) assessment?\nAs laid down in the current legislation, the purpose of the PSUR is to determine whether there are new\nrisks or whether risks have changed or whether there are changes to the benefit/risk (B/R) balance of\nthe medicinal products (DIR Art 107d).\nThe current GVP module VII (EMA/816292/2011 Rev 1) states that the purpose of a PSUR is to present\na comprehensive, concise and critical analysis of the B/R balance of the medicinal product taking into\naccount new or emerging information, in the context of the cumulative information on the risks and\nbenefits. A critical appraisal is expected to consider the maturity and utilisation data of the product and\nits place in therapeutics. The PRAC Rapporteur/Lead Member State (LMS) should conclude on the data\nassessed and in case any regulatory action is recommended, present and justify the Rapporteur’s/LMS’\nposition in the assessment report and to the PRAC at the time of plenary discussion. The assessment\nshould conclude with either maintenance, variation, suspension, or revocation.\nA PSUR is generally not intended, for notification of urgent new safety or efficacy information which may\nhave a public health impact. Other processes which are under the scope of GVP module IX (signal\nmanagement) should be considered. In addition, urgent safety information should be reported to the\nagencies via the appropriate mechanism.\nIt should be noted that detailed listings of individual cases should not be systematically included as per\nImplementing Regulation (IR) /2012 [Art 34(4)]. The PSUR should focus on summary information,\nscientific safety assessment and integrated B/R evaluation. It should also be noted that the PSUSA is not\nintended for harmonising the PI or the risk management plan (RMP)."
+        },
+        {
+          "num": "1.1.2.",
+          "text": "What should drive the assessment of a PSUSA?\nThe review of the PSUR should focus primarily on the data provided by the Marketing Authorisation\nHolder (MAH). As laid down in the current legislation (DIR Art 107b), it is the MAH’s legal obligation to\nsubmit PSURs containing summaries of data relevant to the benefits and risks of the medicinal product\nand a scientific evaluation of the B/R balance of the medicinal product considering all available data.\nTo allow for an adequate assessment of the PSUR, it is critical that the information provided by the\nMAH is of sufficiently good quality. The data and information submitted by the MAH should enable the\nanalysis and assessment by the regulatory authorities. An Explanatory note to GVP Module VII for MAH\nPage /\nhas been developed to raise awareness and clarify the expectations in the different sections of the\nPSUR.\nPRAC Rapporteurs/LMSs are expected to familiarise themselves with the therapeutic role of the product\nand be aware of current scientific issues of importance or major questions under debate. The\nassessment could identify a possible concern, which merits further action by the MAH as part of the\nresponses to the Request for Supplementary Information (RfSI) or in the next PSUR (e.g. literature\nsearch and/or additional analyses such as cumulative reviews). The PRAC Rapporteur/LMS is not\nexpected to routinely do searches/investigations on the products under assessment e.g. by literature\nsearches or searches in EudraVigilance. New findings are expected to be provided and discussed by the\nMAH. This includes the need for further action such as update of the PI. However, if any relevant\nsource, which contains data that can support regulatory action was not provided/discussed by the MAH\nbut identified by the PRAC Rapporteur/LMS, it can be asked to be discussed by the MAH as part of the\nRfSI. If significant concerns regarding the B/R balance of the product are identified within a PSUSA\n(i.e. they may warrant a recommendation for an important variation of marketing authorisation,\nsuspension or revocation), it is recommended to initiate discussions at PRAC at an earlier stage (i.e. at\nthe time of the Preliminary AR). Consideration should also be given as to the need of consultation with\na Scientific Advisory Group/Ad-hoc expert group, and whether the assessment would need to be\nmoved into another procedure for a comprehensive evaluation of the B/R balance."
+        },
+        {
+          "num": "1.1.3.",
+          "text": "Significant concerns about the quality of the PSUR data and\npharmacovigilance inspections.\nSignificant concerns about the quality of the PSUR data may also be flagged in section of the\nassessment report as a Quality and Compliance issue which needs to be improved in the next PSUR\nsubmission. In certain circumstances, such issues may be a reason for a triggered Pharmacovigilance\nInspection or be considered for an already planned inspection. Information regarding the template for\npharmacovigilance inspection can be found at Pharmacovigilance inspection procedures EMA webpage:\nPharmacovigilance inspection procedures: human | European Medicines Agency (EMA)\nTemplate for pharmacovigilance assessment information sharing can be found here: template. This\ntemplate can be used to highlight quality issues identified during the PSUSA to the Supervising\nAuthority."
+        },
+        {
+          "num": "1.2.",
+          "text": "Strength of evidence in the context of the stage in the product lifecycle"
+        },
+        {
+          "num": "1.2.1.",
+          "text": "What is the strength and nature of the evidence that is needed to\nsupport regulatory action? Does this differ depending on the stage in a\nmedicinal product’s lifecycle?\nThe strength and nature of the evidence needed to support regulatory action may differ depending on\nthe stage in a medicinal product’s lifecycle. Uncertainty in relation to a medicine’s safety profile should\nPage /\nbe a key driver of risk proportionality. Accordingly, uncertainty is normally reduced with increased\nexposure. The general principle applies that the higher the patient exposure for a particular medicinal\nproduct is, more evidence (e.g. cases with a suspected causal relationship) is needed to justify an\namendment of the PI.\nHowever, independent of the stage of the medicinal product’s lifecycle, and depending on the nature of\nthe event, one single well-documented case with a definite causal relationship of an adverse event with\na medicine, may be sufficient to justify regulatory action.\nAny variation of the marketing authorisation needs to be well justified. This is particularly important\nwhen clinical trials do not show differences in incidence between the medicinal product and the\ncomparator, making the causal association of an adverse reaction more uncertain. In case uncertainty\non the causal association of an Adverse Event (AE) with a medicinal product prohibits concluding on a\nvariation of the marketing authorisation within a PSUSA further evaluation taking additional evidence\ninto account in the next one may be warranted.\nNew safety information should be carefully reviewed in terms of type and severity of the cases,\nincluding the nature of all available data. Assessment should not focus only on suspected adverse\nreaction reports but have a broader view and include information available from clinical trials,\nspontaneous reports, epidemiological studies and meta-analysis etc.\nIn addition, mechanistic plausibility, the extent of patient exposure and how long the product has been\non the market, as well as the clinical context and relevance for patients and the place of the medicine\nin therapeutics should be considered."
+        },
+        {
+          "num": "1.3.",
+          "text": "Link between PSUSA and outcomes of other regulatory procedures"
+        },
+        {
+          "num": "1.3.1.",
+          "text": "Should the PRAC Rapporteur/LMS reflect their ongoing or recently\nconcluded assessments in the PSUR assessment report?\nThe PSUR assessment should specifically focus on the data provided in the PSUR. Ongoing procedures\nat EU or national level, regardless of the data presented in the PSUR, should generally not impact on the\nassessment.\nIf new data become available in the PSUR that concern an issue already assessed in a recently finalized\nprocedure, and if this is considered important from a safety perspective, the PRAC Rapporteur/LMS may\nrequest the MAH to address this issue during the PSUR procedure for PRAC to conclude upon. In some\ncases, products included in the PSUR may have had their PI updated following another regulatory\nprocedure completed during the PSUR reporting interval, but the update has not been applied to all\nproducts in the PSUR. Such finalised procedure may be considered, provided that the data supporting\nthe PI update are included.\nPage /"
+        },
+        {
+          "num": "1.3.2.",
+          "text": "How to deal with inconsistency or non-compliance with previous\nregulatory procedure outcomes (e.g. recommendations after a referral\nprocedure)?\nAlthough the PRAC Rapporteur/LMS are not expected to proactively search for non-compliance with\nprevious regulatory procedures, if such non-compliance is detected, it may be highlighted in the PSUR\nAR, section 2. If needed a more comprehensive overview of the situation might be requested from the\nMAH(s). However, there should be no reiteration of previous outcomes of other procedures in the\nrecommendations section of the AR (section 3 of the PSUR AR template).\nIn cases of significant non-compliance with previously recommended actions (e.g. suspensions or\ndeletion of indications that have not yet been implemented), follow-up should not wait until the end of\nthe PSUSA procedure. The PRAC Rapp/LMS should inform the EMA.\nPSUSAs containing nationally authorised products (NAPs):\nOnce the LMS has informed the EMA, the EMA will inform the Member States (MSs) concerned in order\nto clarify the situation and enable them to start implementing the previous recommendations before the\nPSUSA is finalised. A short overview of the steps taken should be included by the LMS. The LMS should\nplay a key role to report/highlight the issue at the Co-ordination group for Mutual recognition and\nDecentralised procedures – human (CMDh) plenary to ensure alignment with previous outcomes."
+        },
+        {
+          "num": "1.4.",
+          "text": "Scope of conclusions: impact on products outside the PSUSA"
+        },
+        {
+          "num": "1.4.1.",
+          "text": "How should conclusions on a drug-drug interaction (DDI) with the\nproduct(s) covered by the PSUSA, which may affect other products, be\nreflected in the AR?\nNew DDIs, when the interacting product is a NAP, will be highlighted to CMDh for further processing. No\nrecommendations about extrapolation to products outside the scope of the PSUSA should be included in\nthe AR. CMDh will then notify the concerned MAHs of the NAPs containing the interacting substance, via\ntheir published CMDh minutes, so that the MAHs of the relevant NAPs can take the most appropriate\naction at the national level.\nIn practice:\n- when the interacting product is a NAP, an update of the PI on a DDI within a PSUSA will be flagged to\nCMDh by the EMA Product Manager (PM).\n- when the interacting product is a Centrally authorised product(s) (CAPs), the concerned MAH(s) will be\ninformed by the EMA Product Lead (PL).\nPage /"
+        },
+        {
+          "num": "1.4.2.",
+          "text": "How should conclusions on PSUSAs for fixed-dose combinations\n(FDCs) and/or mono substances be reflected in the AR and under which\ncircumstances should findings be extrapolated and in which way?\nFirst, it needs to be considered from a scientific point of view whether the evidence presented in the\nPSUR is sufficient to support extrapolation. This may involve extrapolating from a mono-component\nproduct to FDCs that contain the same active substance but are outside the scope of the PSUSA.\nConversely, it may involve extrapolating from FDCs assessed in the PSUSA to mono-component products\nthat are outside the scope of the PSUSA. A summary of the assessment of the available evidence should\nbe included in section 2 of the AR. This information should reflect that the PSUSA outcome is relevant to\nother FDC/mono-component products including scientific rationale to support this extrapolation. No PI\nwording for products outside the scope of the PSUSA is to be included.\nThe information on the extrapolation will be flagged to the CMDh by the EMA PM when NAPs are affected\nand by the EMA PL to the MAH when CAPs are affected.\nFor NAPs, the information on extrapolation will to be published in the CMDh minutes to enable NAP MAHs\nto act at the national level.\nWhen there is insufficient evidence reviewed in the PSUSA to conclude on the need to extrapolate, but\nthe PRAC concludes that there might be a need to further investigate (e.g. a class effect), the PRAC\nRapporteur/LMS should liaise with EMA to discuss the best regulatory framework (case-by-case basis)\nto formally assess this issue, and involve the concerned MAHs. In case NAPs are concerned, EMA will\napproach CMDh if relevant."
+        },
+        {
+          "num": "1.4.3.",
+          "text": "How will information about new DDI or extrapolation related to NAPs\nbe communicated to CMDh?\nPlease see above and refer to the relevant information in section 2 ‘Assessment conclusions and actions’\nof the AR template where detailed instructions on this is provided as part of green guidance text."
+        },
+        {
+          "num": "2.",
+          "text": "Specific assessment aspects with related sections of the\nPSUR AR template"
+        },
+        {
+          "num": "2.1.",
+          "text": "Dealing with inconsistencies of PI"
+        },
+        {
+          "num": "2.1.1.",
+          "text": "Can/should the PSUSAs be used as a tool for harmonisation of the\nPI?\nThe PSUSA procedure is not an appropriate tool for harmonisation of the existing PI across products,\neven if it is acknowledged that it would be appreciated to have consistent EU PI. PI updates should be\nbased on evidence provided in the PSUR, not just for the purpose of harmonisation. As such,\nrecommendations to include/remove certain information from the PI should always be driven by PSUR\ndata and be based on a review of safety. In such cases, important aspects supported by PSUR data\nPage /\nwould be reflected in all respective national versions of the PI, as an outcome of the PSUR assessment.\nThese recommendations are considered regulatory decisions to update the PI on the basis of the available\ndata but should not be seen as an exercise of harmonisation of the PI across all products included in the\nreview. However, if changes based on data submitted in the PSUR are proposed, it is acceptable to\npropose a wording that is already present in some of the PIs of the active substance (see section 2.1.2).\nPSUSAs containing NAPs:\nThe LMSs can check with their CMDh counterpart on how to resolve topics related to pure PI\nharmonisation. However, no information is expected to be found in the PSUSA procedure regarding this\nmatter."
+        },
+        {
+          "num": "2.1.2.",
+          "text": "Where there is sufficient cumulative evidence regarding a safety\nissue which needs to be reflected in the PI, is it acceptable to request an\nupdated/new wording across all PIs, even if some of them already have the\nissue well reflected?\nIn case the PRAC Rapporteur/LMS conclude that there is a need for an update of the PI, the PRAC\nRapporteur/LMS should recommend in the final AR a definitive wording to be applied across all products\ncovered by the PSUSA. The PI proposal should generally not be differentiated per product or MAH.\nHowever, in some instances different wording may be justified, and should in such case be clearly\ndescribed in section 2 and 3 of the AR. Indication and/or formulation differences of medicines should be\nconsidered if applicable.\nNormally, the PI wording to be adopted by PRAC should be included in full, even if some wording already\nexists in the PI for certain products.\nImplementation of the outcome for NAPs:\nTo support implementation of the update to the PI, the PRAC recommendation may, to the extent\npossible, indicate how the PI wording should be implemented. However, it is recognised that the PRAC\ndoes not have full visibility of all PIs for the products concerned across the MSs within the scope of the\nprocedure, nor of how the new text would be best fit within each existing PI. The actual implementation\nlies within the remit of the National Competent Authority (NCA). Consequently, there may be a need for\nthe NCA to discuss with the MAH how best to incorporate the PRAC recommendation into the respective\nnational PI. In cases where a MAH has a more extensive wording than the one provided in the PRAC\nrecommendation (section 3 of the PSUR AR template), they can discuss with the NCA whether the\nwording should be retained and if so how. In principle, the same implementing approach applies as for\nreferrals. The CMDh may wish to agree on the implementing approach to avoid different approaches in\nthe MSs.\nImplementation of the outcome for CAPs:\nNo further national implementation steps are required, as the revised PI is varied as part of the\nCommission Decision to the MAH.\nPage /"
+        },
+        {
+          "num": "2.2.",
+          "text": "Overview of exposure and safety data (section 1.3.4 on data in\nsummary tabulations)"
+        },
+        {
+          "num": "2.2.1",
+          "text": "Can the tables of cumulative safety data from clinical trials and post-\nmarketing surveillance, presented by the MAH be used as a tool for signal\ndetection?\nThe data presented by the MAH as cumulative summary tabulations of serious AEs from clinical trials\nand cumulative and interval summary tabulations from post-marketing data sources is not intended to\nbe used as a tool for signal detection purposes. Summary tables with number of events or cases lack\nsufficient detail to allow for meaningful assessment of a causal association. For signal detection, other\nprocesses are in place, which are more adequate."
+        },
+        {
+          "num": "2.3.",
+          "text": "Safety concerns:"
+        },
+        {
+          "num": "2.3.1.",
+          "text": "Should the PSUSAs be used as a tool for harmonisation of the safety\nconcerns?\nThe PSUR is not a tool for harmonisation of the safety concerns. This principle applies both to the\nsummary of safety concerns in the PSUR and to the RMP, where applicable.\nHowever, should the PSUR assessment identify a new important risk, the PRAC Rapporteur/LMS can\nrecommend to the PRAC that all MAHs are requested to include that particular risk as a safety concern.\nAny such requests need to be implemented by all MAHs to ensure relevant assessment of key safety\nconcerns across all products in the next single assessment. This does not entail that the whole safety\nprofile should be amended or harmonised.\nThe MAHs should be reminded that they are (in line with the legislation) obliged to review and discuss\nall issues identified during the interval period, whether or not the issue is included as a safety concern.\nFor those products where an RMP is in place, and where an update to the RMP safety concerns is\nrecommended as an outcome of the PSUSA based on the data assessed in the PSUSA, the relevant\nchanges to the RMP will be introduced via a subsequent variation as an outcome of the PSUSA procedure.\nThe specific safety concern needs to be addressed, with a common terminology for all products affected\nby the PSUSA procedure.\nFor CAPs, if an RMP has been submitted with the PSUR, the RMP can be updated directly as part of the\nPSUSA procedure.\nIt should be noted that the definitions of important identified and potential risks and missing information\nin GVP Module V Rev.2 apply in the context of risk management planning, i.e. safety concerns in the\nRMP are judged based on B/R impact and the need for further risk minimisation activities and/or further\nevaluation as part of a pharmacovigilance plan. GVP Module VII is applicable for the purpose of risk\nclassification in the PSUR. Therefore, the definitions in GVP Module V should generally not be used for\nthe purpose of risk reclassification in the PSUR. Consequently, the lists of safety concerns in the RMP\nand PSUR might differ. Please refer to E2C (R2) Step 5 Periodic benefit-risk evaluation report (PBRER)"
+        }
+      ]
+    },
+    {
+      "title": "section 3.16.1 Summary of safety concerns for further information.",
+      "articles": [
+        {
+          "num": "2.3.2.",
+          "text": "Safety concerns with a long latency\nFor safety concerns with long latency (e.g., malignancies, cardiovascular events such as myocardial\ninfarction, chronic kidney disease, neurological disorders such as dementia, or autoimmune disorders),\nindividual spontaneous case review rarely allows robust conclusions on causality due to the long latency,\nmultifactorial etiology, and high background incidence. Causality assessment typically requires\ncomparative safety studies with appropriate comparators. In this respect, the PRAC Rapporteur/LMS may\nconsider requesting that, for such safety concerns, the MAH:\n• Focus on ongoing Post Authorisation Safety Studies (PASSs), if available.\n• Review relevant published pharmacoepidemiologic and clinical data.\nThis approach would ensure that the assessment is evidence-based and proportionate, for situations\nwhere extensive review of individual cases is not expected to provide meaningful conclusions.\nIn addition, the use of data from DARWIN EU studies may be considered for such safety concerns (please\nsee section 4).\nPage /"
+        },
+        {
+          "num": "2.4.",
+          "text": "Signals and topics under monitoring (PSUR AR template: annex LMS\nassessment comments on PSUR, section 2.2. on signal evaluation)"
+        },
+        {
+          "num": "2.4.1.",
+          "text": "If a signal is refuted should the assessment as a precautionary\nprinciple still request that this be followed up in future PSURs? If yes,\nbased on what evidence should this be requested?\nMAHs ultimately retain responsibility for their internal signal management processes and progress signal\nevaluations according to appropriately judged timelines on a continuous basis.\nIn principle, a refuted signal should not lead to continued monitoring in the coming PSURs for\nprecautionary reasons, provided that the PRAC Rapporteur/LMS and ultimately PRAC agree with refuting\nthe signal. The assessment of the data is the basis for any subsequent decision and will lead to agreement\non closure of the signal or maintaining it open.\nThus, in general, if a signal is refuted it should be closed, and routine pharmacovigilance will apply. If\nthe signal cannot be refuted, it should be kept open and be further evaluated in the next PSUR, or in a\ndifferent procedure based on the signal seriousness or urgency, and available data. This should be clearly\nexplained in the AR under the signal evaluation section."
+        },
+        {
+          "num": "2.4.2.",
+          "text": "Topics for monitoring (i.e. beyond the safety concerns proposed by\nthe MAH)\nAs specified in GVP VII section B.5.15, when a competent authority has requested that a specific topic\n(not considered a signal) be monitored and reported in the PSUR, the MAH should summarise the result\nof the analysis in section 15 of the PSUR if it is negative. If the specific topic becomes a signal, it should\nbe included in the signal tabulation and discussed in sub-section 16.2 (“Signal evaluation”).\nWith the current PSUR format, the assessment should focus on signals and aggregate data in the context\nof the B/R assessment. It is not appropriate to routinely request line listings (LL), as the PSUR is not to\nbe used for signal detection. Requests for review, e.g. cumulative reviews, either within an ongoing PSUR\nor in the next PSUR, need to be justified, and be clear on exactly what further data need to be submitted.\nThis in turn will lead to improved response data from the MAH. A particular safety concern can motivate\na request for case series review with narratives, but again, this request should be justified.\nWhen a topic is repeatedly requested to be monitored in forthcoming PSURs, it should be considered\nwhether the topic should be added as a safety concern in the PSUR or if the topic can be handled through\nroutine pharmacovigilance.\nA fixed time limit for keeping signals open could be restrictive in those cases where there is low exposure\nor the cases have been poorly documented. Therefore, the request for keeping a signal open will be\nassessed on a case-by-case basis in the next PSUR.\nPage /"
+        },
+        {
+          "num": "2.4.3.",
+          "text": "How to deal with a discrepancy between number of events presented\nby the MAH and number of Individual Case Safety Reports (ICSRs)\nretrieved by the LMS?\nThe LMS is not expected to cross check the number of events presented by the MAH from their safety\ndatabase with the number of events in EudraVigilance or national databases. Any discrepancy is not\nsurprising because the data presented by the MAHs and the LMS come from different databases. Also,\nthe cut-off date used to query the databases may not be the same. From 22 November 2017, MAHs\nhave access to EV at the level of the active substance and for cases submitted to the EudraVigilance\npost-authorisation module (EVPM), but this does not mean that both the MAHs’ safety databases and\nEudraVigilance will be fully harmonised. MAHs nevertheless will be able to access the information in\nEudraVigilance for signal detection, validation and assessment purposes and, if relevant they may be\nable to consider whether there are discrepancies between EudraVigilance and their safety databases.\nWhen EudraVigilance data is included in the AR, the source of the data together with the EudraVigilance\nsearch parameters used to retrieve the cases should be made clear by the LMS so that this information\ncan be put in the appropriate context."
+        },
+        {
+          "num": "2.4.4.",
+          "text": "Monitoring of EudraVigilance by MAHs\nFrom 22 November 2017, MAHs whose products are authorised in the EEA have access to EudraVigilance\ndata to comply with their pharmacovigilance obligations. The access to EudraVigilance data and the EU\nSignal Management process do not modify the format of the PSUR which should follow the Commission\nIR 520/2012 and GVP Module VII. The PSUR should contain all validated signals for which the evaluation\nis completed or ongoing at the PSUR Data Lock Point (DLP). This is regardless of the source of the signal,\nor the actions taken with the signal.\nAs stated in the Commission IR 520/2012 and GVP Module VII, PSURs ‘shall be based on all available\ndata’ and therefore EudraVigilance should be used as another source of information.\nThe amended Commission IR 520/2012 (Commission IR 2025/1466 of 22 July 2025) establishes that\n‘MAHs shall monitor the data available in the EudraVigilance database and use it together with data from\nother available sources’ [IR, Art ()]. MAHs should incorporate in the PSUR, the findings from\nmonitoring the EudraVigilance database when applicable and in the relevant PSUR sections.\nWhenever there are signal evaluations in the PSUR or there are issues under monitoring, or requests for\ncumulative reviews, it is expected that the data from EudraVigilance is fully considered in order to\ncomplement and enhance the MAH’s assessment and the conclusions for these issues and to ensure that\nall available cases for the active substance are covered and reported in the PSURs as applicable.\nPage /"
+        },
+        {
+          "num": "2.4.5.",
+          "text": "How to deal with a discrepancy between number of events presented\nby the MAH in the body text of the PSUR and in summary tabulations or\ndiscrepancies in consecutive PSURs?\nThe number of events that are mentioned in the body text of the PSUR e.g. for the summary evaluation\nof a signal presented in section 15 or 16, may not be the same as the numbers of events with the\ncorresponding Medical Dictionary for Regulatory Activities (MedDRA) Preferred Terms (PTs) in the\nsummary tabulations. This may be due to the DLP for the signal evaluation being different than the DLP\nfor the PSUR and will be apparent from the dates included in the tabular summary of signals. Smaller\ndifferences can be noted in the AR but are generally not a reason to raise as a RfSI or as an issue to be\nclarified in the next PSUR. However, in exceptional cases, if the number of events/reactions in the PSUR\ntext differ substantially from the number reported in the corresponding summary tabulations, and to\nsuch an extent to potentially alter the conclusions of an evaluation, further clarification can be asked to\nthe MAH.\nSafety databases are inherently dynamic as for example duplicate case reports might be corrected, and\ncases are updated with follow up information. When follow-up cases are included in summary tabulations\nof the PSUR because the reported information is considered of significance, numbers would not add up\nover consecutive PSURs. Integrity of the MAH’s database will be verified at the time of a\npharmacovigilance inspection."
+        },
+        {
+          "num": "2.5.",
+          "text": "Benefit evaluation (PSUR AR template: Annex PRAC Rapporteur/LMS\nassessment comments on PSUR, section 3. on benefit evaluation)"
+        },
+        {
+          "num": "2.5.1.",
+          "text": "How to deal with new data/studies on efficacy provided by the MAH\nconsidering that the focus of the PSUR assessment is whether there are\nnew risks or whether risks have changed or whether there are changes to\nthe B/R balance of medicinal products?\nThis paragraph of the PSUSA AR can generally be short, referring to approved PI(s). There is no need to\nrepeat results from clinical trials supporting previous approvals.\nWhen there is new positive benefit information and no significant change in the risk profile in the\nreporting interval, the integration of baseline and new information should be succinct (GVP Module VII,"
+        }
+      ]
+    },
+    {
+      "title": "Section 3.17.3). In this situation, no re-evaluation of the baseline efficacy data is warranted, only",
+      "articles": [
+        {
+          "num": "2.6.",
+          "text": "B/R balance (PSUR AR template: annex LMS assessment comments on\nPSUR, section 4. on benefit-risk balance)"
+        },
+        {
+          "num": "2.6.1.",
+          "text": "How to regard the B/R balance for old established products\nespecially when different indications are authorised in different MSs and\nhow to achieve a common position on the B/R balance when different\nindications are authorised in different MS and the level of information\nincluded in the SmPC may be different as well?\nThe general principle is that at the beginning of the PSUR reporting interval, the B/R balance of a\nmedicinal product with a valid marketing authorisation is positive, based on the data evaluated at the\ntime of initial marketing authorisation and subsequent assessments of its B/R profile such as renewal,\nand previous PSURs. PSURs are focused on the evaluation of new data on safety and efficacy that has\nbeen received during the period under review in the context of the cumulative experience with the use\nof the medicine and whether any new information affects the overall B/R balance of the medicinal\nproduct.\nThe LMS should not question the B/R balance only because an indication is not authorised in their\nmember state. Also, decisions from new Marketing Authorisation (MA) and/or re-registration procedures,\nwhere the evidence of efficacy was found to not be up to modern standards should not be taken as\ngrounds to question the medicine’s B/R balance in certain indications without new relevant data in the\nPSUR.\nHarmonisation of the PI is not within the scope of PSURs, as more appropriate procedures are available\nwhen necessary (e.g. work-sharing variations, reminders for generics to align with their reference\nproduct). In this regard, the conclusion on the B/R balance cannot be linked to individual Adverse\nReactions (ADRs) being listed or not in individual PIs. However, if a review within the PSUR of a particular\nsafety concern, which relies on data from the current PSUR reporting interval, results in a\nrecommendation to update the PI, common wording will be introduced.\nPage /"
+        },
+        {
+          "num": "2.6.2.",
+          "text": "Should a conclusion of “B/R balance remains unchanged” be\nunderstood as an endorsement by the PRAC of all existing indications?\nNo, a conclusion of “B/R balance remains unchanged” should not be understood as an endorsement by\nthe PRAC of all existing indications. The assessment of a PSUR is focused on new safety concerns, or\nwhether knowledge about risks have changed or whether there are changes to the benefit-risk balance\nof medicinal products, identified during the PSUR reporting interval.\nCurrently approved indications or populations may be restricted if there is enough evidence in the PSUR\njustifying a change in the B/R balance for those. However, any claim for a new indication needs to be\nsubmitted via the appropriate regulatory procedure (variation) including a comprehensive data package.\nPSURs cannot be used as a basis for extensions of indications."
+        },
+        {
+          "num": "2.6.3.",
+          "text": "Can a PSUR procedure add a new indication to approved medicinal\nproducts in a MS?\nNo, PSURs are focused on safety and whether new safety concerns affect the overall B/R balance of the\nmedicinal product. Hence, only changes to an indication which are justified based on safety concerns\n(i.e. deletion or restriction of an existing indication) can be implemented as an outcome of a PSUR.\nIt is important to bear in mind that a PRAC recommendation of unchanged B/R balance in an indication\nthat is authorised only in some MS, cannot be automatically extended to other MSs where the indication\nis not authorised. New indications need to be submitted via the appropriate regulatory procedure\nincluding a comprehensive data package. PSURs and the efficacy data presented by MAHs cannot be\nused as a basis for extension of indications."
+        },
+        {
+          "num": "2.7.",
+          "text": "RfSI within or at next PSUR"
+        },
+        {
+          "num": "2.7.1.",
+          "text": "How to deal with requests for cumulative reviews and how to\ndifferentiate between those to be answered within the 30 days and those\nwhich are for the next PSUR?\nFor the RfSI section, a risk-based approach should always be taken by PRAC Rapporteur/LMS to limit\nrequests to only those which are needed to address potential recommendations for regulatory action(s)\nwithin the PSUSA, or which may affect the B/R balance. For instance, if there is an issue reviewed within\nthe PSUSA, which may lead to a recommendation for regulatory action, but the amount of data, the\nquality of the data or analyses of data presented in the initial PSUR are insufficient for an adequate\nassessment, MAHs should be requested to provide further level of/quality of information and/or data\nanalyses via an RfSI.\nQuestions which are merely nice to have, address observed discrepancies in submitted datasets, or seek\nsmall clarifications, which will not have an impact on the assessment conclusions or recommendations\nshould be avoided in the RfSI section. However, such points may be recorded in the AR as a flag to the\nconcerned MAHs.\nRequests for cumulative reviews should always be risk-based, justified and clear. It is also important to\nlimit the number of requested cumulative reviews in the RfSI since there is only a limited time for MAHs\nPage /\nto respond (30 days) and for further assessment (15 days). In several cases, it is more relevant to\nrequest a cumulative review for the next PSUR instead, especially if the PSUR cycle is on a shorter\nfrequency, although such requests should also be well justified and as few as possible, see further below.\nConsidering the timetable (TT), the LMS/PRAC Rapporteur has 15 days, following receipt of the MAHs’\nresponses and MSs’ comments to update the AR. Only questions which may lead to a regulatory action\nas part of the PSUSA outcome or that are critical to the assessment of the B/R balance, should be\nconsidered. Other questions can be included in the recommendations to be addressed in future PSURs\nor via possible other regulatory alternatives when the PSUR is on a long cycle (please refer to section\n2.7.2). It is also recommended to limit the number of questions for the next PSURs, as much as possible,\nthus many small questions which would not result in any regulatory action or any consequences to the\nassessment should not be raised. A comment in the AR can often be sufficient to make the MAH aware\nfor future submissions. Please note that, while the PSUSA procedure is ongoing, the procedure should\nbe scheduled for PRAC plenary discussion (in the month preceding the adoption of the PRAC\nrecommendation) if the evaluation in the Preliminary AR questions the B/R balance, proposes to\nrevoke/suspend the MA, or in case of a restriction of the indication (e.g. by a new contraindication), or\na reduction of the recommended dose. In such cases, the PRAC Rapporteur/LMS should consult EMA to\nconfirm that an early plenary discussion is warranted.\nAny requests that do not reflect the principles and format of the PSUR, for example requests aimed as\nusing the PSUR summary tables for signal detection, systematic requests for LL and Council for\nInternational Organizations of Medical Sciences (CIOMS) reports should not be undertaken.\nIn addition, careful consideration should be given as to whether the proposed request will provide\nmeaningful information that could be the basis for regulatory action."
+        },
+        {
+          "num": "2.7.2.",
+          "text": "What to do when an issue cannot be finalised within the PSUSA?\nThe usual approach is to raise the issue for the next PSUR. Earlier follow up requests outside the PSUR\ncycle should be exceptional and always be risk proportionate and scientifically justified. Moreover, in\nsituations where the assessment of a follow up request would finalise in parallel or even later than the\nnext PSUR, such request should be avoided. This means that follow up requests should generally not be\nraised when the PSUR cycle, as listed in the European Union Reference Dates (EURD) list, is under or on\na yearly basis.\nCAPs only\nWhen an important safety issue has been raised during the PSUSA, but its evaluation cannot be finalised\nwithin the procedure and further evaluation is needed before the next PSUR submission, it is possible to\nrequest a Post-Authorisation Measure imposed under EU legislation (LEG procedure) as an outcome to\nthe PSUSA. A LEG is a Post-Authorisation Measure which is defined as a statutory obligation in the\npharmaceutical legislation. In a LEG procedure, the MAH will be requested to provide further data for\nassessment as a stand-alone submission within a short timeframe (between 2 to 6 months following\nPRAC recommendation on the PSUSA). If the outcome of the LEG evaluation is to recommend a PI\nupdate, such update will be addressed via an implementing variation. It is important not to request a\nLEG procedure when the PSUR cycle is short i.e. 1 year or less since the conclusion of the LEG procedure\nmay overlap with the next PSUR evaluation.\nPage /\nNAPs only\nLEG procedures do not exist for NAPs. However, other mechanisms are available, and LMS/PRAC should\nconsider, on a case-by-case basis, which tool is most appropriate if further review is needed after the\nPSUSA procedure but before the next one. The procedure for handling of a continued review should be\nclearly defined in the AR. This procedure should be defined in consultation with the CMDh member from\nthe respective LMS.\nAmongst the various existing regulatory tools, LMS (in liaison with the CMDh member)/PRAC should\nconsider whether: if possible (i.e. when the relevant product is authorised in the LMS and the follow up\nrequest is directed to one MAH), the assessment of the data should be performed by the LMS e.g. in\ncase the MAH will submit this data via a WS variation, Mutual Recognition Procedure or national variation\nprocedure (either upon the MAHs’ own initiative or upon a CMDh request). For situations where multiple\nMAHs are involved, such follow up request will be handled via an informal WS procedure PSUR follow-up\n(PSUFU) procedure. PRAC should generally be consulted in the assessment of the data through a MS\nrequest for PRAC advice made by the LMS, but this is depending on the nature of the data to be assessed.\nThe LMS should indicate in the AR (section 4.2. <Issues to be addressed as part of a follow-up measure\nto the PSUSA:>) the route which should be followed for the submission of the data (e.g. PSUFU or\nvariation procedure). As mentioned above, this process should be defined in consultation between the\nCMDh member and PRAC member of the respective LMS.\nOther options – when the outstanding issue is compatible with the procedure - may be to:\n- Trigger a signal procedure at PRAC level;\n- Bring the next PSUR submission forward (i.e. to advise changing the PSUR cycle at the end\nof the PSUSA assessment), however this should only be done rarely;\n- Trigger the appropriate referral procedure."
+        },
+        {
+          "num": "2.8.",
+          "text": "PSUR frequency and EURD list (PSUR AR template: section 4/. on\nPSUR frequency)"
+        },
+        {
+          "num": "2.8.1.",
+          "text": "Under which scenarios should the PRAC Rapporteur/LMS consider\n(or not) to change the PSUR frequency?\nAs per GVP Module VII, MAH for products authorised before 02 July 2012 (CAPs) and 21 July 2012 (NAPs)\nand for which frequency and dates of submission are not laid down as a condition to the\nmarketing authorisation or determined in the list of Union reference dates, shall submit PSURs\naccording to the following submission schedule [REG 28(2), DIR Art 107c(2)].\n• at 6 month intervals once the product is authorised, even if it is not marketed;\n• once a product is marketed, 6 monthly PSUR submission should be continued following initial\nplacing on the market in the EU for 2 years, then once a year for the following 2 years and\nthereafter at 3-yearly intervals.\nPage /\nFor CAPs, the QRD PI template includes the following conditions in Annex IIC (Other conditions and\nrequirements of the marketing authorisation holders):\n- for all authorised medicinal products:\nThe requirements for submission of PSURs for this medicinal product are set out in the EURD\nlist provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates\npublished on the European medicines web-portal.\n- In addition to the above paragraph, medicinal products authorised as conditional marketing\nauthorisation (CMA) include the below condition:\nThe requirements for submission of PSURs for this medicinal product are set out in Article 9 of\nRegulation (EC) No 507/2006 and, accordingly, the marketing authorisation holder (MAH) shall\nsubmit PSURs every 6 months.\nThus, the above conditions listed in the MA overrule the submission schedule mentioned above ([REG\n28(2), DIR Art 107c(2)]). Therefore, except for CMAs, PRAC may recommend any PSUR frequency.\nIn the context of every PSUSA procedure, the PRAC Rapporteur / LMS should review the current PSUR\nfrequency and recommend an appropriate frequency for the next PSUR based on the current\ncharacterisation of the safety profile based on cumulative data and newly presented data. PSURs\nfrequencies should always be defined on a risk-based approach.\nThe below should be considered when recommending the PSUR frequency:\nIn general, for medicinal products containing a new active substance, a short PSUR cycle is initially\nanticipated (every 6 months). For substances already approved in other medicines, a longer PSUR\nfrequency can often be adequate, in line with the PSUR frequency for the already approved medicines\n(e.g. a known substance included in a new fixed dose combination, or a known substance approved in a\nnew pharmaceutical form). In principle, if an EURD list entry already exists for the substance concerned,\nthe newly approved product should be included under that entry. A new PSUR frequency should only be\ndefined in cases where a new EURD list entry is required, based on a clearly articulated justification.\nThe foreseen exposure in the post-marketing setting should also be considered. A low exposure to the\nmedicinal product (and expectation that this will not increase significantly in the short term) should be\nconsidered as a criterion to prolong the PSUR frequency to gather meaningful data in the PSUR. On the\nother hand, new medicinal products such as vaccines expected to be used in extensive vaccination\ncampaigns (e.g. during a pandemic) would generally warrant a short PSUR cycle, which may be\ncomplemented with summary of safety reports submitted with an even shorter frequency between a\nmonthly and bimonthly cycle.\nFor more mature products, not all ongoing safety topics warrant keeping a short PSUR cycle. To\ndetermine whether a short PSUR frequency remains warranted, the nature of the safety concern(s) and\nthe approved use, should be considered. Furthermore, the extent of patient exposure and whether a\nshort PSUR cycle would allow to gather sufficient new information that could lead to regulatory action or\nimpact public health should also be considered. In case a PSUR cycle should be kept to further\ncharacterise a specific safety concern, the PSUR frequency should generally be extended once the safety\nissue has been further characterised.\nPage /\nThe availability of additional regulatory tools such as signal detection activities and risk management\nactivities (including agreed PASS – interim reports, final reports) should also be considered. Parallel\nongoing procedures (e.g. referrals or type II variations) are not a reason for not prolonging a PSUR\nfrequency. Similarly, the fact that there are post authorisation safety studies ongoing is not an adequate\njustification for not prolonging the PSUR frequency. Furthermore, PSURs are not a tool to report final\nPASS results, other appropriate regulatory tools should be used instead. Although interim results from\nongoing PASS sometimes are requested to be submitted within a PSUR, such request should not be the\nonly reason to maintain a short frequency. In such cases, other solutions should be sought, e.g. change\nto less frequent submissions of interim results, or to ask for that within a separate procedure. In all other\ncases, regular submission of interim reports at specific milestones can be agreed with the MAH and\ndetailed in the corresponding section of the RMP. Final results should also be presented in an appropriate\nprocedure (see section 2.5.1. above). Any changes to the PSUR frequency should be discussed in Section"
+        },
+        {
+          "num": "2",
+          "text": "(Assessment conclusions and actions) and included in section 4/ (PSUR frequency <and other changes\nto the EURD list) of the PSUR AR."
+        },
+        {
+          "num": "2.8.2.",
+          "text": "Should separate entries in the EURD list be considered for active\nsubstances, where there are major differences depending on the indication\nor route of administration, to allow for a more tailored PSUR assessment?\nUnless otherwise specified in the EURD list or agreed with the NCAs or the EMA, as appropriate, a PSUSA\nshall be prepared for all medicinal products containing the same active substance and authorised for one\nMAH as set out in the Commission IR (EU) No 520/2012 on the performance of pharmacovigilance\nactivities. Therefore, careful consideration should be given before splitting entries which should only be\ndone in exceptional cases when significantly different safety profiles are expected. It must be taken into\naccount that splitting entries should not create more complexity in managing PI updates as the safety\noutcome for one indication will mostly be relevant for the other indication of products containing the\nsame active substance.\nThe decision to merge or split entries in the EURD list might be made as part of the regulatory procedure\n(e.g. PSUSA, initial procedure, extension of indication). In the context of PSUSA procedure, the proposal\nshould be discussed in section 2 (Assessment conclusions and actions) and included in section 4/ (PSUR\nfrequency <and other changes to the EURD list) of the PSUR AR. Involvement of Granularity and\nPeriodicity Advisory Group (GPAG) is not required, however the LMS may consider approaching GPAG\nfor consultation (via eurdlist@ema.europa.eu).\nShould the decision to merge or split an entry be taken outside of a regulatory procedure, this should be\ndone well in advance i.e. more than 6 months before the submission date of the next PSUR. In such\ncase, GPAG consultation is always required, and the outcome will be implemented as part of the GPAG\noutcomes that are adopted by PRAC and CHMP/CMDh.\nPage /"
+        },
+        {
+          "num": "2.8.3.",
+          "text": "When should products referred to in Articles 10(1) (generics) and\n10a (well established use) of Directive 2001/83/EC, as amended, (not) be\nrequested for inclusion in a PSUSA?\nAccording to DIR Art 107b(3), the MAHs for medicinal products authorised via articles 10(1) (generics)\nor a (well established use) are exempted from submitting PSURs, except in the following\ncircumstances:\n- where such obligation has been laid down as a condition in the marketing authorisation in accordance\nwith Article 21a or Article 22; or\n- when requested by a competent authority based on concerns relating to pharmacovigilance data or\ndue to the lack of periodic safety update reports relating to an active substance after the marketing\nauthorisation has been granted.\nThe below should be considered as guidance to determine the need to request PSUR for generics/well\nestablished use:\nThe following criteria constitute a justification for requesting PSURs for generics / well\nestablished use products:\n- when medicinal products containing the same active substance or/and combination of active substances\nare only authorised under legal basis 10(1) and/or 10(a) in more than 1 MS i.e., the originator no longer\nhas a marketing authorisation.\n- when medicinal products containing the same active substance or/and combination of active substances\nare authorised in only 1 MS via any of the following articles:\n• article 8(3)(full application)\n• Art 10b (fixed dose application)\n• Art10c (Informed consent application)\n• Art 10(3) hybrid application)\nAND medicinal products containing the same active substance or/and combination of active substances\nare authorised in other MS(s) via Art 10(1) (generic) or 10(a) (well established use).\nIn these 2 previous cases, as the medicinal products are authorised in more than one MS, the PSUSA\nprocedure can take place. These scenarios are usually managed by the EURD list Team/GPAG.\n- When the WEU have indications not authorised for the originator and which are considered significantly\ndifferent to those of the originator.\nThe following criteria do not constitute a justification for requesting PSURs for generics /well\nestablished use products:\n- when a safety topic is not fully characterised.\n- when the submitted PSUR contains limited data due to - e.g., low patient exposure, rare disease, low\nquality of data. The MAH for the reference / originator products has the responsibility to report all\nrelevant information from all the sources in the PSUR which includes EudraVigilance cases for the\nsubstance covered by the PSUR, thereby also include cases reported for other products such as generics.\nPage /\n- when there are other procedures more appropriate to address the safety issue.\nWhen the reason for the initial request for PSUR submissions for generic/WEU products has been\naddressed and is no longer applicable, the EURD list should be revised and no longer request PSUR\nsubmissions for such products. If the original cause is unclear e.g., decisions taken a long time ago, the\nPRAC Rapporteur/LMS should assess whether any of the above-mentioned criteria are still met. In the\ncontext of every PSUSA procedure, the PRAC Rapporteur/LMS should proactively review the need to\nmaintain the request for PSUR submission for generic/WEU products switch on.\nAny changes in the submission of PSURs for products referred to in Articles 10(1) and 10a of Directive\n2001/83/EC as amended, should be detailed in section 2 (Assessment conclusions and actions), with a\njustification and scientific rationale, in line with the general principles agreed by GPAG and the PRAC,\nand reflected in section 4/5 PSUR frequency <and other changes to the EURD list>)."
+        },
+        {
+          "num": "2.9.",
+          "text": "Section 1- of the <PRAC> <Lead Member State> PSUR AR"
+        },
+        {
+          "num": "2.9.1.",
+          "text": "How to achieve consistency in the summary sections 1-4 across\ndifferent PSUSA and which elements should be reflected in each section\nand how detailed should it be?\nThe LMS/PRAC Rapporteur should carefully follow the green guidance text in the AR template."
+        },
+        {
+          "num": "2.9.2.",
+          "text": "Section : Assessment conclusions and actions\nThis section aims at outlining the assessment conclusions which primarily result in specific action(s) to\nbe taken by the MAH(s) involved in the PSUSA e.g., recommendation for PI update in section 3 of the\nAR, issues to be addressed in the next PSUR or as part of a follow-up measure (sections 4.1 and 4.2 of\nthe AR) or as part of a subsequent RMP update (section 4.3 of the AR) or a change to the PSUR frequency\nor EURD list (section 4/5 of the AR). In section 2 of the AR, it is not expected that the LMS/PRAC\nRapporteur will repeat all issues that have been assessed in the PSUSA, as those are already detailed in\nthe Annex of the PSUSA AR, especially not for issues where no action is to be taken by the MAH(s). In\ngeneral, section 2 should not be longer than approximately two pages. For PSUSA procedures where the\nproposed recommendation is maintenance, section should be succinct (half a page to page\nmaximum).\nIn section 2, it is not considered necessary to include all authorised indications of the products in scope\nof the PSUSA in full details but rather in short. Posologies are generally not needed to be reflected at all."
+        },
+        {
+          "num": "2.9.3.",
+          "text": "Section 4.1: Issues to be addressed in the next PSUR\nThis section is optional and should only be used when there is a need to follow up on specific, important\nissues, beyond those listed in the summary of safety concerns, in the next PSUR. Applying the same\nprinciple as for requests raised in the RfSI (see under 2.7.1), the issues to be addressed in the next\nPage /\nPSUR should always be risk based and possibly affecting the B/R of the products in scope of the PSUSA.\nIn section 4.1, questions which may be nice to know but are not relevant for a PI update or the\nassessment of the B/R balance of the products should be avoided. Such points may be recorded in the\ncurrent PSUSA AR as a flag to the concerned MAHs in the relevant assessors’ comment boxes and may,\nif important, be commented in section 2 of the AR."
+        },
+        {
+          "num": "2.10.",
+          "text": "Evaluating the effectiveness of aRMMs\nReference is made to GVP Module VII (VII.C.5.5. PSUR EU regional appendix, sub-section\n“Effectiveness of risk minimisation”) and GVP module XVI on Risk minimisation measures. If there are\naRMMs in place for a medicinal product, it is expected that the continued need of these is reevaluated\nwithin the PSUSA. Such re-evaluation should ideally take place before generics/biosimilars come to the\nmarket. The review should consider whether effectiveness of aRMMs have been evaluated in any study\nsetting and, where applicable, consider the results of this study. Furthermore, the feasibility across\nMSs should be considered, particularly for more complex aRMMs, and whether the recommendations\ngiven in the aRMMs for specific clinical actions to address certain risks have become integrated into\nstandard clinical practice, such as inclusion into treatment protocols or clinical guidelines. It is\nanticipated that this is usually the case when a medicinal product has been used for a certain period of\ntime by a considerable number of healthcare professionals and patients. In light of this, particular\nattention should be paid to the more mature products. Based on the outcome of the review, a proposal\nshould be made regarding whether the aRMMs should be maintained, amended or whether the aRMMs\ncan be partially or completely discontinued. In case of proposed amendment or discontinuation of the\naRMMs, the PRAC Rapporteur/LMS should also consider whether the PSUR cycle should be revised."
+        },
+        {
+          "num": "3.",
+          "text": "Pregnancy and Breastfeeding\nAssessors are reminded that the Guideline on good pharmacovigilance practices (GVP) Product- or\nPopulation-Specific Considerations III: Pregnant and breastfeeding women and their children exposed in\nutero or via breast milk outlines specific requirements on the reporting and assessment of pregnancy\nand breastfeeding data in PSURs. This GVP should be consulted when evaluating PSURs that include data\non pregnancy or breastfeeding exposures."
+        },
+        {
+          "num": "4.",
+          "text": "Use of Real World Evidence (RWE) including DARWIN EU,\nReal World Data (RWD) studies\nEMA has access to RWD in the form of patient electronic health records from different sources including\na number of existing registries, which can be used to facilitate regulatory evaluations and inform\ndecision-making. On this basis, EMA provides a service to generate and deliver RWE to EMA’s scientific\ncommittees, national competent authorities (NCAs), EMA functions and other EU decision-makers and\npartner organisations. More information can be found here: Real-world evidence provided by EMA\nPage /\nIn case uncertainties in relation to a safety concern of clinical relevance concerning an active substance\nor therapeutic class remain following the assessment of the data provided in the PSUR, the use of\nDARWIN EU to generate RWE may be considered after discussion and agreement in the plenary by PRAC.\nThe PRAC rapporteur /LMS can reach out to: rwe@ema.europa.eu. As a first step, EMA will investigate\nthe feasibility of conducting a study. EMA will then inform the requester accordingly, for the PRAC to\ndecide on whether to perform the study, if feasible.\nIf access to data from patient registries outside DARWIN EU is required, EMA can also facilitate the\nidentification of, and liaison with existing registries if any, to explore the possibility for collaboration\n(and/or the performance of the study under existing framework contracts).\nPage /\n. DEFINITIONS"
+        },
+        {
+          "num": "1.",
+          "text": "Monitor via Routine Pharmacovigilance\nDefined in GVP:\n• Refers to the MAH’s standard signal detection and safety monitoring activities.\n• No formal requirement to report on the issue in the PSUR unless new relevant data emerge.\n• If nothing new is identified, the issue does not need to be mentioned at all in the PSUR.\nMAH expectation: No specific action unless new relevant data have arisen in the reporting period."
+        },
+        {
+          "num": "2.",
+          "text": "Monitor/Follow up in the PSUR\nDefined in GVP Module VII, Section 15\n• Used when a competent authority requests that a particular topic (not an open signal) be\nmonitored and reported in the PSUR.\n• Results of the MAH analysis (even if negative) should be presented in Section 15 of the PSUR.\n• If new data leads the MAH to consider the issue a signal, it must also be included in the Signal\nTabulation (Section 15) and evaluated in Section 16.2.\nMAH expectation: Review the new data (since the last time the topic was reviewed) and make a\ndecision/proposal considering the totality of the data.\nPlease note that the concept of ‘close monitoring’ should be avoided. However, if this is used, it will be\nunderstood as this specific definition."
+        },
+        {
+          "num": "3.",
+          "text": "Cumulative Review in the PSUR\n• This refers to a formal PRAC request to be provided by the MAH and assessed in the PSUSA.\nMAH expectation: Conduct a structured analysis and include conclusions/recommendations e.g., PI\nupdate as necessary."
+        },
+        {
+          "num": "4.",
+          "text": "Update of the Summary of Safety Concerns in the PSUR\n• PRAC may recommend adding a safety concern to the Summary of safety concerns in the\nPSUR (Section 16.1) (without) updating the RMP.\n• Please see the section 2.3 of this guidance and Explanatory Note to GVP VII. It is acknowledged\nthat the PSUR Summary of Safety Concerns may differ from the RMP.\nMAH expectation: Ensure consistency with PRAC recommendations.\nPage /"
+        },
+        {
+          "num": "5.",
+          "text": "For other definitions such as Safety concern, Important Identified/Potential Risks and\nIdentified risk (including a reference to Potential risk). Please see GVP Annex I Definitions.\nPage /"
+        }
+      ]
+    }
+  ],
+  "_cleanedBy": "heuristic",
+  "sourceUrl": "https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/questions-answers-periodic-safety-update-report-single-assessment-psusa-guidance-document-assessors_en.pdf",
+  "id": "Questions-and-answers-on-the-periodic-safety-update-report-s",
+  "sourceTitle": "",
+  "rawFile": "ema/questions-answers-periodic-safety-update-report-single-assessment-psusa-guidance.md",
+  "updatedAt": "2026-08-18T13:17:58.095Z",
+  "articleCount": 83
+}

@@ -1,0 +1,505 @@
+{
+  "title": "Good pharmacovigilance practices (GVP) – Module VIII: Post-authorisation safety studies (Rev 3)",
+  "shortTitle": "GVP Module VIII (Rev 3)",
+  "documentNumber": "",
+  "issuingAuthority": "",
+  "issueDate": "",
+  "effectiveDate": "",
+  "status": "现行有效",
+  "category": "指南",
+  "country": "欧盟",
+  "chapters": [
+    {
+      "title": "section 10.6.), in order to align this Module with revision 2 of GVP Module VI.",
+      "articles": [
+        {
+          "num": "VIII.C.1.1.",
+          "text": "Request for a post-authorisation safety study as part of the initial marketing"
+        },
+        {
+          "num": "VIII.C.1.2.",
+          "text": "Request for a post-authorisation safety study during a post-authorisation"
+        },
+        {
+          "num": "VIII.C.1.3.",
+          "text": "Request for a post-authorisation safety study due to an emerging safety concern"
+        },
+        {
+          "num": "VIII.C.2.",
+          "text": "Supervision of non-interventional post-authorisation safety studies conducted"
+        },
+        {
+          "num": "VIII.C.3.",
+          "text": "Changes to the marketing authorisation following results from a non-interventional"
+        },
+        {
+          "num": "VIII.A.",
+          "text": "Introduction\nRegulation (EC) No 726/2004, Directive 2001/83/EC and Commission Implementing Regulation (EU)\nNo 520/2012 (hereinafter referred to as REG, DIR and IR) include provisions for post-authorisation\nsafety studies applicable in the European Union (EU).\nA post-authorisation safety study (PASS) is defined in DIR Art 1(15) as any study relating to an\nauthorised medicinal product conducted with the aim of identifying, characterising or quantifying a\nsafety hazard, confirming the safety profile of the medicinal product, or of measuring the effectiveness\nof risk management measures.\nA PASS may be interventional or non-interventional. This Module concerns both interventional and\nnon-interventional PASS, with a main focus on non-interventional ones. It does not concern pre-clinical\nsafety studies.\nNon-interventional PASS concerned by this guidance are those initiated, managed or financed by a\nmarketing authorisation holder voluntarily or pursuant to an obligation imposed by an EU competent\nauthority [DIR Art 107m(1), REG Art 28b].\nNon-interventional PASS concerned can be:\n• imposed as an obligation in accordance with REG Art 9(4)(cb) and Art 10a(1)(a) and with DIR Art\n21a(b) and Art 22a(1)(a) (category 1 of studies in GVP Module V);\n• imposed as a specific obligation in the framework of a marketing authorisation granted under\nexceptional circumstances (category 2 of studies in GVP Module V);\n• required in the risk management plan (RMP) to investigate a safety concern or to evaluate the\neffectiveness of risk minimisation activities (category 3 of studies in GVP Module V); or\n• conducted voluntarily by a marketing authorisation holder.\nNon-interventional PASS shall be conducted in accordance with the following provisions:\n• DIR Art 107m for non-interventional PASS initiated, managed or financed by a marketing\nauthorisation holder voluntarily or pursuant to imposed obligations;\n• DIR Art 107n-q, REG Art 28b and IR Art 36-38 for non-interventional PASS conducted pursuant to\nan obligation imposed by an EU competent authority (categories 1 and 2 of studies in GVP Module\nV).\nA PASS is non-interventional if the following requirements are cumulatively fulfilled (see Volume 10 of\nThe Rules Governing Medicinal Products in the European Union, Questions and Answers, Version 11.0,\n15 May 2013, Question 1.10):\n• the medicinal product is prescribed in the usual manner in accordance with the terms of the\nmarketing authorisation;\n• the assignment of the patient to a particular therapeutic strategy is not decided in advance by a\ntrial protocol but falls within current practice and the prescription of the medicine is clearly\nseparated from the decision to include the patient in the study; and\n• no additional diagnostic or monitoring procedures are applied to the patients and epidemiological\nmethods are used for the analysis of collected data.\nhttp://ec.europa.eu/health/files/eudralex/vol-10/ctqa_v11.pdf\nNon-interventional studies are defined by the methodological approach used and not by its scientific\nobjectives. Non-interventional studies include database research or review of records where all the\nevents of interest have already happened (this may include case-control, cross-sectional, cohort or\nother study designs making secondary use of data). Non-interventional studies also include those\ninvolving primary data collection (e.g. prospective observational studies and registries in which the\ndata collected derive from routine clinical care), provided that the conditions set out above are met. In\nthese studies, interviews, questionnaires, blood samples and patient follow-up may be performed as\npart of normal clinical practice.\nIf a PASS is interventional, the provisions of Directive 2001/20/EC and of Volume 10 of The Rules\nGoverning Medicinal Products in the European Unionshall apply.\nThe purposes of this Module are to:\n• provide general guidance for the transparency, scientific standards and quality standards of non-\ninterventional PASS conducted voluntarily or pursuant to an obligation imposed by an EU\ncompetent authority (VIII.B.);\n• describe procedures whereby an EU competent authority may impose on a marketing authorisation\nholder an obligation to conduct a PASS (VIII.C.1.);\n• describe procedures that apply to non-interventional PASS pursuant to an obligation imposed by an\nEU competent authority for the protocol oversight and reporting of results (VIII.C.2.) and for\nsubsequent changes to the marketing authorisation (VIII.C.3.).\nLegal requirements are identifiable by the modal verb “shall”. Recommendations that are not legal\nrequirements are provided using the modal verb “should”. National and Union requirements for\nensuring the well-being and rights of participants in non-interventional PASS shall also apply [DIR Art\n107m(2)].\nIn VIII.B., some legal requirements which are mandatory to non-interventional PASS conducted\npursuant to an obligation imposed by an EU competent authority are recommended for non-\ninterventional PASS conducted voluntarily in order to support the same level of transparency, scientific\nstandards and quality standards. This applies, for example, to the format and content of the study\nprotocol and of the final study report and its abstract.\nFor non-interventional PASS, this guidance applies to studies that involve primary collection of safety\ndata directly from patients and healthcare professionals as well as those that make secondary use of\ndata previously collected from patients and healthcare professionals for another purpose."
+        },
+        {
+          "num": "VIII.A.1.",
+          "text": "Terminology\nDate at which a study commences: date of the start of data collection.\nStart of data collection: the date from which information on the first study subject is first recorded\nin the study dataset or, in the case of secondary use of data, the date from which data extraction\nstarts [IR Art 37(1)]. Simple counts in a database to support the development of the study protocol,\nfor example, to inform the sample size and statistical precision of the study, are not part of this\ndefinition.\nEnd of data collection: the date from which the analytical dataset is completely available [IR Art\n37(2)].\nhttp://ec.europa.eu/health/documents/eudralex/vol-10/\nAnalytical dataset: the minimum set of data required to perform the statistical analyses leading to\nthe results for the primary objective(s) of the study.\nSubstantial amendment to the study protocol: amendment to the protocol likely to have an\nimpact on the safety, physical or mental well-being of the study participants or that may affect the\nstudy results and their interpretation, such as changes to the primary or secondary objectives of the\nstudy, the study population, the sample size, the study design, the data sources, the method of data\ncollection, the definitions of the main exposure, outcome and confounding variables or the statistical\nanalytical plan as described in the study protocol."
+        },
+        {
+          "num": "VIII.B.",
+          "text": "Structures and processes"
+        },
+        {
+          "num": "VIII.B.1.",
+          "text": "Principles\nIn the light of DIR Art 1(15), a post-authorisation study should be classified as a post-authorisation\nsafety study when the main aim for initiating the study includes any of the following objectives:\n• to quantify potential or identified risks, e.g. to characterise the incidence rate, estimate the rate\nratio or rate difference in comparison to a non-exposed population or a population exposed to\nanother medicinal product or class of medicinal products as appropriate, and investigate risk\nfactors, including effect modifiers;\n• to evaluate the risks of a medicinal product used in a patient population for which safety\ninformation is limited or missing (e.g. pregnant women, specific age groups, patients with renal or\nhepatic impairment or other relevant comorbidity or co-medication);\n• to evaluate the risks of a medicinal product after long-term use;\n• to provide evidence about the absence of risks;\n• to assess patterns of drug utilisation that add knowledge regarding the safety of the medicinal\nproduct or the effectiveness of a risk management measure (e.g. collection of information on\nindication, off-label use, dosage, co-medication or medication errors in clinical practice that may\ninfluence safety, as well as studies that provide an estimate of the public health impact of any\nsafety concern);\n• to measure the effectiveness of a risk management measures.\nWhereas the PASS design should be appropriate to address the study objective(s), the classification of\na post-authorisation study as a PASS is not constrained by the type of design chosen if it fulfils the\ncriteria as set in DIR Art 1(15). For example, a systematic literature review or a meta-analysis may be\nconsidered as PASS depending on its aim.\nRelevant scientific guidance should be considered by marketing authorisation holders and investigators\nfor the development of study protocols, the conduct of studies and the writing of study reports, and by\nthe Pharmacovigilance Risk Assessment Committee (PRAC) and national competent authorities for the\nevaluation of study protocols and study reports. Relevant scientific guidance includes, amongst others,\nthe ENCePP Guide on Methodological Standards in Pharmacoepidemiology, the ENCePP Checklist for\nStudy Protocols, the Guideline on Conduct of Pharmacovigilance for Medicines Used by the Paediatric\nhttp://www.encepp.eu/standards_and_guidances/methodologicalGuide.shtml\nhttp://www.encepp.eu/standards_and_guidances/checkListProtocols.shtml\nPopulation, and the Guidelines for Good Pharmacoepidemiology Practices of the International Society\nof Pharmacoepidemiology (ISPE GPP).\nFor studies that are funded by a marketing authorisation holder, including studies developed,\nconducted or analysed fully or partially by investigators who are not employees of the marketing\nauthorisation holder, the marketing authorisation holder should ensure that the investigators are\nqualified by education, training and experience to perform their tasks. The research contract between\nthe marketing authorisation holder and investigators should ensure that the study meets its regulatory\nobligations while permitting their scientific expertise to be exercised throughout the research process.\nIn the research contract, the marketing authorisation holder should consider the provisions of the\nENCePP Code of Conduct, and address the following aspects:\n• rationale, main objectives and brief description of the intended methods of the research to be\ncarried out by the investigator(s);\n• rights and obligations of the investigator(s) and marketing authorisation holder;\n• clear assignment of tasks and responsibilities;\n• procedure for achieving agreement on the study protocol;\n• provisions for meeting the marketing authorisation holder’s pharmacovigilance obligations,\nincluding the reporting of adverse reactions and other safety data by investigators, where\napplicable;\n• intellectual property rights arising from the study and access to study data;\n• storage and availability of analytical dataset and statistical programmes for audit and inspection;\n• communication strategy for the scheduled progress and final reports;\n• publication strategy of interim and final results.\nNon-interventional post-authorisation safety studies shall not be performed where the act of\nconducting the study promotes the use of a medicinal product [DIR Art 107m(3)]. This requirement\napplies to all studies and to all activities performed in the study, including for studies conducted by the\npersonnel of the marketing authorisation holder and by third parties on behalf of the marketing\nauthorisation holder.\nPayments to healthcare professionals for participating shall be restricted to compensation for time and\nexpenses incurred [DIR Art 107m(4)]."
+        },
+        {
+          "num": "VIII.B.2.",
+          "text": "Study registration\nFor non-interventional PASS conducted pursuant to an obligation imposed by an EU competent\nauthority, the date of study registration in the electronic study register shall be included as a milestone\nin the final study report [IR Annex III]. For this purpose, the EU PAS Register maintained by the\nAgency and accessible through the European medicines web-portal serves as the electronic study\nregister.\nIn order to support transparency on all non-interventional PASS and to facilitate exchange of\npharmacovigilance information between the Agency, national competent authorities and marketing\nhttp://www.ema.europa.eu\nhttp://www.pharmacoepi.org/resources/guidelines_08027.cfm\nhttp://www.encepp.eu/code_of_conduct/documents/ENCePPCodeofConduct_Rev3.pdf\nhttp://www.encepp.eu/encepp_studies/indexRegister.shtml\nauthorisation holders, the marketing authorisation holders should also enter in the EU PAS Register all\nnon-interventional PASS required in the risk management plan agreed in the EU or conducted\nvoluntarily in the EU.\nNon-interventional PASS should be registered in the EU PAS Register before the study commences or\nat the earliest possible date, for example if data collection had already started for a study included in\nthe risk management plan. The study protocol should be uploaded as soon as possible after its\nfinalisation and prior to the start of data collection. Updated study protocols in case of substantial\namendments, progress reports and the final study report should also be entered in the register (as\nsoon as possible and preferably within two weeks after their finalisation). Study information should\nnormally be submitted in English. If the study protocol or the study report is written in another\nlanguage, the marketing authorisation should facilitate access to study information by including an\nEnglish translation of the title, the abstract of the study protocol and the abstract of the final study\nreport.\nWhere prior publication of the protocol could threaten the validity of the study (for example, in studies\nwith primary data collection where prior knowledge of the study objective could lead to information\nbias) or the protection of intellectual rights, a study protocol with redactions made by the marketing\nauthorisation holder may be entered into the register prior to the start of data collection. These\nredactions should be justified and kept to the minimum necessary for the objective aimed by the\nredaction process. Whenever a redacted study protocol is published prior to the start of data collection,\nthe title page of the protocol should include the mention “Redacted protocol” and the complete study\nprotocol should be made available to the Agency and national competent authorities upon request. The\ncomplete study protocol should be entered in the register as soon as possible and preferably within two\nweeks after the end of data collection."
+        },
+        {
+          "num": "VIII.B.3.",
+          "text": "Study protocol\nNon-interventional PASS conducted pursuant to an obligation imposed by an EU competent authority\nor conducted voluntarily shall have a written study protocol. The study protocol should be developed\nby individuals with appropriate scientific background and experience. An overview of study designs\nand databases frequently used in post-authorisation safety studies is provided in VIII.App.1.\nFor non-interventional PASS imposed as an obligation, the draft study protocol shall be submitted by\nthe marketing authorisation holder to the PRAC or to the national competent authority of the Member\nState that requested the study if the study is conducted in only one Member State [DIR Art 107n(1)]\n(see VIII. C.2.).\nThe marketing authorisation holder may be required by the national competent authority to submit the\nprotocol to the competent authorities of the Member States in which the study is conducted [DIR Art\n107m(5)]. Requirements and recommendations for submission of the study protocol to the Agency and\nnational competent authorities are specified in GVP Module VIII Addendum I.\nIn order to ensure compliance of the marketing authorisation holder with its pharmacovigilance\nobligations, the qualified person responsible for pharmacovigilance (QPPV) or his/her delegate should\nbe involved in the review and sign-off of study protocols required in the risk management plan agreed\nin the EU or conducted voluntarily in the EU (see GVP Module I).\nWhere applicable, the marketing authorisation holder’s pharmacovigilance contact person at national\nlevel should be informed of any study sponsored or conducted by the marketing authorisation holder in\nthat Member State and have access to the protocol."
+        },
+        {
+          "num": "VIII.B.3.1.",
+          "text": "Format and content of the study protocol\nFor non-interventional PASS conducted pursuant to an obligation imposed by an EU competent\nauthority, the study protocol shall follow the format described in this section [IR Annex III]. This\nformat should also be followed for non-interventional PASS required in the risk management plan\nagreed in the EU or conducted voluntarily in the EU."
+        },
+        {
+          "num": "1.",
+          "text": "Title: informative title including a commonly used term indicating the study design and the\nmedicinal product, substance or medicinal product class concerned, and a sub-title with a version\nidentifier and the date of the last version. If the study protocol has been registered in the EU PAS\nRegister, subsequent versions of the protocol should mention on the title page “EU PAS Register\nNo:” with the registration number."
+        },
+        {
+          "num": "2.",
+          "text": "Marketing authorisation holder: name and address of the marketing authorisation holder."
+        },
+        {
+          "num": "3.",
+          "text": "Responsible parties: names, titles, qualifications, addresses, and affiliations of all main\nresponsible parties, including the main author(s) of the protocol, the principal investigator, a\ncoordinating investigator for each country in which the study is to be performed and other relevant\nstudy sites. A list of all collaborating institutions and investigators should be made available to the\nAgency and national competent authorities upon request."
+        },
+        {
+          "num": "4.",
+          "text": "Abstract: stand-alone summary of the study protocol including the following sub-sections:\n− Title with subtitles including version and date of the protocol and name and affiliation of main\nauthor\n− Rationale and background\n− Research question and objectives\n− Study design\n− Population\n− Variables\n− Data sources\n− Study size\n− Data analysis\n− Milestones."
+        },
+        {
+          "num": "5.",
+          "text": "Amendments and updates: any substantial amendment and update to the study protocol after\nthe start of data collection, including a justification for each amendment or update, dates of each\nchange and a reference to the section of the protocol where the change has been made."
+        },
+        {
+          "num": "6.",
+          "text": "Milestones: table with planned dates for the following milestones:\n− Start of data collection\n− End of data collection\n− Study progress report(s) as referred to in Article 107m(5) of Directive 2001/83/EC (see\nVIII.B.4.3.1.)\n− Interim report(s) of study results, where applicable, in line with phases of data analyses (see\nVIII.B.4.3.1.)\n− Final report of study results (see VIII.B.4.3.2.).\nAny other important timelines in the conduct of the study should be presented."
+        },
+        {
+          "num": "7.",
+          "text": "Rationale and background: short description of the safety hazard(s), the safety profile or the\nrisk management measures that led to the initiation or imposition of the study, and short critical\nreview of relevant published and unpublished data to explain gaps in knowledge that the study is\nintended to fill. The review may encompass relevant animal and human experiments, clinical\nstudies, vital statistics and previous epidemiologic studies. The review should cite the findings of\nsimilar studies, and the expected contribution of the current study."
+        },
+        {
+          "num": "8.",
+          "text": "Research question and objectives: research question that explains how the study will address\nthe issue which led to the study being initiated or imposed, and research objectives, including any\npre-specified hypotheses and main summary measures."
+        },
+        {
+          "num": "9.",
+          "text": "Research methods: description of the research methods, including:"
+        },
+        {
+          "num": "9.1.",
+          "text": "Study design: overall research design and rationale for this choice."
+        },
+        {
+          "num": "9.2.",
+          "text": "Setting: study population defined in terms of persons, place, time period, and selection\ncriteria, including the rationale for any inclusion and exclusion criteria. Where any sampling\nfrom a source population is undertaken, description of the source population and details of\nsampling methods should be provided. Where the study design is a systematic review or a\nmeta-analysis, the criteria for the selection and eligibility of studies should be explained."
+        },
+        {
+          "num": "9.3.",
+          "text": "Variables: outcomes, exposures and other variables including measured risk factors should\nbe addressed separately, including operational definitions; potential confounding variables\nand effect modifiers should be specified."
+        },
+        {
+          "num": "9.4.",
+          "text": "Data sources: strategies and data sources for determining exposures, outcomes and all\nother variables relevant to the study objectives, such as potential confounding variables and\neffect modifiers. Where the study will use an existing data source, such as electronic health\nrecords, any information on the validity of the recording and coding of the data should be\nreported. In case of a systematic review or meta-analysis, the search strategy and\nprocesses and any methods for confirming data from investigators should be described. If\ndata collection methods or instruments are tested in a pilot study, plans for the pilot study\nshould be presented. If a pilot study has already been performed, a summary of the results\nshould be reported. Involvement of any expert committees to validate diagnoses should be\nstated."
+        },
+        {
+          "num": "9.5.",
+          "text": "Study size: any projected study size, precision sought for study estimates and any\ncalculation of the sample size that can minimally detect a pre-specified risk with a pre-\nspecified statistical precision."
+        },
+        {
+          "num": "9.6.",
+          "text": "Data management: data management and statistical programmes to be used in the study,\nincluding procedures for data collection, retrieval and preparation."
+        },
+        {
+          "num": "9.7.",
+          "text": "Data analysis: the major steps that lead from raw data to a final result, including methods\nused to correct inconsistencies or errors, impute values, modify raw data, categorise,\nanalyse and present results, and procedures to control sources of bias and their influence on\nresults; statistical procedures to be applied to the data to obtain point estimates and\nconfidence intervals of measures of occurrence or association, and sensitivity analyses. The\nprimary analyses should be clearly identified from sub-group analyses and secondary\nanalyses."
+        },
+        {
+          "num": "9.8.",
+          "text": "Quality control: description of any mechanisms and procedures to ensure data quality and\nintegrity, including accuracy and legibility of collected data and original documents, extent of\nsource data verification and validation of endpoints, storage of records and archiving of\nstatistical programmes. As appropriate, certification and/or qualifications of any supporting\nlaboratory or research groups should be included."
+        },
+        {
+          "num": "9.9.",
+          "text": "Limitations of the research methods: any potential limitations of the study design, data\nsources, and analytic methods, including issues relating to confounding, bias,\ngeneralisability, and random error. The likely success of efforts taken to reduce errors\nshould be discussed."
+        },
+        {
+          "num": "10.",
+          "text": "Protection of human subjects: safeguards in order to comply with national and European Union\nrequirements for ensuring the well-being and rights of participants in non-interventional post-\nauthorisation safety studies."
+        },
+        {
+          "num": "11.",
+          "text": "Management and reporting of adverse events/adverse reactions: procedures for the\ncollection, management and reporting of individual cases of suspected adverse reactions and of\nother medically important events that might influence the evaluation of the risk-benefit balance of\nthe product while the study is being conducted.\nFor studies with primary data collection where information on certain adverse events will not be\ncollected (see GVP Module VI), the marketing authorisation holder should provide in the protocol a\njustification for the overall approach to the collection of safety data. Any reference to adverse\nevents that will not be collected should be made using the appropriate level of the MedDRA\nclassification. If information on certain adverse events will not be collected, the channels and\ndocuments to be used to inform the healthcare professionals and consumers of the possibility to\nreport suspected adverse reactions to the marketing authorisation holder or to the national\nspontaneous reporting system should be included in this section (see GVP Module VI). In certain\ncircumstances where suspected adverse reactions with fatal outcome will not be subject to\nexpedited reporting as individual case safety reports (see GVP Module VI), each of these adverse\nreactions should be listed in a table using the appropriate level of the MedDRA classification with a\nrationale for not reporting them.\nFor studies based on secondary use of data, a statement should indicate if adverse events/adverse\nreactions are analysed; in this instance they should be specified using the appropriate level of the\nMedDRA classification. The reporting of suspected adverse reactions in the form of individual case\nsafety reports is not required (see GVP Module VI).\nFor combined study designs, the same requirements as for studies with primary data collection\nshould be followed for adverse events obtained through primary data collection and the guidance\nfor studies with design based on secondary use of data should be applied to adverse events based\non secondary data collection (see GVP Module VI)."
+        },
+        {
+          "num": "12.",
+          "text": "Plans for disseminating and communicating study results, including any plans for submission\nof progress reports and final reports."
+        },
+        {
+          "num": "13.",
+          "text": "References.\nThe format of the study protocol should follow the Guidance for the Format and Content of the Protocol\nof Non-Interventional Post-Authorisation Safety Studies.\nwww.ema.europa.eu\nFeasibility or pilot studies that were carried out to support the development of the protocol, for\nexample, the testing of a questionnaire or simple counts of medical events or prescriptions in a\ndatabase to determine the statistical precision of the study, should be reported in the appropriate\nsection of the study protocol with a summary of their methods and results. The full report should be\nmade available to the Agency and national competent authorities upon request. Feasibility or pilot\nstudies that are part of the research process should be described in the protocol, for example, a pilot\nevaluation of the study questionnaire(s) used for the first set of patients recruited into the study.\nAn annex should list all separate documents and list or include any additional or complementary\ninformation on specific aspects not previously addressed (e.g. questionnaires, case report forms), with\nclear document references."
+        },
+        {
+          "num": "VIII.B.3.2.",
+          "text": "Substantial amendments to the study protocol\nThe study protocol should be amended and updated as needed throughout the course of the study.\nAny substantial amendments to the protocol after the study start should be documented in the protocol\nin a traceable and auditable way including the dates of the changes. If changes to the protocol lead to\nthe study being considered an interventional clinical trial, the national competent authorities and the\nAgency should be informed immediately. The study shall subsequently be conducted in accordance\nwith Directive 2001/20/EC and Volume 10 of The Rules Governing Medicinal Products in the European\nUnion.\nFor non-interventional PASS conducted pursuant to an obligation imposed by an EU competent\nauthority, see VIII.C.2. for the submission of substantial amendments to the study protocol.\nRequirements and recommendations for the submission of substantial amendments to the study\nprotocol are specified in GVP Module VIII Addendum I."
+        },
+        {
+          "num": "VIII.B.4.",
+          "text": "Reporting of pharmacovigilance data to competent authorities"
+        },
+        {
+          "num": "VIII.B.4.1.",
+          "text": "Data relevant to the risk-benefit balance of the product\nThe marketing authorisation holder shall monitor the data generated while the study is being\nconducted and consider their implications for the risk-benefit balance of the medicinal product\nconcerned [DIR Art. 107m(7)]. Any new information that may affect the risk-benefit balance of the\nmedicinal product should be communicated immediately in writing as an emerging safety issue to\ncompetent authorities of the Member States in which the product is authorised and to the Agency via\nemail (P-PV-emerging-safety-issue@ema.europa.eu). Information affecting the risk-benefit balance of\nthe medicinal product may include an analysis of adverse reactions and aggregated data.\nThis communication is without prejudice of the information on the findings of studies which should be\nprovided by means of periodic safety update reports (PSURs) (see GVP Module VII) and in the RMP\nupdates (see GVP Module V), where applicable."
+        },
+        {
+          "num": "VIII.B.4.2.",
+          "text": "Reporting of adverse reactions/adverse events\nIndividual cases of suspected adverse reactions should be reported to competent authorities in\naccordance with the provisions of GVP Module VI.\nAdverse events/adverse reactions collected in studies with primary data collection should be recorded\nand summarised in the interim safety analysis and in the final study report.\nAdverse events/adverse reactions collected in studies with secondary data collection should be\nrecorded and summarised in the interim safety analysis and in the final study report unless the\nprotocol provides for different reporting with a due justification.\nProcedures for the collection, management (including a review by the marketing authorisation holder if\nappropriate) and reporting of suspected adverse reactions/adverse events should be put in place and\nsummarised in the study protocol. If appropriate, reference can be made to the pharmacovigilance\nsystem master file (see GVP Module II) but details specific to the study should be described in the\nstudy protocol."
+        },
+        {
+          "num": "VIII.B.4.3.",
+          "text": "Study reports"
+        },
+        {
+          "num": "VIII.B.4.3.1.",
+          "text": "Progress report and interim report of study results\nThe progress report is meant to include relevant information to document the progress of the study,\nfor example, the number of patients who have entered the study, the number of exposed patients or\nthe number of patients presenting the outcome, problems encountered and deviations from the\nexpected plan. The progress report may include an interim report of study results.\nThe interim report of study results is meant to include results of any planned interim analysis of study\ndata before or after the end of data collection.\nUpon request from a national competent authority, progress reports for PASS imposed as an obligation\nor conducted voluntarily shall be submitted to the competent authorities of the Member States in which\nthe study is conducted [DIR Art 107m(5)]. They may also be requested by the Agency for PASS\nconcerning centrally-authorised products. Requests for progress reports may be made before the study\ncommences or any time during the study conduct. They may be guided by the communication of risk-\nbenefit information arising from the study or the need for information about the study progress in the\ncontext of regulatory procedures or important safety communication about the product. Requirements\nand recommendations for submission of progress reports are specified in GVP Module VIII Addendum I.\nThe timing of the submission of progress reports should be agreed with the relevant competent\nauthorities and specified in the study protocol when they have been agreed before the study\ncommences."
+        },
+        {
+          "num": "VIII.B.4.3.2.",
+          "text": "Final study report\nFor non-interventional PASS conducted pursuant to an obligation imposed by an EU competent\nauthority, the final study report shall follow the format described in this section [IR Annex III) and\nshall be submitted within 12 months of the end of data collection [DIR Art 107p(1)] (see VIII.C.2.).\nThis format and timeline should also be followed for PASS required in the risk management plan\nagreed in the EU or conducted voluntarily in the EU.\nRequirements and recommendations for submission of the final study report are specified in Module\nVIII Addendum I.\nIf a study is discontinued, a final report should be submitted and the reasons for terminating the study\nshould be provided.\nThe final study report should include the following information:"
+        },
+        {
+          "num": "1.",
+          "text": "Title: title including a commonly used term indicating the study design; sub-titles with date of final\nreport and name and affiliation of main author. If the study has been registered in the EU PAS\nRegister, the final study report should mention on the title page “EU PAS Register No:” with the\nregistration number and the web link to the study record."
+        },
+        {
+          "num": "2.",
+          "text": "Abstract: stand-alone summary in the format presented below [IR Annex III]."
+        },
+        {
+          "num": "3.",
+          "text": "Marketing authorisation holder: name and address of the marketing authorisation holder."
+        },
+        {
+          "num": "4.",
+          "text": "Investigators: names, titles, degrees, addresses and affiliations of the principal investigator and\nall co-investigators, and list of all collaborating primary institutions and other relevant study sites.\nSuch information should be provided for each country in which the study is to be performed and\nother relevant study sites. A list of all collaborating institutions and investigators should be made\navailable to the Agency and national competent authorities upon request."
+        },
+        {
+          "num": "5.",
+          "text": "Milestones: dates for the following milestones:\n− Start of data collection (planned and actual dates)\n− End of data collection (planned and actual dates) or date of early termination, if applicable,\nwith reasons for termination\n− Study progress report(s) (see VIII.B.4.3.1.)\n− Interim report(s) of study results, where applicable (see VIII.B.4.3.1.)\n− Final report of study results (planned and actual date)\n− Any other important milestone applicable to the study, including date of study registration in\nthe EU PAS Register and date of protocol approval by an Institutional Review\nBoard/Independent Ethics Committee if applicable."
+        },
+        {
+          "num": "6.",
+          "text": "Rationale and background: description of the safety concerns that led to the study being\ninitiated or imposed, and critical review of relevant published and unpublished data evaluating\npertinent information and gaps in knowledge that the study is intended to fill."
+        },
+        {
+          "num": "7.",
+          "text": "Research question and objectives: research question and research objectives, including any\npre-specified hypotheses, as stated in the study protocol."
+        },
+        {
+          "num": "8.",
+          "text": "Amendments and updates to the protocol: list of any substantial amendments and updates to\nthe initial study protocol after the start of data collection, including a justification for each\namendment or update."
+        },
+        {
+          "num": "9.",
+          "text": "Research methods:"
+        },
+        {
+          "num": "9.1.",
+          "text": "Study design: key elements of the study design and the rationale for this choice."
+        },
+        {
+          "num": "9.2.",
+          "text": "Setting: setting, locations, and relevant dates for the study, including periods of\nrecruitment, follow-up, and data collection. In case of a systematic review or meta-analysis,\nstudy characteristics used as criteria for eligibility, with rationale."
+        },
+        {
+          "num": "9.3.",
+          "text": "Subjects: any source population and eligibility criteria of study subjects. Sources and\nmethods of selection of participants should be provided, including, where relevant methods\nfor case ascertainment, as well as number of and reasons for dropouts."
+        },
+        {
+          "num": "9.4.",
+          "text": "Variables: all outcomes, exposures, predictors, potential confounders, and effect modifiers,\nincluding operational definitions and diagnostic criteria, if applicable."
+        },
+        {
+          "num": "9.5.",
+          "text": "Data sources and measurement: for each variable of interest, sources of data and details\nof methods of assessment and measurement. If the study has used an existing data source,\nsuch as electronic health records, any information on the validity of the recording and\ncoding of the data should be reported. In case of a systematic review or meta-analysis,\ndescription of all information sources, search strategy, methods for selecting studies,\nmethods of data extraction and any processes for obtaining or confirming data from\ninvestigators."
+        },
+        {
+          "num": "9.6.",
+          "text": "Bias: any efforts to assess and address potential sources of bias at the design stage."
+        },
+        {
+          "num": "9.7.",
+          "text": "Study size: study size, rationale for any study size calculation and any method for attaining\nprojected study size."
+        },
+        {
+          "num": "9.8.",
+          "text": "Data transformation: transformations, calculations or operations on the data, including\nhow quantitative data were handled in the analyses and which groupings were chosen and\nwhy."
+        },
+        {
+          "num": "9.9.",
+          "text": "Statistical methods: description of the following items:\n− Main summary measures\n− All statistical methods applied to the study, including those used to control for\nconfounding and, for meta-analyses, methods for combining results of studies\n− Any methods used to examine subgroups and interactions\n− How missing data were addressed\n− Any sensitivity analyses\n− Any amendment to the plan of data analysis included in the study protocol, with rationale\nfor the change."
+        },
+        {
+          "num": "9.10.",
+          "text": "Quality control: mechanisms to ensure data quality and integrity."
+        },
+        {
+          "num": "10.",
+          "text": "Results: presentation of tables, graphs, and illustrations to present the pertinent data and reflect\nthe analyses performed. Both unadjusted and adjusted results should be presented. Precision of\nestimates should be quantified using confidence intervals. This section should include the following\nsub-sections:"
+        },
+        {
+          "num": "10.1.",
+          "text": "Participants: numbers of study subjects at each stage of study, e.g. numbers potentially\neligible, examined for eligibility, confirmed eligible, included in the study, completing follow-\nup, and analysed, and reasons for non-participation at any stage. In the case of a\nsystematic review or meta-analysis, number of studies screened, assessed for eligibility and\nincluded in the review with reasons for exclusion at each stage."
+        },
+        {
+          "num": "10.2.",
+          "text": "Descriptive data: characteristics of study participants, information on exposures and\npotential confounders and number of participants with missing data for each variable of\ninterest. In case of a systematic review or meta-analysis, characteristics of each study from\nwhich data were extracted (e.g. study size, follow-up)."
+        },
+        {
+          "num": "10.3.",
+          "text": "Outcome data: numbers of participants across categories of main outcomes."
+        },
+        {
+          "num": "10.4.",
+          "text": "Main results: unadjusted estimates and, if applicable, confounder-adjusted estimates and\ntheir precision (e.g. 95% confidence interval). If relevant, estimates of relative risk should\nbe translated into absolute risk for a meaningful time period."
+        },
+        {
+          "num": "10.5.",
+          "text": "Other analyses: other analyses done, e.g. analyses of subgroups and interactions, and\nsensitivity analyses."
+        },
+        {
+          "num": "10.6.",
+          "text": "Adverse events and adverse reactions: summary of all adverse events/adverse\nreactions collected in the study, in line with requirements described in GVP Module VI."
+        },
+        {
+          "num": "11.",
+          "text": "Discussion:"
+        },
+        {
+          "num": "11.1.",
+          "text": "Key results: key results with reference to the study objectives, prior research in support of\nand conflicting with the findings of the completed post-authorisation safety study, and,\nwhere relevant, impact of the results on the risk-benefit balance of the product."
+        },
+        {
+          "num": "11.2.",
+          "text": "Limitations: limitations of the study taking into account circumstances that may have\naffected the quality or integrity of the data, limitations of the study approach and methods\nused to address them (e.g., response rates, missing or incomplete data, imputations\napplied), sources of potential bias and imprecision and validation of the events. Both\ndirection and magnitude of potential biases should be discussed."
+        },
+        {
+          "num": "11.3.",
+          "text": "Interpretation: interpretation of results considering objectives, limitations, multiplicity of\nanalyses, results from similar studies and other relevant evidence."
+        },
+        {
+          "num": "11.4.",
+          "text": "Generalisability: the generalisability (external validity) of the study results."
+        },
+        {
+          "num": "12.",
+          "text": "Other information: any additional or complementary information on specific aspects not\npreviously addressed."
+        },
+        {
+          "num": "13.",
+          "text": "Conclusions: main conclusions of the study deriving from the analysis of the data."
+        },
+        {
+          "num": "14.",
+          "text": "References.\nThe format of the final study report should follow the Guidance for the Format and Content of the Final\nStudy Report of Non-Interventional Post-Authorisation Safety Studies.\nThe abstract of the final study report should include a summary of the study methods and findings\npresented in the following format:"
+        },
+        {
+          "num": "1.",
+          "text": "Title, with subtitles including date of the abstract and name and affiliation of main author"
+        },
+        {
+          "num": "2.",
+          "text": "Keywords (not more than five keywords indicating the main study characteristics)"
+        },
+        {
+          "num": "3.",
+          "text": "Rationale and background"
+        },
+        {
+          "num": "4.",
+          "text": "Research question and objectives"
+        },
+        {
+          "num": "5.",
+          "text": "Study design"
+        },
+        {
+          "num": "6.",
+          "text": "Setting"
+        },
+        {
+          "num": "7.",
+          "text": "Subjects and study size (including dropouts)"
+        },
+        {
+          "num": "8.",
+          "text": "Variables and data sources"
+        },
+        {
+          "num": "9.",
+          "text": "Results"
+        },
+        {
+          "num": "10.",
+          "text": "Discussion (including, where relevant, an evaluation of the impact of study results on the risk-\nbenefit balance of the product)"
+        },
+        {
+          "num": "11.",
+          "text": "Conclusion"
+        },
+        {
+          "num": "12.",
+          "text": "Marketing authorisation holder"
+        },
+        {
+          "num": "13.",
+          "text": "Names and affiliations of principal investigators.\nwww.ema.europa.eu"
+        },
+        {
+          "num": "VIII.B.5.",
+          "text": "Publication of study results\nFor studies that are fully or partially conducted by investigators who are not employees of the\nmarketing authorisation holder, the marketing authorisation holder and the investigator should agree\nin advance on a publication policy allowing the principal investigator to independently prepare\npublications based on the study results irrespective of data ownership. The marketing authorisation\nholder should be entitled to view the results and interpretations included in the manuscript and provide\ncomments prior to submission of the manuscript for publication."
+        },
+        {
+          "num": "VIII.B.5.1.",
+          "text": "Submission of manuscripts accepted for publication\nIn order to allow competent authorities to review in advance the results and interpretations to be\npublished, the marketing authorisation holder initiating, managing or financing a non-interventional\nPASS should communicate to the Agency and the competent authorities of the Member States in which\nthe product is authorised the final manuscript of the article within two weeks after first acceptance for\npublication."
+        },
+        {
+          "num": "VIII.B.6.",
+          "text": "Data protection\nMarketing authorisation holders and investigators shall follow relevant national legislation and guidance\nof those Member States where the study is being conducted [DIR Art 107m(2)]. The legislation on data\nprotection must be followed in accordance with Directive 95/46/EC of the European Parliament and of\nthe Council on the protection of individuals with regard to the processing of personal data and on the\nfree movement of such data.\nFor non-interventional PASS imposed as an obligation, the marketing authorisation holder shall ensure\nthat all study information is handled and stored so as to allow for accurate reporting, interpretation\nand verification of that information and shall ensure that the confidentiality of the records of the study\nsubjects remains protected [IR Art 36]. This provision should be also followed for PASS required in the\nrisk management plan agreed in the EU or conducted voluntarily in the EU."
+        },
+        {
+          "num": "VIII.B.7.",
+          "text": "Quality systems, audits and inspections\nThe marketing authorisation holder shall ensure the fulfilment of its pharmacovigilance obligations in\nrelation to the study and that this can be audited, inspected and verified. For PASS imposed as an\nobligation, the marketing authorisation holder shall ensure that the analytical dataset and statistical\nprogrammes used for generating the data included in the final study report are kept in electronic\nformat and are available for auditing and inspection [IR 12, IR Art 36].\nFor PASS required in the risk management plan agreed in the EU or conducted voluntarily in the EU,\nrecord management and data retention shall follow the provisions of IR Art 12."
+        },
+        {
+          "num": "VIII.B.8.",
+          "text": "Impact on the risk management system\nInformation on non-interventional PASS conducted pursuant to an obligation imposed by an EU\ncompetent authority or required in the risk management plan should be included in the risk\nmanagement plan as described in GVP Module V."
+        },
+        {
+          "num": "VIII.C.",
+          "text": "Operation of the EU network"
+        },
+        {
+          "num": "VIII.C.1.",
+          "text": "Procedure for imposing post-authorisation safety studies\nIn the EU, the conduct of any post-authorisation safety study (PASS) can be imposed by the Agency or\nthe national competent authority as applicable during the evaluation of the initial marketing\nauthorisation application [REG Art 9(4)(cb), DIR Art 21a(b)] or during the post-authorisation phase\n[REG Art 10a(1)(a), DIR Art 22a(1)(a)], whenever there are concerns about the risks of an authorised\nmedicinal product for which PASS results would significantly impact on the risk-benefit of the product.\nThis obligation shall be duly justified, shall be notified in writing and shall include the objectives and\ntimeframe for the submission and conduct of the study. The request may also include\nrecommendations on key elements of the study (e.g. study design, setting, exposure(s), outcome(s),\nstudy population)."
+        },
+        {
+          "num": "VIII.C.1.1.",
+          "text": "Request for a post-authorisation safety study as part of the\ninitial marketing authorisation application\nA marketing authorisation may be granted subject to the conduct of a PASS. If, during the evaluation\nof a marketing authorisation application, the need for a PASS is identified, the PRAC may adopt an\nadvice with an assessment report to the Committee for Medicinal Products for Human Use (CHMP) or to\nthe Member State that requested such advice as applicable."
+        },
+        {
+          "num": "VIII.C.1.2.",
+          "text": "Request for a post-authorisation safety study during a post-\nauthorisation regulatory procedure\nThe need for a PASS could be identified by the Agency or a national competent authority during a post-\nauthorisation regulatory procedure, for example, an extension or a variation to a marketing\nauthorisation, a renewal procedure or a PSUR procedure. If, during the evaluation of a post-\nauthorisation procedure, the need for a PASS is identified, the PRAC may adopt an advice or a\nrecommendation with an assessment report to the CHMP or the Member States as applicable."
+        },
+        {
+          "num": "VIII.C.1.3.",
+          "text": "Request for a post-authorisation safety study due to an\nemerging safety concern\nAfter the granting of the marketing authorisation, the Agency or a national competent authority, as\napplicable, may impose on the marketing authorisation holder an obligation to conduct a post-\nauthorisation safety study if there are concerns about the risk of the authorised medicinal product. If\nthe need for a PASS is identified, the PRAC may adopt an advice or a recommendation with an\nassessment report to the CHMP or the Member States as applicable."
+        },
+        {
+          "num": "VIII.C.1.4.",
+          "text": "Joint post-authorisation safety studies\nIf safety concerns apply to more than one medicinal product, the Agency or the national competent\nauthority shall, following consultation with the PRAC, encourage the marketing authorisation holders\nconcerned to conduct a joint PASS [REG Art 10a(1)(a), DIR Art 22a(1)(a)]. Requests to the marketing\nauthorisation holders should contain the justification for the request of a joint study and may include\ncore elements for the study protocol. The national competent authority or the Agency should support\ninteractions between the concerned marketing authorisation holders and providing suggestions for the\njoint study proposal."
+        },
+        {
+          "num": "VIII.C.1.5.",
+          "text": "Written observations in response to the imposition of an\nobligation\nWithin 30 days of receipt of the written notification of an obligation imposed, the marketing\nauthorisation holder may request to present written observations in response to the imposition of the\nobligation [REG Art 10a(2), DIR Art 22a(2)]. The national competent authority or the Agency shall\nspecify a time limit for the provision of these observations. On the basis of the written observations\nsubmitted by the marketing authorisation holder, the national competent authority or the European\nCommission shall withdraw or confirm the obligation. When the obligation is confirmed, the marketing\nauthorisation shall be varied to include the obligation as a condition of the marketing authorisation and\nthe risk management plan, where applicable, shall be updated accordingly [REG Art 10a(3), DIR Art\n22a(3)] (see GVP Module V)."
+        },
+        {
+          "num": "VIII.C.2.",
+          "text": "Supervision of non-interventional post-authorisation safety\nstudies conducted pursuant to an obligation\nNon-interventional PASS conducted pursuant to obligations imposed by a competent authority in the\nEU (categories 1 and 2 of studies in GVP Module V) are supervised and assessed by the PRAC, unless\nfor PASS requested by a national competent authority of a single Member State according to DIR Art\n22a and conducted only in that Member State, where national oversight procedures will apply [DIR Art\n107n(1)]."
+        },
+        {
+          "num": "VIII.C.2.1.",
+          "text": "Roles and responsibilities of the marketing authorisation holder\nIf the study is a non-interventional study (see VIII.A.), the marketing authorisation holder shall ensure\nthat the study meets the requirements applicable to non-interventional PASS set out in DIR Art 107m-\nq, REG Art 28b, IR Art 36-38 and this Module. The marketing authorisation holder shall ensure the\nfulfilment of its pharmacovigilance obligations in relation to the study and that this fulfilment can be\naudited, inspected and verified (see VIII.B.6. and VIII.B.7.).\nFollowing the imposing as a condition to the marketing authorisation to conduct a non-interventional\nPASS, the marketing authorisation holder shall develop a study protocol and submit it to the national\ncompetent authority or the PRAC for review [DIR Art 107n(1)] as appropriate. The marketing\nauthorisation holder has the responsibility to ensure that the study is not a clinical trial, in which case\nDirective 2001/20/EC and Volume 10 of The Rules Governing Medicinal Products in the European\nUnionshall apply.\nThe study may commence only when the written endorsement from the national competent authority\nor the PRAC, as appropriate, has been issued. When a letter of endorsement has been issued by the\nPRAC, the marketing authorisation holder shall forward the protocol to the national competent\nauthority of the Member State(s) in which the study is to be conducted and may thereafter commence\nthe study according to the endorsed protocol [DIR Art 107n(3)]. EU and national requirements shall be\nfollowed to ensure the well-being and rights of participants in the study [DIR Art 107m(2)].\nPrior to submission of the protocol, the marketing authorisation holder may submit a request to the\nnational competent authority or the Agency, as appropriate, for a pre-submission meeting (with the\nAgency and the PRAC rapporteur in case the request is submitted to the Agency) in order to clarify\nspecific aspects of the requested study (such as study objectives, study population, definition of\nexposure and outcomes) and to facilitate the development of the protocol in accordance with the\nobjectives determined by the national competent authority or the PRAC.\nhttp://ec.europa.eu/health/documents/eudralex/vol-10/\nAfter a non-interventional imposed PASS has been commenced, the marketing authorisation holder\nshall submit any substantial amendments to the protocol, before their implementation, to the national\ncompetent authority or to the PRAC, as appropriate [DIR Art 107o] (see VIII.A.1. for the definition of a\nsubstantial amendment).\nUpon completion of the study, the marketing authorisation holder shall submit a final study report,\nincluding a public abstract, to the national competent authority or to the PRAC as soon as possible and\nnot later than 12 months after the end of data collection, unless a written waiver has been granted by\nthe national competent authority or the PRAC, as appropriate [DIR Art 107p(1)].\nWhen the PRAC is responsible for supervision of the PASS, the marketing authorisation holder should\nrequest the waiver in writing to the Agency at least three months before the due date for the\nsubmission of the report. The request should include a justification for the waiver. The request should\nbe assessed by the PRAC rapporteur and granted or rejected by the PRAC on the basis of the\njustification and timeline submitted by the marketing authorisation holder.\nThe marketing authorisation holder shall submit the study protocol, the abstract of the final study\nreport and the final study report in English except for studies to be conducted in only one Member\nState that requests the study according to DIR Art 22a. For the latter studies, the marketing\nauthorisation holder shall provide an English translation of the title and abstract of the study protocol\nas well as an English translation of the abstract of the final study report [IR Art 36]."
+        },
+        {
+          "num": "VIII.C.2.2.",
+          "text": "Roles and responsibilities of the PRAC and the national\ncompetent authority\nWithin 60 days from submission of the draft protocol, the national competent authority or the PRAC, as\nappropriate, shall issue a letter endorsing the draft protocol, a letter of objection or a letter notifying\nthe marketing authorisation holder that the study is a clinical trial falling under the scope of Directive\n2001/20/EC. The letter of objection shall set out in detail the grounds for the objection in any of the\nfollowing cases:\n• it is considered that the conduct of the study promotes the use of a medicinal product;\n• it is considered that the design of the study does not fulfil the study objectives [DIR Art 107n(2)].\nIf the study proves to be interventional, the PRAC or the national competent authority as applicable\nshould issue an explanatory statement to the marketing authorisation holder that the study is a clinical\ntrial falling under the scope of Directive 2001/20/EC.\nWhen the PRAC is involved in the oversight of the study, the PRAC will nominate a PRAC rapporteur\nresponsible for the supervision of the PASS. The PRAC rapporteur should draft a protocol assessment\nreport and submit it for review and approval by the PRAC.\nIn case of submission of an amended study protocol, the national competent authority or the PRAC, as\nappropriate, shall assess the amendments and inform the marketing authorisation holder of its\nendorsement or objection [DIR Art 107o]. The national competent authority or the PRAC will provide\nthe marketing authorisation holder with a letter of endorsement or objection to the protocol\namendment within 60 days of submission. The letter of objection will provide a timeline by which the\nmarketing authorisation holder should resubmit an amended version of the protocol.\nWhere the study protocol is assessed by a national competent authority, this national competent\nauthority should share its assessment with the other concerned Member States where the product is\nauthorised.\nConcerning the assessment of study results, in cases where the PRAC is involved in the oversight of\nthe study, the PRAC will produce an assessment report and issue a recommendation that will be\naddressed to the CHMP or CMDh, as applicable."
+        },
+        {
+          "num": "VIII.C.2.3.",
+          "text": "Roles and responsibilities of the Agency\nThe Agency shall provide scientific secretariat to the PRAC.\nThe Agency will inform the marketing authorisation holder in writing and within the appropriate\ntimelines of the decisions of the PRAC with respect to the assessment of the following:\n• study protocol;\n• study protocol amendments;\n• final study report;\n• waiver request for the submission of the final study report.\nWhen the marketing authorisation holder submits a request to the Agency for a pre-submission\nmeeting, the Agency will be responsible for a timely set up of the meeting with the Agency and the\nPRAC rapporteur.\nThe Agency shall make public on the European medicines web-portal protocols and public abstracts of\nresults of the post-authorisation safety studies referred to in DIR Art 107n and 107p."
+        },
+        {
+          "num": "VIII.C.3.",
+          "text": "Changes to the marketing authorisation following results from a\nnon-interventional post-authorisation safety study\nThe marketing authorisation holder shall submit a final study report to the national competent\nauthority or the PRAC as applicable within 12 months of the end of data collection unless a written\nwaiver has been granted [DIR Art 107p(1)].\nThe marketing authorisation holder shall evaluate whether the study results have an impact on the\nmarketing authorisation and shall, if necessary, submit to the national competent authorities or the\nAgency an application to vary the marketing authorisation [DIR Art 107p(2)]. In such case, the\nvariation should be submitted to the national competent authority or the Agency.\nFollowing the review of the final study report, the PRAC or a national competent authority in a Member\nState may recommend variation, suspension or revocation of the marketing authorisation [REG Art\n28b(2), DIR Art 107q(2)]. The recommendation by the PRAC shall mention any divergent positions and\nthe grounds on which they are based [DIR Art 107q(1)].\nWhere at least one centrally-authorised product is concerned by the final study results, the\nrecommendation made by the PRAC shall be transmitted to the CHMP which shall adopt an opinion\ntaking into account the recommendation. When the opinion of the CHMP differs from the\nrecommendation of the PRAC, the CHMP shall attach to its opinion a detailed explanation of the\nscientific grounds for the differences [REG Art 28b(2)].\nWhere nationally authorised products are concerned by the final study results, the Member States\nrepresented within the CMDh shall agree a position taking into account the PRAC recommendation and\ninclude a timetable for the implementation of this agreed position. When a consensus agreement is\nreached, the agreed position shall be sent by the CMDh to the marketing authorisation holder and\nMember States which should adopt necessary measures to vary, suspend or revoke the marketing\nauthorisation in line with the implementation timetable of the CMDh. In case a variation is agreed\nupon, the marketing authorisation holder shall submit to the national competent authorities an\nappropriate application for a variation, including an updated summary of product characteristics\n(SmPC) and package leaflet within the determined timetable for implementation [DIR Art 107q(2)]. In\ncase an agreement by consensus cannot be reached, the position of the majority of the Member States\nrepresented within the CMDh should be forwarded to the Commission who shall apply the procedure\nlaid down in DIR Art 33 and 34 [DIR Art 107q(2)].\nWhere the agreement or position of the CMDh differs from the recommendation of the PRAC, the CMDh\nshall attach to the agreement or majority position a detailed explanation of the scientific grounds for\ndifferences together with the recommendation [DIR Art 107q(2)].\nMore urgent action may be required in certain circumstances, for example, based on interim results\nincluded in progress reports (see also VIII.B.4.3.1.). In such case, an appropriate procedure will be\ninitiated (see GVP Module VI)."
+        },
+        {
+          "num": "VIII. Appendix 1.",
+          "text": "Methods for post-authorisation safety\nstudies"
+        },
+        {
+          "num": "VIII.App1.1.",
+          "text": "Study designs\nPost-authorisation safety studies may adopt different designs depending on their objectives. A brief\ndescription of the main types of studies, as well as the types of data resources available, is provided\nhereafter. This Appendix is not intended to be exhaustive and should be complemented with other\ninformation sources, such as the ENCePP Guide for Methodological Standards in\nPharmacoepidemiology."
+        },
+        {
+          "num": "VIII.App1.1.1.",
+          "text": "Active surveillance\nActive surveillance, in contrast to passive surveillance, seeks to ascertain more completely the number\nof adverse events in a given population via a continuous organised process. An example of active\nsurveillance is the follow-up of patients treated with a particular medicinal product through a risk\nmanagement system. Patients who fill a prescription for this product may be asked to complete a brief\nsurvey and give permission to be contacted at a later stage. In general, it is more feasible to get\ncomprehensive data on individual adverse event reports through an active surveillance system than\nthrough a passive reporting system. However, some of the limitations of spontaneous reporting\nsystems still apply, especially when evaluating delayed effects. For example, adverse events that occur\na long time after the exposure (e.g. cancer, birth defects) may not be readily detected via spontaneous\nreporting systems. Automatic detection of abnormal laboratory values from computerised laboratory\nreports in certain clinical settings may also provide an efficient active surveillance system."
+        },
+        {
+          "num": "VIII.App1.1.1.1.",
+          "text": "Intensive monitoring schemes\nIntensive monitoring is a system of record collection in designated areas, e.g. hospital units or by\nspecific healthcare professionals in community practice. In such case, the data collection may be\nundertaken by monitors who attend ward rounds, where they gather information concerning\nundesirable or unintended events thought by the attending physician to be (potentially) causally\nrelated to the medication. Monitoring may also be focused on certain major events that tend to be\nmedicine-related such as hepatic disorders, renal failure, haematological disorders or bleeding. The\nmajor strength of such systems is that the monitors may document important information about the\nevents and exposure to medicinal products. The major limitation is the need to maintain a trained\nmonitoring team over time.\nIntensive monitoring may be achieved by reviewing medical records or interviewing patients and/or\nphysicians/pharmacists in a sample of sentinel sites to ensure complete and accurate data on reported\nadverse events. The selected sites may provide information, such as data from specific patient\nsubgroups that would not be available in a passive spontaneous reporting system. Further, collection of\ninformation on the use of a medicinal product, such as the potential for abuse, may be targeted at\nselected sentinel sites. Some of the major weaknesses of sentinel sites are problems with selection\nbias, small numbers of patients and increased costs. Intensive monitoring with sentinel sites is most\nefficient for those medicinal products used mainly in institutional settings such as hospitals, nursing\nhomes and haemodialysis centres. Institutional settings may have a greater frequency of use for\ncertain products and may provide an infrastructure for dedicated reporting. In addition, automatic\ndetection of abnormal laboratory values from computerised laboratory reports in certain clinical\nsettings may provide an efficient intensive monitoring scheme."
+        },
+        {
+          "num": "VIII.App1.1.1.2.",
+          "text": "Prescription event monitoring\nIn prescription event monitoring (PEM), patients may be identified from electronic prescription data or\nautomated health insurance claims. A follow-up questionnaire can then be sent to each prescribing\nphysician or patient at pre-specified intervals to obtain outcome information. Information on patient\ndemographics, indication for treatment, duration of therapy (including start date), dosage, clinical\nevents and reasons for discontinuation can be included in the questionnaire. PEM tends to be used as a\nmethod to study safety just after product launch. Limitations of prescription event monitoring include\nsubstantial loss to follow-up, relatively short duration of follow-up, selective sampling, selective\nreporting and limited scope to study products which are used exclusively in hospitals. However, in PEM,\nthere is the opportunity to collect more detailed information on adverse events from a large number of\nphysicians and/or patients."
+        },
+        {
+          "num": "VIII.App1.1.1.3.",
+          "text": "Registries\nA registry is an organised system that uses observational methods to collect uniform data on specified\noutcomes in a population defined by a particular disease, condition or exposure. A registry can be used\nas a data source within which studies can be performed.\nEntry in a registry is generally defined either by diagnosis of a disease, prescription of a medicinal\nproduct, or both (patients with a certain disease treated with a defined medicinal product, defined\nactive substance or any medicine of a defined class of medicinal products). The choice of the registry\npopulation and the design of the registry should be driven by its objective(s) in terms of outcomes to\nbe measured and analyses and comparisons to be performed.\nRegistries are particularly useful when dealing with a rare disease, rare exposure or special population.\nIn many cases, registries can be enriched with data on outcomes, confounding variables and effect\nmodifiers obtained from a linkage to an existing database such as national cancer registries,\nprescription databases or mortality records.\nDepending on their objective, registries may provide data on patient, disease and treatment outcomes,\nand of their determinants. Data on outcomes may include data on patient-reported outcomes, clinical\nconditions, medicines utilisation patterns and safety and effectiveness. It is acknowledged that on\noccasion, registries may be the only opportunity to provide insight into efficacy aspects of a medicinal\nproduct. However, observational registries should not normally be used to demonstrate efficacy.\nRather, once efficacy has been demonstrated in randomised clinical trials (RCTs), patient registries\nmay be useful to study effectiveness in heterogeneous populations, effect modifiers, such as doses that\nhave been prescribed by physicians and that may differ from those used in RCTs, patient sub-groups\ndefined by variables such as age, co-morbidities, use of concomitant medication or genetic factors, or\nfactors related to a defined country or healthcare system.\nWhere adequate data are already available or can be collected, patient registries may be used to\ncompare risks of outcomes between different groups. For example, a case-control study may be\nperformed to compare the exposure to the medicinal product of cases of severe adverse reactions\nidentified from the registry and of controls selected from either patients within the registry or from\noutside the registry. Likewise, a cohort study may be embedded in a registry. Case-only designs may\nalso be applied (see VIII.App 1.1.2.4.).\nPatient registries may address exposure to medicinal products in specific populations, such as pregnant\nwomen. Patients may be followed over time and included in a cohort study to collect data on adverse\nevents using standardised questionnaires. Simple cohort studies may measure incidence, but, without\na comparison group, cannot evaluate any association between exposures and outcomes. Nonetheless,\nthey may be useful for signal amplification particularly for rare outcomes. This type of registry may be\nvery valuable when examining the safety of an orphan medicinal product authorised for a specific\ncondition."
+        },
+        {
+          "num": "VIII.App1.1.2.",
+          "text": "Observational studies\nTraditional epidemiological methods are a key component in the evaluation of adverse events. There\nare a number of observational study designs that are useful in validating signals from spontaneous\nreports, active surveillance programmes or case series. Major types of these designs are cross-\nsectional studies, case-control studies, and cohort studies, based on primary data collection or\nsecondary use of existing data."
+        },
+        {
+          "num": "VIII.App1.1.2.1.",
+          "text": "Cross-sectional study\nData collected on a population of patients at a single point in time (or interval of time) regardless of\nexposure or disease status constitute a cross-sectional study. These types of studies are primarily used\nto gather data for surveys or for ecological analyses. A drawback of cross-sectional studies is that the\ntemporal relationship between exposure and outcome cannot be directly addressed, which limits its use\nfor etiologic research unless the exposure does change over time. These studies are best used to\nexamine the prevalence of a disease at one point in time or to examine trends over time where data\nfor serial time-points can be captured. These studies may also be used to examine the crude\nassociation between exposure and outcome in ecological analyses."
+        },
+        {
+          "num": "VIII.App1.1.2.2.",
+          "text": "Cohort Study\nIn a cohort study, a population-at-risk for an event of interest is followed over time for the occurrence\nof that event. Information on exposure status is known throughout the follow-up period for each study\nparticipant. A study participant might be exposed to a medicinal product at one time during follow-up,\nbut unexposed at another time point. Since the population exposure during follow-up is known,\nincidence rates can be calculated. In many cohort studies involving exposure to medicinal product(s),\ncomparison cohorts of interest are selected on the basis of medication use and followed over time.\nCohort studies are useful when there is a need to know the incidence rates of adverse events in\naddition to the relative risks of adverse events. They are also useful for the evaluation of multiple\nadverse events within the same study. However, it may be difficult to recruit sufficient numbers of\npatients who are exposed to a product of interest (such as an orphan medicinal product) or to study\nvery rare outcomes. The identification of patients for cohort studies may come from large automated\ndatabases or from data collected specifically for the study at hand. In addition, cohort studies may be\nused to examine safety concerns in special populations (older persons, children, patients with co-\nmorbid conditions, pregnant women) through over-sampling of these patients or by stratifying the\ncohort if sufficient numbers of patients exist."
+        },
+        {
+          "num": "VIII.App1.1.2.3.",
+          "text": "Case-control study\nIn a case-control study, cases of disease (or events) are identified and patients from the source\npopulation that gave rise to the cases but who do not have the disease or event of interest at the time\nof selection are then selected as controls. The odds of exposure are then compared between the two\ngroups. Patients may be identified from an existing database or using a field study approach, in which\ndata are collected specifically for the purpose of the case control study. If safety information is sought\nfor special populations, the cases and controls may be stratified according to the population of interest\n(e.g. the older persons, children, pregnant women). Existing large population-based databases are a\nuseful and efficient means of providing needed exposure and medical outcome data in a relatively\nshort period of time. Case-control studies are particularly useful when the goal is to investigate\nwhether there is an association between a medicinal product (or several products) and one specific\nrare adverse event, as well as to identify multiple risk factors for adverse events. Factors of interest\nmay include conditions such as renal and hepatic dysfunction that might modify the relationship\nbetween the exposure to the medicinal product and the adverse event. If all cases of interest (or a\nwell-defined fraction of cases) in the catchment area are captured and the fraction of controls from the\nsource population is known, a case-control study may also provide the absolute incidence rate of the\nevent.\nWhen the source population for the case-control study is a well-defined cohort or catchment area, it is\nthen possible to select a random sample from it to form the control series. In these situations, because\nthe sampling fractions of cases and controls are known, a case-control study may also provide the\nabsolute incidence rate of the event. The name “nested case-control study” has been coined to\ndesignate those studies in which the control sampling is density-based (e.g. the control series\nrepresents the person-time distribution of exposure in the source population). The case-cohort is also a\nvariant in which the control sampling is performed on those persons who make up the source\npopulation regardless of the duration of time they may have contributed to it. A case-control approach\ncould also be set up as a permanent scheme to identify and quantify risks (case-control surveillance).\nThis strategy has been followed for rare diseases with a relevant aetiology fraction attributed to\nmedicinal products, including blood dyscrasias or serious skin disorders."
+        },
+        {
+          "num": "VIII.App1.1.2.4.",
+          "text": "Case-only designs\nCase-only designs have been proposed to assess the association between intermittent exposures and\nshort-term events, including the self-controlled case-series, the case-crossover and the case-time-\ncontrol studies. In these designs, only cases are used and the control information is obtained from\nperson-time experience of the cases themselves. One of the important strengths of these designs is\nthat confounding variables that do not change over time within individuals are automatically matched.\nHowever, case-only designs cannot be used under all circumstances, for instance when the exact date\nof disease onset is difficult to establish or when evaluating chronic exposures."
+        },
+        {
+          "num": "VIII.App1.1.3.",
+          "text": "Clinical trials\nWhen important risks are identified from pre-approval clinical trials, further clinical trials might be\ncalled for to evaluate the mechanism of action for the adverse reaction. If the study is a clinical trial,\nprovisions of Directive 2001/20/EC shall apply. In some instances, pharmacodynamic and\npharmacokinetic studies might be conducted to determine whether a particular dosing regimen can put\npatients at an increased risk of adverse events. Genetic testing may also provide clues about which\ngroup of patients might be at an increased risk of adverse reactions. Furthermore, based on the\npharmacological properties and the expected use of the medicinal product in clinical practice,\nconducting specific studies to investigate potential drug-drug interactions and food-drug interactions\nmight be called for. These studies may include population pharmacokinetic studies and therapeutic\ndrug monitoring in patients and normal volunteers.\nSometimes, potential risks or unforeseen benefits in special populations might be identified from pre-\napproval clinical trials, but cannot be fully quantified due to small sample sizes or the exclusion of\nsubpopulations of patients from these clinical studies. These populations might include older persons,\npregnant women, children or patients with renal or hepatic disorders. Children, older persons and\npersons with co-morbid conditions may metabolise medicinal products differently than patients\ntypically enrolled in clinical trials. Further clinical trials may be used to determine and to quantify the\nmagnitude of the risk (or benefit) in such populations."
+        },
+        {
+          "num": "VIII.App1.1.3.1.",
+          "text": "Large simple trials\nA large simple trial is a specific form of clinical trial where large numbers of patients are randomised to\ntreatment but data collection and monitoring are kept to the minimum, consistent with the aims of the\nstudy to be a relatively low burden. Likewise, standardised follow-up generally consistent with normal\nclinical practice for the patient population may be included. This design may be used in\npharmacovigilance to elucidate the risk-benefit profile of a medicinal product outside of the\nformal/traditional clinical trial setting and/or to fully quantify the risk of a critical but relatively rare\nadverse event. The use of the term ‘simple’ refers to data structure and not data collection. It is used\nin relation to situations in which limited information is collected regarding exposure, outcome and\npotential confounders to help ensure feasibility of recruiting large patient numbers in an experimental\ndesign, and the term may not adequately reflect the complexity of the studies undertaken. These\nstudies qualify as clinical trials. As used in this context, the definitions of a pragmatic trial and of a\nlarge simple trial are synonymous."
+        },
+        {
+          "num": "VIII.App1.1.4.",
+          "text": "Drug utilisation studies\nDrug utilisation studies (DUS) describe how a medicinal product is prescribed and used in routine\nclinical practice in large populations, including older persons, children, pregnant women or patients\nwith hepatic or renal dysfunction. These populations are often not eligible for inclusion in randomised\nclinical trials. Stratification by age, sex, concomitant medication and other characteristics allows a\ncomprehensive characterisation of treated patients, including the distribution of those factors that may\ninfluence clinical, social, and economic outcomes. Denominator data may be derived from these studies\nto determining rates of adverse events. DUS have been used to describe the effect of regulatory\nactions and media attention on the use of medicinal products in everyday medical practice, to examine\nthe relationship between recommended and actual clinical practice, to monitor medication errors and\nto determine whether a medicinal product has potential for abuse by examining whether patients are\ntaking escalating dose regimens or whether there is evidence of inappropriate repeat prescribing. DUS\nare particularly useful as a first step in the design of post-authorisation safety studies, to obtain\nsufficient understanding of the characteristics of the user population of the medicinal product under\nstudy and the determination of the most appropriate comparator as well as important potential\nconfounders to consider. They are also useful to provide a first indication of the level of public health\nimpact anticipated if there is a true causal association between the exposure of interest and an adverse\nevent, for example given the size of the population exposed, the extent of off-label use, and so on. For\nregulatory purposes, DUS for which the main aim is to add knowledge to the safety of medicinal\nproducts or the effectiveness of risk minimisation measures may be classified as PASS (see VIII.B.1.)."
+        },
+        {
+          "num": "VIII.App1.2.",
+          "text": "Data sources\nPharmacoepidemiological studies may be performed using a variety of data sources. Traditionally, field\nstudies were required for retrieving the necessary data on exposure, outcomes, potential confounders\nand other variables, through interview of appropriate subjects (e.g. patients, relatives) or by\nconsulting the paper-based medical records. However, the advent of automated healthcare databases\nhas remarkably increased the efficiency of pharmacoepidemiological research. Generally, there are two\nmain types of automated databases: those that contain comprehensive medical information, including\nprescriptions, diagnosis, referral letters and discharge reports, and those mainly created for\nadministrative purposes, which require a record-linkage between pharmacy claims and medical claims\ndatabases. These datasets may include millions of patients and allow for large studies. A major\nlimitation however often is the lack of long-term follow up and the consequent left- and right-\ncensoring of data. In addition, these databases may not have the detailed and accurate information\nneeded for some research, such as validated diagnostic information or laboratory data, and paper-\nbased medical records should be consulted to ascertain and validate test results and medical\ndiagnoses. Depending on the outcome of interest, the validation may require either a case-by-case\napproach or just the review of a random sample of cases. Other key aspects may require validation\nwhere appropriate. There are many databases in place for potential use in pharmacoepidemiological\nstudies or in their validation phase.\nMarketing authorisation holders should select the best data source according to validity (e.g.\ncompleteness of relevant information, possibility of outcome validation) and efficiency criteria (e.g.\ntime span to provide results). External validity should also be taken into account. As far as feasible the\ndata source chosen to perform the study should include the population in which the safety concern has\nbeen raised. In case another population is involved, the marketing authorisation holder should evaluate\nthe differences that may exist in the relevant variables (e.g. age, sex, pattern of use of the medicinal\nproduct) and the potential impact on the results. In the statistical analyses, the potential effect of\nmodification of such variables should be explored.\nWith any data source used, the privacy and confidentiality regulations that apply to personal data\nshould be adhered to."
+        }
+      ]
+    }
+  ],
+  "_cleanedBy": "heuristic",
+  "sourceUrl": "https://www.ema.europa.eu/en/documents/scientific-guideline/guideline-good-pharmacovigilance-practices-gvp-module-viii-post-authorisation-safety-studies-rev-3_en.pdf",
+  "id": "Good-pharmacovigilance-practices-GVP-Module-VIII-Post-author",
+  "sourceTitle": "",
+  "rawFile": "ema/guideline-good-pharmacovigilance-practices-gvp-module-viii-post-authorisation-sa.md",
+  "updatedAt": "2026-08-18T13:17:58.076Z",
+  "articleCount": 120
+}

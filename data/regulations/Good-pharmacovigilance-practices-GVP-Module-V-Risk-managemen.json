@@ -1,0 +1,484 @@
+{
+  "title": "Good pharmacovigilance practices (GVP) – Module V: Risk management systems (Rev 2)",
+  "shortTitle": "GVP Module V (Rev 2)",
+  "documentNumber": "",
+  "issuingAuthority": "",
+  "issueDate": "",
+  "effectiveDate": "",
+  "status": "现行有效",
+  "category": "指南",
+  "country": "欧盟",
+  "chapters": [
+    {
+      "title": "28 March 2017",
+      "articles": [
+        {
+          "num": "V.B.5.1.",
+          "text": "General considerations for generic products and advanced therapy medicinal"
+        },
+        {
+          "num": "V.B.5.2.",
+          "text": "RMP part II, module SI “Epidemiology of the indication(s) and target population(s)”"
+        },
+        {
+          "num": "V.B.5.7.",
+          "text": "RMP part II, module SVI “Additional EU requirements for the safety specification”"
+        },
+        {
+          "num": "V.B.5.8.1.",
+          "text": "RMP part II, module SVII section “Identification of safety concerns in the initial"
+        },
+        {
+          "num": "V.B.5.8.1.a.",
+          "text": "RMP part II, module SVII sections “Risk considered important for inclusion in\nthe list of safety concerns” and “Risk not considered important for inclusion in the list of"
+        },
+        {
+          "num": "V.B.5.8.2.",
+          "text": "RMP part II, module SVII section “New safety concerns and reclassification with a"
+        },
+        {
+          "num": "V.B.5.8.3.",
+          "text": "RMP part II, module SVII section “Details of important identified risks, important"
+        },
+        {
+          "num": "V.B.6.",
+          "text": "RMP part III “Pharmacovigilance plan (including post-authorisation safety studies)”"
+        },
+        {
+          "num": "V.B.6.3.",
+          "text": "RMP part III section “Summary table of additional pharmacovigilance activities” .. 21"
+        },
+        {
+          "num": "V.B.8.",
+          "text": "RMP part V “Risk minimisation measures (including evaluation of the effectiveness of\nPage /"
+        },
+        {
+          "num": "V.B.10.2.",
+          "text": "RMP annex 2: Tabulated summary of planned, on-going, and completed"
+        },
+        {
+          "num": "V.B.10.3.",
+          "text": "RMP annex 3: Protocols for proposed, on-going, and completed studies in the"
+        },
+        {
+          "num": "V.B.10.3.1.",
+          "text": "RMP annex 3 – part A: Requested protocols of studies in the pharmacovigilance"
+        },
+        {
+          "num": "V.B.10.3.2.",
+          "text": "RMP annex 3 – part B: Requested amendments of previously approved protocols\nof studies in the pharmacovigilance plan, submitted for regulatory review with this updated"
+        },
+        {
+          "num": "V.B.10.3.3.",
+          "text": "RMP annex 3 – part C: Previously agreed protocols for on-going studies and final"
+        },
+        {
+          "num": "V.B.11.",
+          "text": "The relationship between the risk management plan and the periodic safety update"
+        },
+        {
+          "num": "V.C.1.1.4.",
+          "text": "New applications under Article 10b, i.e. involving “fixed combination” medicinal"
+        },
+        {
+          "num": "V.C.1.1.7.",
+          "text": "New applications for homeopathic and herbal products not falling within the scope"
+        },
+        {
+          "num": "V.C.1.2.1.",
+          "text": "New risk management plans at the request of a competent authority to address\nPage /"
+        },
+        {
+          "num": "V.A.",
+          "text": "Introduction\nA medicinal product is authorised on the basis that in the specified indication(s), at the time of\nauthorisation, the risk-benefit balance is judged to be positive for the target population. Generally, a\nmedicinal product will be associated with adverse reactions and these will vary in terms of severity,\nlikelihood of occurrence, effect on individual patients and public health impact. However, not all\nadverse reactions and risks will have been identified at the time when an initial marketing\nauthorisation is granted and some will only be discovered and characterised in the post-authorisation\nphase. The aim of a risk management plan (RMP) is to document the risk management system\nconsidered necessary to identify, characterise and minimise a medicinal product’s important risks. To\nthis end, the RMP contains:"
+        },
+        {
+          "num": "1.",
+          "text": "the identification or characterisation of the safety profile of the medicinal product, with emphasis\non important identified and important potential risks and missing information, and also on which\nsafety concerns need to be managed proactively or further studied (the ‘safety specification’);"
+        },
+        {
+          "num": "2.",
+          "text": "the planning of pharmacovigilance activities to characterise and quantify clinically relevant risks,\nand to identify new adverse reactions (the ‘pharmacovigilance plan’);"
+        },
+        {
+          "num": "3.",
+          "text": "the planning and implementation of risk minimisation measures, including the evaluation of the\neffectiveness of these activities (the ‘risk minimisation plan’).\nAs knowledge regarding a medicinal product’s safety profile increases over time, so will the risk\nmanagement plan change.\nRegulation (EC) No 726/2004, Directive 2001/83/EC and Commission Implementing Regulation (EU)\nNo 520/2012 (hereinafter referred to as REG, DIR and IR) include provisions for post-authorisation\nsafety studies and post-authorisation efficacy studies to be a condition of the marketing authorisation\nin certain circumstances [REG Art 9(4)(cb) and (cc), REG Art 10a(1)(a) and (b), DIR Art 21a(b) and\n(f), DIR Art 22a(1)(a) and (b)] and for these studies to be included in the risk management system\n[REG 14a, DIR Art 22c(1), IR Art 30(1)(d)]. The legislation also includes provisions for additional risk\nminimisation activities to be included in the risk management system as a condition to the marketing\nauthorisation [REG Art 9(4)(ca), DIR Art 21a(a)]. Marketing authorisation applicants are encouraged to\nplan from very early on in a product’s life cycle how they will further characterise and minimise the\nrisks associated with the product in the post-authorisation phase.\nGuidance on templates and submission of RMPs is kept up-to-date on the Agency’s website.\nThis Module includes the principles of risk minimisation and should be read in conjunction with GVP\nModule XVI and GVP Module XVI Addendum I on educational materials.\nIn this Module, all applicable legal requirements are referenced in the way explained in the GVP\nIntroductory Cover Note and are usually identifiable by the modal verb “shall”. Guidance for the\nimplementation of legal requirements is provided using the modal verb “should”.\nThe following articles provide the main references in relation to the legal basis for risk management\nbut additional articles may also be relevant:\n DIR: Article 8(3)(ia) and (iaa), Article 21a, Article 22a(1), Article 22c(1), Article 104(3), Article\n106(c), Article 127a;\n REG: Article 6(1), Article 9(4)(c), (ca), (cb), (cc), Article 10a(1), Article 14a, Article 26(1)(c);\nSee www.ema.europa.eu\nPage /\n IR: Article 30, Article 31, Article 32, Article 33, Annex I;\n Regulation (EC) No 1901/2006 Article 34(2);\n Regulation (EC) No 1394/2007 Article 14(2)."
+        },
+        {
+          "num": "V.A.1.",
+          "text": "Terminology\nThe definitions from GVP Annex I apply also for the purpose of this GVP Module. However, the RMP\nshould focus on those risks that are relevant for the risk management activities for the authorised\nmedicinal product.\nFrom the identified risks of the medicinal product, the RMP should address only the risks that are\nundesirable clinical outcomes and for which there is sufficient scientific evidence that they are caused\nby the medicinal product. Reports of adverse reactions may be derived from multiple sources such as\nnon-clinical findings confirmed by clinical data, clinical trials, epidemiological studies, and spontaneous\ndata sources, including published literature. They may be linked to situations such as off label use,\nmedication errors or drug interactions. Not all reported adverse reactions are necessarily considered a\nrelevant risk of the product in a given therapeutic context.\nFrom the potential risks of the medicinal product, the RMP should address only the risks that are\nundesirable clinical outcomes and for which there is scientific evidence to suspect the possibility of a\ncausal relationship with the medicinal product, but where there is currently insufficient evidence to\nconclude that this association is causal.\nThe RMP should focus on the important identified risks that are likely to have an impact on the risk-\nbenefit balance of the product. An important identified risk to be included in the RMP would usually\nwarrant:\n Further evaluation as part of the pharmacovigilance plan (e.g. to investigate frequency, severity,\nseriousness and outcome of this risk under normal conditions of use, which populations are\nparticularly at risk);\n Risk minimisation activities: product information advising on specific clinical actions to be taken to\nminimise the risk (see V.B.8.), or additional risk minimisation activities.\nThe important potential risks to be included in the RMP are those important potential risks that,\nwhen further characterised and if confirmed, would have an impact on the risk-benefit balance of the\nmedicinal product. Where there is a scientific rationale that an adverse clinical outcome might be\nassociated with off-label use, use in populations not studied, or resulting from the long-term use of the\nproduct, the adverse reaction should be considered a potential risk, and if deemed important, should\nbe included in the list of safety concerns as an important potential risk. Important potential risks\nincluded in the RMP would usually require further evaluation as part of the pharmacovigilance plan.\nMissing information relevant to the risk management planning refers to gaps in knowledge about the\nsafety of a medicinal product for certain anticipated utilisation (e.g. long-term use) or for use in\nparticular patient populations, for which there is insufficient knowledge to determine whether the\nsafety profile differs from that characterised so far. The absence of data itself (e.g. exclusion of a\npopulation from clinical studies) does not automatically constitute a safety concern. Instead, the risk\nmanagement planning should focus on situations that might differ from the known safety profile. A\nscientific rationale is needed for the inclusion of that population as missing information in the RMP.\nPage /"
+        },
+        {
+          "num": "V.B.",
+          "text": "Structures and processes"
+        },
+        {
+          "num": "V.B.1.",
+          "text": "Principles of risk management\nThe overall aim of risk management is to ensure that the benefits of a particular medicinal product\nexceed the risks by the greatest achievable margin. The primary aim and focus of the RMP remains\nthat of appropriate risk management planning throughout a medicinal product’s life cycle. The risk\nmanagement system shall be proportionate to the identified risks and the potential risks of the\nmedicinal product, and the need for post-authorisation safety data [DIR Art 8(3)].\nThe RMP is a dynamic document that should be updated throughout the life cycle of the product(s).\nThis includes the addition of safety concerns where required, but also, as the safety profile is further\ncharacterised, the removal or reclassification of safety concerns.\nThe guidance on risk classification in this document may facilitate that during the life cycle of the\nproducts the list of safety concerns in the RMP will be reduced (see also V.A.1. and V.B.5.8.):\n It may be that important potential risks can be removed from the safety specification in the RMP\n(e.g. when accumulating scientific and clinical data do not support the initial supposition, the\nimpact to the individual has been shown to be less than anticipated resulting in the potential risk\nnot being considered important, or when there is no reasonable expectation that any\npharmacovigilance activity can further characterise the risk), or they need to be reclassified to\n‘important identified risks’ (e.g. if scientific and clinical data strengthen the association between\nthe risk and the product).\n In certain circumstances, where the risk is fully characterised and appropriately managed,\nimportant identified risks may be removed from the safety specification (e.g. for products\nmarketed for a long time for which there are no outstanding additional pharmacovigilance activities\nand/or the risk minimisation activities recommending specific clinical measures to address the risk\nhave become fully integrated into standard clinical practice, such as inclusion into treatment\nprotocols or clinical guidelines).\n Given the overall aim of obtaining more information regarding the risk-benefit balance in certain\npopulations excluded in the pre-authorisation phase, it is expected that as the product matures,\nthe classification as missing information might not be appropriate anymore once new data become\navailable, or when there is no reasonable expectation that the existing or future feasible\npharmacovigilance activities could further characterise the safety profile of the product with respect\nto the areas of missing information.\nWith the exception of some patient registries, it is expected that over time the additional\npharmacovigilance activities in the RMP will be completed and thus removed from the RMP.\nThe need to continue additional risk minimisation activities may change, as the recommendations for\nspecific clinical measures to address the risk become part of the routine practice such as inclusion into\nstandard treatment protocols in the EU, or in response to the findings of effectiveness of risk\nminimisation evaluations (i.e. they may need to be replaced with more effective activities). Some risk\nminimisation activities might be needed to be retained for the lifetime of the medicinal product (e.g.\npregnancy prevention programmes).\nPage /"
+        },
+        {
+          "num": "V.B.2.",
+          "text": "Responsibilities for risk management\nThe principal organisations directly involved in medicinal products’ risk management planning are\napplicants/marketing authorisation holders and the competent authorities who regulate the medicinal\nproducts.\nAn applicant/marketing authorisation holder is responsible for:\n having an appropriate risk management system in place [DIR 8(3)(iaa); DIR Art 104(3)(c)];\n ensuring that the knowledge and understanding on the product’s safety profile, following its use in\nclinical practice, are critically reviewed. The marketing authorisation holder should monitor\npharmacovigilance data to determine whether there are new risks or whether risks have changed\nor whether there are changes to the risk-benefit balance of medicinal products [Dir Art 104(3)(e)],\nand update the risk management system and the RMP accordingly, as described below. The critical\nreview of the safety profile of the product is a continuous activity and is reflected in data submitted\nwith periodic safety update reports (PSUR) (see GVP Module VII), where an RMP submission may\nor may not be warranted. In addition, there are two specific milestones when the marketing\nauthorisation holders of products approved following full initial marketing authorisation applications\nare advised to reflect on the need to review the list of safety concerns and the planned and\nongoing pharmacovigilance and risk minimisation activities:\n with the (first) 5-year renewal;\n in the time period when the first PSUR following the first 5 year renewal is due for submission.\nIt is anticipated that this PSUR submission would occur approximately 8-9 years following the\ngranting of the marketing authorisation, at the time when the assessment of the initial\nmarketing authorisation applications for generic products for the active substance commences.\nAs such, the safety profile of the medicinal product is likely to be sufficiently well characterised\nto allow for a critical review and update of the list of safety concerns."
+        },
+        {
+          "num": "V.B.3.",
+          "text": "Overview of the format and content of the risk management plan\n(RMP)\nThe RMP consists of seven parts. The submitted RMP shall follow the RMP template [IR Annex I]. Part\nII of the RMP - Safety specification is subdivided into modules [IR Annex I], so the content can be\ntailored to the specifics of the medicinal product. RMP part II modules generally follow the section titles\nin the safety specification of ICH-E2E (see GVP Annex IV). The modular structure aims to facilitate the\nupdate of the RMP; in addition, in specific circumstances certain RMP modules may have reduced\ncontent requirements (see V.C.1.1.). However, the RMP document is expected to be submitted as one\nsingle document including all modules and annexes, as relevant.\nAn overview of the parts and modules of the RMP is provided below in Table V.1. [IR Annex I]:\nPage /\nTable V.1. Overview of the RMP parts and modules"
+        }
+      ]
+    },
+    {
+      "title": "Part VII Annexes",
+      "articles": [
+        {
+          "num": "Article 14",
+          "text": "(2) of Regulation (EC) No 1394/2007 provides for a specific framework for RMP for advanced\ntherapy medicinal products (ATMP). The marketing authorisation applicants/holders should adapt the\nrisk management plans of ATMP, considering and discussing the anticipated post-authorisation follow-\nup needs, focusing on particularities of these medicinal products. The specific RMP content\nrequirements for ATMP should be discussed with the competent authority before the submission.\nFurther guidance on the safety and efficacy follow-up and risk management requirements for ATMP is\nprovided on the Agency’s website.\nIt is recommended, where appropriate, that the RMP document includes all relevant medicinal products\nfrom the same applicant/marketing authorisation holder containing the same active substance(s) (i.e.\nthe RMP is an active substance-based document) [IR Art 30(2)].\nInformation in the RMP should be provided in enough detail whilst avoiding unnecessary text that\ndistracts from the key issues to be considered for risk management of the product. However, the\nsafety specifications in the RMP should not be a duplication of data submitted elsewhere in the dossier,\nunless the sections are intended to be common modules with other documents such as the PSUR.\nWhere applicable, the information in the RMP should provide an integrated overview/discussion\nfocusing on the most important risks that have been identified or are anticipated based on pre-clinical,\nclinical and post-marketing data presented in other modules of the eCTD. Any data included in the RMP\nshould be consistent with other sections of the dossier. Links or references to relevant sections of the\nnon-clinical and clinical overviews and summaries should be included in the RMP.\nFor new RMP submissions for nationally authorised products with limited safety data in the dossier, the\nRMP may contain the relevant safety data and discussion, to support the risk identification discussion.\nSee www.ema.europa.eu; further ATMP-specific guidance is being developed\nPage /\nTo aid consistency between the information provided in the dossier and the RMP, Table V.2. indicates\nwhere information from the eCTD is likely to be discussed in the RMP. The eCTD data refers to the\nsubmission containing the RMP (e.g. initial marketing authorisation applications and major variations)\nor to historical data already included in the dossier with previous submissions.\nIn the context of a centralised procedure, the RMP should be submitted as part of an eCTD submission;\nhowever, for non-centralised procedures the RMP submission might still be part of a CTD submission.\neCTD data/submissions in this Module should be read as eCTD or CTD data/submission, corresponding\nto the type of submission to the competent authority.\nTable V.2. Mapping between RMP modules and information in eCTD\nRMP Module eCTD"
+        }
+      ]
+    },
+    {
+      "title": "Part V Risk minimisation measures (includingModule 2.5 Clinical overview",
+      "articles": [
+        {
+          "num": "V.B.4.",
+          "text": "RMP part I “Product(s) overview”\nThis should provide the administrative information on the RMP and an overview of the product(s). The\ninformation presented should be current and accurate in relation to the ongoing application as it is\nanticipated to appear in the marketing authorisation. The information should include:\nActive substance information:\n active substance(s);\n pharmacotherapeutic group(s) (ATC code);\n name of the:\n marketing authorisation applicant - for initial marketing authorisation applications;\nor\n marketing authorisation holder - for RMPs submitted with post-authorisation procedures;\n for mutual recognition/ decentralised procedures applications: the name(s) of the expected future\nmarketing authorisation holder(s) in the reference Member State, if known at the time of the\napplication;\n medicinal product(s) to which this RMP refers.\n authorisation procedure(s) (centralised, mutual recognition, decentralised, national);\n invented name(s) in the European Economic Area (EEA);\n brief description of the product including:\n chemical class;\n summary of mode of action;\n important information about its composition (e.g. origin of active substance of biologicals,\nrelevant adjuvants or residues for vaccines);\n eCTD link to the proposed product information, as appropriate;\nPage /\n indications: approved and proposed (if RMP submitted with an extension/restriction of indication);\n dosage (summary information – only related to main population; not a duplication of SmPC section\n4.2);\n pharmaceutical forms and strengths;\n whether the product is subject to additional monitoring in the EU (at initial marketing authorisation\napplication conclusion or with RMP updates)."
+        },
+        {
+          "num": "V.B.5.",
+          "text": "RMP part II “Safety specification”\nThe purpose of the safety specification is to provide an adequate discussion on the safety profile of the\nmedicinal product(s), with focus on those aspects that need further risk management activities. It\nshould include a summary of the important identified risks of a medicinal product, important potential\nrisks, and missing information. It should also address the populations potentially at risk (where the\nproduct is likely to be used i.e. both as authorised and off-label use), and any outstanding safety\nquestions that warrant further investigation to refine the understanding of the risk-benefit balance\nduring the post-authorisation period. The safety specification forms the basis of the pharmacovigilance\nplan and the risk minimisation plan.\nThe safety specification consists of eight RMP modules, of which RMP modules SI-SV, SVII and SVIII\ncorrespond to safety specification headings in ICH-E2E. RMP module SVI includes additional elements\nrequired to be submitted in the EU.\nAlthough the elements outlined in V.B.5.2. to V.B.5.9. serve as a guide only, it is recommended that\napplicants/ marketing authorisation holders follow the structure provided when compiling the safety\nspecification.\nDetails of specific requirements for initial marketing authorisation applications are included in V.C.1.1.."
+        },
+        {
+          "num": "V.B.5.1.",
+          "text": "General considerations for generic products and advanced therapy\nmedicinal products"
+        },
+        {
+          "num": "V.B.5.1.1.",
+          "text": "Generics\nFor generic medicinal products the expectation is that the safety specification is the same as that of\nthe reference product or of other generic products for which an RMP is in place. If discrepancies exist\nbetween approved RMPs for such products, then the applicant is expected to propose and justify the\nmost appropriate safety specification for their product. Exceptionally, the applicant for a new generic\nmedicinal product may add or remove safety concerns compared with the safety profile of the\nreference product if this is appropriately justified (for example, when there is a more up to date\nunderstanding of the current safety profile or when there are differences in product characteristics\ncompared with the reference product, e.g. there is a risk associated with an excipient present only in\nsome of the products containing the same active substance)."
+        },
+        {
+          "num": "V.B.5.1.2.",
+          "text": "Advanced therapy medicinal products\nUnder Regulation (EC) No 1394/2007, certain products for human medicinal use are categorised within\nthe EU as advanced therapy medicinal products. These products are fully defined in the above\nRegulation but broadly comprise:\n gene therapy medicinal products;\nPage /\n somatic cell therapy medicinal products;\n tissue engineered products.\nBecause of the nature of these products, risks may occur that are not normally a concern with other\nmedicinal products including risks to living donors, risks of germ line transformation and transmission\nof vectors. These risks need to be taken into consideration when developing the safety specification for\nATMPs (see V.B.5.8.)."
+        },
+        {
+          "num": "V.B.5.2.",
+          "text": "RMP part II, module SI “Epidemiology of the indication(s) and\ntarget population(s)”\nThis RMP module should include incidence, prevalence, outcome of the (untreated) target disease (i.e.\nindications) and relevant co-morbidity, and should when relevant for assessment of safety and risk\nmanagement be stratified by age, gender, and ethnic origin. Risk factors for the disease and the main\nexisting treatment options should also be described. The emphasis should be on the epidemiology of\nthe proposed indication in the EU. Differences in the epidemiology in different regions should be\ndiscussed (where epidemiology varies across regions).\nThis section should also describe the relevant adverse events to be anticipated in the (untreated)\ntarget population in EU, their frequency and characteristics. The text should help anticipate and\ninterpret any potential signals and help identify opportunities for risk minimisation. The text should be\nkept concise and should not include any element of a promotional nature."
+        },
+        {
+          "num": "V.B.5.3.",
+          "text": "RMP part II, module SII “Non-clinical part of the safety\nspecification”\nThis RMP module should present a high-level summary of the significant non-clinical safety findings, for\nexample:\n toxicity (key issues identified from acute or repeat-dose toxicity, reproductive/developmental\ntoxicity, genotoxicity, carcinogenicity);\n safety pharmacology (e.g. cardiovascular system, including QT interval prolongation, nervous\nsystem);\n other toxicity-related information or data.\nWhat constitutes an important non-clinical safety finding will depend upon the medicinal product, the\ntarget population and experience with other similar compounds or therapies in the same class.\nNormally, significant areas of toxicity (by target organ system) and the relevance of the findings to the\nuse in humans should be discussed. Also, quality aspects if relevant to safety (e.g. genotoxic\nimpurities) should be discussed. If a product is intended for use in women of childbearing age, data on\nthe reproductive/developmental toxicity should be explicitly mentioned and the implications for use in\nthis population discussed. Where the non-clinical safety finding could constitute an important potential\nrisk to the target population, it should be included as a safety concern in RMP module SVIII. Where the\nnon-clinical safety finding is not considered relevant for human beings, provision of a brief explanation\nis required, but the safety finding is not expected to be carried forward to SVII and SVIII as a safety\nconcern.\nIf, based on the assessment of the non-clinical or clinical data, additional non-clinical studies are\nconsidered warranted and proposed to be part of the pharmacovigilance plan, this should be briefly\ndiscussed here.\nPage /\nFinal conclusions on this section should be aligned with content of module SVII and any safety\nconcerns should be carried forward to module SVIII.\nThe content of this section should be assessed for relevance over time. Post-authorisation, this section\nwould only be expected to be updated when new non-clinical data impact the list of safety concerns.\nSafety concerns identified on the basis of non-clinical data which are no longer relevant and/or have\nnot been confirmed when sufficient relevant post-marketing experience and evidence are gathered,\ncan be removed from the list of safety concerns."
+        },
+        {
+          "num": "V.B.5.4.",
+          "text": "RMP part II, module SIII “Clinical trial exposure”\nIn this RMP module, in order to assess the limitations of the human safety database, summary\ninformation on the patients studied in clinical trials should be provided in an appropriate format (e.g.\ntables/graphs) at time of submission of the initial RMP or when there is a major update due to new\nexposure data from clinical studies (e.g. in a new indication). The content of this section should be\nassessed for relevance over time and, in the absence of new significant clinical trial exposure data, this\nsection does not need to be updated.\nThe size of the study population should be detailed using both numbers of patients and, where\nappropriate, patient time exposed to the medicinal product. This should be stratified for relevant\ncategories; stratifications would normally include:\n age and gender;\n indication;\n dose;\n other stratifications should be provided where this adds meaningful information for risk\nmanagement planning purposes (e.g. ethnic origin).\nPaediatric data should be divided by age categories (e.g. ICH-E11); similarly the data on older people\nshould be stratified into age categories reflecting the target population (e.g. -74, 75-84 and 85\nyears and above).\nUnless clearly relevant and duly justified, data should not be presented by individual trial, but pooled.\nTotals should be provided for each table/graph as appropriate. Where patients have been enrolled in\nmore than one trial (e.g. open label extension study following a trial) they should only be included\nonce in the age/gender/ethnic origin tables. Reasons for differences in the total numbers of patients\nbetween tables should be explained.\nWhen the RMP is being submitted with an application for a new indication, a new pharmaceutical form\nor route of administration, the clinical trial data specific to the application should be presented\nseparately at the start of the module as well as being pooled across all indications."
+        },
+        {
+          "num": "V.B.5.5.",
+          "text": "RMP part II, module SIV “Populations not studied in clinical trials”\nPopulations that are considered under missing information should be described in this RMP module.\nSee\nhttp://www.ema.europa.eu/ema/index.jsp?curl=pages/regulation/general/general_content_000429.jsp&mid=WC0b01ac05\n80029590\nPage /\nInformation on the low exposure of special populations or the lack thereof (e.g. pregnant women,\nbreast-feeding women, patients with renal impairment, hepatic impairment or cardiac impairment,\npopulations with relevant genetic polymorphisms, immuno-compromised patients and populations of\ndifferent ethnic origins) should be provided where available and as appropriate. The degree of renal,\nhepatic or cardiac impairment should be specified as well as the type of genetic polymorphism, as\navailable.\nIf the product is expected to be used in populations not studied and if there is a scientific rationale to\nsuspect a different safety profile, but the available information is insufficient to determine whether or\nnot the use in these circumstances could constitute a safety concern, then this should be included as\nmissing information in the RMP. Excluded populations from the clinical trial development programme\nshould be included as missing information only when they are relevant for the approved and proposed\nindications, i.e. “on-label”, and if the use in such populations might be associated with risks of clinical\nsignificance. In discussing differences between target populations and those exposed in clinical trials it\nshould be noted that some differences may arise through trial setting (e.g. hospital or general\npractice) rather than through explicit inclusion/exclusion criteria. When such populations are proposed\nas missing information, then RMP module SIV should also include a discussion on the relevant\nsubpopulations.\nIf there is evidence that use in excluded populations is associated with an undesirable clinical outcome,\nthen the outcome should be included as an important (potential) risk."
+        },
+        {
+          "num": "V.B.5.6.",
+          "text": "RMP part II, module SV “Post-authorisation experience”\nIf post-marketing data are available from post-authorisation experience in other regions outside EU,\nwhere the product is already authorised or from other authorised products containing the same active\nsubstance, from the same marketing authorisation holder, the data should be discussed in this RMP\nmodule.\nIt should only provide an overview of experience in the post-authorisation phase that is helpful for risk\nmanagement planning purposes. It is not the intention to duplicate information from the PSUR.\nAdditionally, a discussion on how the medicinal product is being used in practice and on-label and off-\nlabel use, including use in the special populations mentioned in RMP module SIV, can also be included\nwhen relevant for the risk identification discussion in module SVII.\nWhere appropriate and relevant for the discussion in SVII, data on use in markets outside the EU from\nindications not authorised in EU should also be summarised, and the implications for the authorisation\nin the EU should be discussed."
+        },
+        {
+          "num": "V.B.5.7.",
+          "text": "RMP part II, module SVI “Additional EU requirements for the\nsafety specification”\nIn addition to safety topics required by ICH-E2E (see GVP Annex IV), the following should be\naddressed in the EU-RMP: the potential for misuse for illegal purposes, and, where appropriate, the\nproposed risk minimisation measures, e.g. limited pack size, controlled access programme, special\nmedical prescription [DIR Art 71(2)] (see also V.B.8.)."
+        },
+        {
+          "num": "V.B.5.8.",
+          "text": "RMP part II, module SVII “Identified and potential risks”\nThis RMP module should provide a focussed discussion on the identification of important identified and\nimportant potential risks, and missing information (i.e. safety concerns).\nPage /\nThe following safety topics derived from specific situations/data sources are thought to be of particular\ninterest for the risk identification discussion in module SVII, and should be discussed when they lead to\nrisks of the product:\n potential harm from overdose, whether intentional or accidental, for example in cases where there\nis a narrow therapeutic margin or potential for major dose-related toxicity, and/or where there is a\nhigh risk of intentional overdose in the treated population (e.g. in depression). Where harm from\noverdose has occurred during clinical trials this should be explicitly mentioned and, where relevant,\nthe important risks following overdose should be included as safety concerns in RMP module SVIII\nand appropriate risk minimisation proposed in RMP part V;\n potential for risks resulting from medication errors, defined as an unintended failure in the drug\ntreatment process that leads to, or has the potential to lead to, harm to the patient. Medication\nerrors leading to important risks, identified during product development including clinical trials,\nshould be discussed and information on the errors, their potential cause(s) and possible remedies\ngiven. Where applicable an indication should be given of how these have been taken into account\nin the final product design. Further guidance on medication errors is provided in Good Practice\nGuide on Risk Minimisation and Prevention of Medication Errors , Annex 2 - Design features which\nshould be considered to reduce the risk of medication errorwhich includes an extensive list of\npotential medication errors and the consequence to the patients. Important risks related to\nmedication errors in the post marketing period should be discussed in the updated RMP and ways\nof limiting the errors proposed;\n potential for transmission of infectious agents due to the nature of the manufacturing process or\nthe materials involved. For live attenuated vaccines any potential for transmission of mutated live\nvaccine virus, and the potential of causing the disease in immunocompromised contacts of the\nvaccine should be discussed with the view of considering them as important potential risks;\n potential for off-label use, when differences in safety concerns between the target and the off-label\npopulation are anticipated, the potential risks arising from the off-label use of the product should\nbe considered for inclusion in the safety specifications;\n if an important identified or potential risk common to other members of the pharmacological class\nis not thought to be an important identified or important potential risk with the concerned\nmedicinal product, the evidence to support this should be provided and discussed;\n important risks related to identified and potential pharmacokinetic and pharmacodynamic\ninteractions should be discussed in relation to the treatments for the condition, but also in relation\nto commonly used medications in the target population. The evidence supporting the interaction\nand possible mechanism should be summarised, the potential health risks discussed for different\nindications and populations, and plans to further characterise and minimise the risks described.\nImportant risks derived from interactions should be included as a safety concern;\n risks in pregnant and lactating women, e.g. teratogenic risk - direct or through exposure to semen:\ncontraception recommendations can be considered as risk minimisation measures. Further\nguidance on risk management in case of exposure of the embryo / foetus to teratogenic agents can\nbe found in the GVP P.III. and GVP Module XVI;\nSee www.ema.europa.eu, EMA/606103/2014\nPage /\n effect on fertility - appropriate risk minimisation measures should be considered, e.g. routine risk\ncommunication and/or additional activities recommending fertility preservation: sperm\ncryopreservation in men and embryo and oocyte cryopreservation in women;\n risks associated with the disposal of the used product (e.g. transdermal patches with remaining\nactive substance or remains of radioactive diagnostics);\n risks related to the administration procedure (e.g. risks related to the use of a medical device\n(malfunction which impacts on the dose administered, risk of variability in complex\nadministrations);\n paediatric safety issues that are particular causes of concern in paediatric population, as described\nin section 5 of annex I of the PIP opinion (Potential long-term safety/efficacy issues in relation to\npaediatric use for consideration in the RMP/Pharmacovigilance activities).\nFor RMPs of ATMPs, the applicants should also consider the possible specific risks in drafting the safety\nspecifications (see Guideline on Safety and Efficacy Follow-up – Risk Management of Advanced Therapy\nMedicinal Products)."
+        },
+        {
+          "num": "V.B.5.8.1.",
+          "text": "RMP part II, module SVII section “Identification of safety concerns in the initial\nRMP submission”\nThis RMP section should contain the initial identification of safety concerns and is expected to be\npopulated with the initial submission of an RMP, either at the time of the initial marketing authorisation\n(MA) application or post-authorisation (i.e. for approved products that previously did not have an\nRMP).\nThis section is expected to be “locked” and not change after the approval of the initial RMP."
+        },
+        {
+          "num": "V.B.5.8.1.a.",
+          "text": "RMP part II, module SVII sections “Risk considered important for inclusion in\nthe list of safety concerns” and “Risk not considered important for inclusion in the list of\nsafety concerns”\nIn this RMP section the following information should be summarised and discussed:\n risk seriousness;\n risk frequency;\n the risk-benefit impact of the risks.\nFor risks not taken forward as safety concerns, the information can be grouped by reasons for not\nincluding them as safety concerns."
+        },
+        {
+          "num": "V.B.5.8.2.",
+          "text": "RMP part II, module SVII section “New safety concerns and reclassification with a\nsubmission of an updated RMP”\nIn the post-authorisation phase, it is expected that new identified and potential risks of the product are\npresented in the safety section of the dossier (with e.g. signal evaluation, periodic benefit-risk\nevaluation, or safety variations procedures) together with an evaluation on whether the risks should be\nconsidered important and added in the safety specification in the RMP. This discussion should not be\nduplicated in the RMP, but the details of any new important identified or potential risk should be\nincluded in the RMP section described in V.B.5.8.3..\nSee www.ema.europa.eu\nPage /\nWhen an important identified or potential risk or missing information is re-classified or removed, a\njustification should be provided in this RMP section, with appropriate reference to the safety data. The\ninformation included in this section may take the form of a statement describing a previous regulatory\nrequest, with a reference to the procedure where such request was formulated."
+        },
+        {
+          "num": "V.B.5.8.3.",
+          "text": "RMP part II, module SVII section “Details of important identified risks, important\npotential risks, and missing information”\nFor RMPs containing multiple products, if there are significant differences between products (e.g. fixed\ndose combination products) it is appropriate to make it clear which safety concerns relate to which\nproduct.\nThis RMP section applies to all stages of the product’s life cycle.\nPresentation of important identified risks and important potential risks data:\n name of the risk (using MedDRA terms when appropriate);\n potential mechanism;\n evidence source(s) and strength of the evidence (i.e. the scientific basis for suspecting the\nassociation);\n characterisation of the risk: e.g. frequency, absolute risk, relative risk, severity, reversibility, long-\nterm outcomes, impact on quality of life;\n risk factors and risk groups (including patient factors, dose, at risk period, additive or synergistic\nfactors);\n preventability (i.e. predictability of a risk; whether risk factors have been identified that can be\nminimised by routine or additional risk minimisation activities other than general awareness using\nthe PI; possibility of detection at an early stage which could mitigate seriousness);\n impact on the risk-benefit balance of the product;\n public health impact (e.g. absolute risk in relation to the size of the target population and\nconsequently actual number of individuals affected, or overall outcome at population level).\nPresentation of missing information data:\n name of the missing information (using MedDRA terms when appropriate);\n evidence that the safety profile is expected to be different than in the general target population;\n description of a population in need of further characterisation, or description of the risk anticipated\nin the population not studied, as appropriate."
+        },
+        {
+          "num": "V.B.5.9.",
+          "text": "RMP part II, module SVIII “Summary of the safety concerns”\nIn this RMP module, a list of safety concerns should be provided with the following categories:\n important identified risks;\n important potential risks;\n missing information.\nPage /"
+        },
+        {
+          "num": "V.B.6.",
+          "text": "RMP part III “Pharmacovigilance plan (including post-authorisation\nsafety studies)”\nThe purpose of the pharmacovigilance plan in part III of the RMP is to present an overview and discuss\nhow the applicant/marketing authorisation holder plans to further characterise the safety concerns in\nthe safety specification. It provides a structured plan for:\n the investigation of whether a potential risk is confirmed as an identified risk or refuted;\n further characterisation of safety concerns including severity, frequency, and risk factors;\n how missing information will be sought;\n measuring the effectiveness of risk minimisation measures.\nIt does not include actions intended to reduce, prevent or mitigate risks; these are discussed in RMP"
+        }
+      ]
+    },
+    {
+      "title": "part V.",
+      "articles": [
+        {
+          "num": "V.B.6.1.",
+          "text": "RMP part III section “Routine pharmacovigilance activities”\nRoutine pharmacovigilance is the primary/minimum set of activities required for all medicinal products\nas per the obligations set out in DIR and REG. Signal detection, which is part of routine\npharmacovigilance, is an important element in identifying new risks for all products. The descriptions\nof these activities in the pharmacovigilance system master file (see GVP Module II) are not required to\nbe repeated in the RMP.\nThe Pharmacovigilance Risk Assessment Committee (PRAC), the Committee for Medicinal Products for\nHuman Use (CHMP), the Coordination Group for Mutual recognition and Decentralised Procedures –\nHuman (CMDh), or national competent authorities may make recommendations for specific activities\nrelated to the collection, collation, assessment and reporting of spontaneous reports of adverse\nreactions which differ from the normal requirements for routine pharmacovigilance (see GVP Module I).\nIf these recommendations include recording of tests (including in a structured format) that would form\npart of standard clinical practice for a patient experiencing the adverse reaction, then this requirement\nwould still be considered routine. The routine pharmacovigilance section of the pharmacovigilance plan\nshould be used in these circumstances to explain how the applicant will modify its routine\npharmacovigilance activities to fulfil any special PRAC, CHMP, CMDh, and national competent authority\nrecommendations on routine pharmacovigilance.\nHowever, if the recommendation includes the submission of tissue or blood samples to a specific\nlaboratory (e.g. for antibody testing) that is outside standard clinical practice, then this would\nconstitute an additional pharmacovigilance activity.\nThis RMP section should describe only the routine pharmacovigilance activities beyond adverse reaction\nreporting and signal detection.\nPage /"
+        },
+        {
+          "num": "V.B.6.1.1.",
+          "text": "Specific adverse reaction follow-up questionnaires\nWhere an applicant/marketing authorisation holder is requested, or plans, to use specific\nquestionnaires to obtain structured information on reported suspected adverse reactions of special\ninterest, the use of these materials should be described in the routine pharmacovigilance activities\nsection and copies of these forms should be provided in RMP annex 4.\nWithout prejudice to the originality of the format of the questionnaire(s), it is in the interest of public\nhealth that questionnaire(s) used by different applicants/marketing authorisation holders for the same\nadverse event should be kept as similar as possible, in order to deliver a consistent message and to\nprovide useful data for the analysis of the reports, which are relevant for regulatory decisions, while\ndecreasing the burden on healthcare professionals. Therefore, marketing authorisation holders are\nstrongly encouraged to share the content of their questionnaire(s) upon request from other marketing\nauthorisation holders."
+        },
+        {
+          "num": "V.B.6.1.2.",
+          "text": "Other forms of routine pharmacovigilance activities\nThe description of the planned other forms of routine pharmacovigilance activities should be described\nin this section, e.g. the high level description of the enhanced passive surveillance system, observed\nversus expected analyses, cumulative reviews of adverse events of interest."
+        },
+        {
+          "num": "V.B.6.2.",
+          "text": "RMP part III section “Additional pharmacovigilance activities”\nThe applicant/marketing authorisation holder should list in this RMP section their planned additional\npharmacovigilance activities, detailing what information is expected to be collected that can lead to a\nmore informed consideration of the risk-benefit balance.\nAdditional pharmacovigilance activities are pharmacovigilance activities that are not considered\nroutine. They may be non-clinical studies, clinical trials or non-interventional studies. Examples include\nlong-term follow-up of patients from the clinical trial population or a cohort study to provide additional\ncharacterisation of the long-term safety of the medicinal product. When any doubt exists about the\nneed for additional pharmacovigilance activities, consultation with a competent authority should be\nconsidered.\nStudies in the pharmacovigilance plan aim to identify and characterise risks, to collect further data\nwhere there are areas of missing information or to evaluate the effectiveness of additional risk\nminimisation activities. They should relate to the safety concerns identified in the safety specification,\nbe feasible and should not include any element of a promotional nature.\nStudies in the pharmacovigilance plan should be designed and conducted according to the respective\nlegislation in place, and recommendations in the GVP Module VIII.\nStudy protocols may be included for evaluation in an RMP update only when the studies are included in\nthe pharmacovigilance plan and the protocols submission has been requested by the competent\nauthority. Reviewed and approved protocols for studies in the pharmacovigilance plan should be\nprovided in RMP annex 3 – part C (or electronic links or references to the protocol included in other\nsection of the eCTD dossier). Other category 3 studies protocols, submitted for information only, may\nalso be included in RMP annex 3 – part C. Protocols of completed studies should be removed from RMP"
+        }
+      ]
+    },
+    {
+      "title": "annex 3 once the final study reports are submitted to the competent authority for assessment and the",
+      "articles": [
+        {
+          "num": "V.B.6.3.",
+          "text": "RMP part III section “Summary table of additional\npharmacovigilance activities”\nThis RMP section outlines the pharmacovigilance activities designed to identify and characterise risks\nassociated with the use of a medicinal product. Some may be imposed as conditions to the marketing\nauthorisation, either because they are key to the risk-benefit profile of the product (category 1 studies\nin the pharmacovigilance plan), or because they are specific obligations in the context of a conditional\nmarketing authorisation or a marketing authorisation under exceptional circumstances (category 2\nstudies in the pharmacovigilance plan). If the condition or the specific obligation is a non-interventional\nPASS, it will be subject to the supervision set out in DIR Art 107m-q and the format and content of\nsuch non-interventional PASS should be as described in IR Annex III (see GVP Module VIII).\nOther studies might be required in the RMP to investigate a safety concern or to evaluate the\neffectiveness of risk minimisation activities. Such studies included in the pharmacovigilance plan are\nalso legally enforceable (category 3 studies in the pharmacovigilance plan). The summary table of the\npharmacovigilance plan should provide clarity to all stakeholders as to which category an activity in the\npharmacovigilance plan falls under (see Table V.3.).\nTable V.3. Attributes of additional pharmacovigilance activities\nIn annexStudySupervised under\nII of MAcategory\nType of activityStatus\n(CAPs(PhV\nonly)plan)ArticleArticle\n107m107 n-q\nYes, in\nImposed“Interventional”* MandatoryNo No"
+        }
+      ]
+    },
+    {
+      "title": "annex IIE",
+      "articles": [
+        {
+          "num": "V.B.7.",
+          "text": "RMP part IV “Plans for post-authorisation efficacy studies”\nThis RMP part should include a list of post-authorisation efficacy studies (PAES) imposed as conditions\nto the marketing authorisation or when included as specific obligations in the context of a conditional\nmarketing authorisation or a marketing authorisation under exceptional circumstances. If no such\nstudies are required, RMP Part IV may be left empty."
+        },
+        {
+          "num": "V.B.8.",
+          "text": "RMP part V “Risk minimisation measures (including evaluation of the\neffectiveness of risk minimisation activities)”"
+        }
+      ]
+    },
+    {
+      "title": "annex 6 – Details of proposed additional risk minimisation activities.",
+      "articles": [
+        {
+          "num": "V.B.8.1.",
+          "text": "RMP part V section “Risk minimisation plan”\nIn the RMP section on the risk minimisation plan, for each safety concern in the safety specification,\nthe following information should be provided:\n routine risk minimisation activities, including details of whether only inclusion in the SmPC and PL\nis foreseen or any other routine risk minimisation activities are proposed;\n additional risk minimisation activities (if any), including individual objectives and justification of\nwhy needed, and how their effectiveness will be measured."
+        },
+        {
+          "num": "V.B.8.2.",
+          "text": "RMP part V section “Summary of risk minimisation measures”\nA table listing the routine and additional risk minimisation activities by safety concern should be\nprovided in this RMP section (e.g. the SmPC section number where the risk appears in the SmPC, the\nlist of educational materials). A further summary of pharmacovigilance activities should be included, as\ndescribed in the EMA Guidance on Format of the Risk Management Plan in the EU ."
+        },
+        {
+          "num": "V.B.9.",
+          "text": "RMP part VI “Summary of the risk management plan”\nA summary of the RMP for each authorised medicinal product shall be made publicly available and shall\ninclude the key elements of the risk management plan [REG Art 26(1)(c), DIR Art 106(c), IR Art\n31(1)]."
+        }
+      ]
+    },
+    {
+      "title": "Part VI of the RMP shall be provided by the marketing authorisation applicant/holder for medicinal",
+      "articles": [
+        {
+          "num": "V.B.10.",
+          "text": "RMP part VII “Annexes to the risk management plan”\nThe RMP should contain the annexes listed below (if applicable). If the RMP applies to more than one\nmedicinal product, usually it would be expected that the annexes will be relevant for all products.\nParticular aspects not applicable to all medicinal products in the RMP should be highlighted (e.g. a\nfollow-up form in annex 4 might only be applicable to the products containing the active substance that\nis causally linked to the event)."
+        },
+        {
+          "num": "V.B.10.1.",
+          "text": "RMP annex 1"
+        }
+      ]
+    },
+    {
+      "title": "Annex 1 of the RMP is the structured electronic representation of the EU risk management plan. It is",
+      "articles": [
+        {
+          "num": "V.B.10.2.",
+          "text": "RMP annex 2: Tabulated summary of planned, on-going, and\ncompleted pharmacovigilance study programme\nThis annex should include a tabulation of studies included in the pharmacovigilance plan (current or in\nprevious RMP versions; category 1, 2 and 3 studies), as follows:\n Planned and ongoing studies, including objectives, safety concern addressed, and the planned\ndates of submission of intermediate and final results.\n Completed studies, including objectives, safety concern addressed, and the date of submission of\nresults to the competent authorities (effective, planned, or state the reason for not submitting the\nresults)."
+        },
+        {
+          "num": "V.B.10.3.",
+          "text": "RMP annex 3: Protocols for proposed, on-going, and completed\nstudies in the pharmacovigilance plan"
+        }
+      ]
+    },
+    {
+      "title": "Annex 3 should not include protocols of studies not imposed nor requested by the competent authority",
+      "articles": [
+        {
+          "num": "V.B.10.3.1.",
+          "text": "RMP annex 3 – part A: Requested protocols of studies in the pharmacovigilance\nplan, submitted for regulatory review with this updated version of the RMP\nIf protocols have been requested to be submitted for review by the competent authority, and the\nmarketing authorisation holder choses to submit for assessment a study protocol within the same\nprocedure as the RMP submission, part A should include this protocol; alternatively the protocol might\nbe reviewed in a stand-alone procedure, and once agreed, included in the RMP annex 3 – part C. The\nregulatory pathway for the protocol submission should be agreed with the competent authority."
+        },
+        {
+          "num": "V.B.10.3.2.",
+          "text": "RMP annex 3 – part B: Requested amendments of previously approved protocols\nof studies in the pharmacovigilance plan, submitted for regulatory review with this updated\nversion of the RMP\nIf protocols amendments have been requested to be submitted for review by the competent authority,\nand the marketing authorisation holder choses to submit for assessment the study protocol\namendment within the same procedure as the RMP submission, part B should include the updated\nprotocol; alternatively the protocol amendment might be reviewed in a stand-alone procedure, and\nonce agreed, included in the RMP annex 3 – part C. The regulatory pathway for the protocol\nsubmission should be agreed with the competent authority.\nOnce approved, protocols from parts A or B should be moved to part C, with the next warranted RMP\nupdate."
+        },
+        {
+          "num": "V.B.10.3.3.",
+          "text": "RMP annex 3 – part C: Previously agreed protocols for on-going studies and final\nprotocols not reviewed by the competent authority\nPreviously agreed protocols for on-going studies and final protocols not reviewed by the competent\nauthority should be included in this part C of RMP annex 3, as follows:\n The full protocols that have been previously assessed by the competent authority and agreed (i.e.\nno protocol resubmission was requested). The protocols should be accompanied by the name of\nthe procedure when the protocol was approved and date of the outcome. This may include the\nPage /\nelectronic link or reference to other modules of the eCTD dossier where the protocols have been\npreviously submitted, instead of the full protocol documents.\n The final protocols of other category 3 studies: protocols that were not requested to be reviewed\nby the competent authorities and are submitted by the marketing authorisation holder for\ninformation only.\nProtocols of completed studies should be removed from this annex once the final study reports are\nsubmitted to the competent authority for assessment."
+        },
+        {
+          "num": "V.B.10.4.",
+          "text": "RMP annex 4: Specific adverse event follow-up forms\nThis annex should include all follow-up forms used by the marketing authorisation holder to collect\nadditional data on specific safety concerns. The usage of follow-up forms included in this annex should\nbe detailed in the pharmacovigilance plan in the RMP, as routine pharmacovigilance activities.\nThe forms that should be included in this annex are sometimes known as “event follow-up\nquestionnaire”, “adverse event data capture/collection aid” or “adverse reaction follow-up form”."
+        },
+        {
+          "num": "V.B.10.5.",
+          "text": "RMP annex 5: Protocols for proposed and on-going studies in RMP"
+        }
+      ]
+    },
+    {
+      "title": "part IV",
+      "articles": [
+        {
+          "num": "V.B.10.6.",
+          "text": "RMP annex 6: Details of proposed additional risk minimisation\nactivities\nIf applicable, this annex should include the proposed draft (and approved, if applicable) key messages\nof the additional risk minimisation activities."
+        },
+        {
+          "num": "V.B.10.7.",
+          "text": "RMP annex 7: Other supporting data (including referenced\nmaterial)\nWhen applicable, to avoid duplication of the materials presented as references, this annex should\ninclude eCTD links or reference to other documents included in other modules of the dossier."
+        },
+        {
+          "num": "V.B.10.8.",
+          "text": "RMP annex 8: “Summary of changes to the risk management plan\nover time”\nA list of all significant changes to the RMP in chronological order should be provided in this annex. This\nshould include a brief description of the changes and the date and version number of the RMPs when:\n safety concerns were added, removed or reclassified;\n studies were added or removed from the pharmacovigilance plan;\n risk minimisation activities recommending specific clinical measures to address the risks or\nadditional risk minimisation activities were modified in the risk minimisation plan.\nPage /"
+        },
+        {
+          "num": "V.B.11.",
+          "text": "The relationship between the risk management plan and the\nperiodic safety update report\nThe primary post-authorisation pharmacovigilance documents for safety surveillance are the RMP and\nthe PSUR. Although there is some overlap between the documents, the main objectives of the two are\ndifferent and the situations when they are required are not always the same. Regarding objectives, the\nmain purpose of the PSUR is retrospective, integrated, post-authorisation risk-benefit assessment\nwhilst that of the RMP is prospective pre-and post-authorisation risk-benefit management and\nplanning. As such, the two documents are complementary.\nWhen a PSUR and an RMP are submitted together, the RMP should reflect the conclusions of the\naccompanying PSUR. For example if a new signal is discussed in the PSUR and the PSUR concludes\nthat this is an important identified or important potential risk to be added in the RMP, the important\nrisk can be added in the updated RMP submitted with the PSUR. The pharmacovigilance plan and the\nrisk minimisation plan should be updated to reflect the marketing authorisation holder’s proposals to\nfurther investigate the safety concern and minimise the risk.\nTable V.4. Periodic safety update report and risk management plan modules containing similar\ninformation (however, may not be in identical format and may not be interchangeable)\nRMP section PSUR section"
+        }
+      ]
+    },
+    {
+      "title": "Part V – “Risk minimisation measures”, sectionSub-section 16.5 – “Effectiveness of risk",
+      "articles": [
+        {
+          "num": "V.B.12.",
+          "text": "Quality systems and record management\nAlthough many experts may be involved in writing the RMP, the final responsibility for its quality,\naccuracy and scientific integrity lies with the marketing authorisation applicant/holder. As such the\nQPPV should be aware of, and have sufficient authority over the content. The marketing authorisation\nholder is responsible for updating the RMP when new information becomes available and should apply\nthe quality principles detailed in GVP Module I. The marketing authorisation holder should maintain\nrecords of when RMPs were submitted to competent authorities and the significant changes between\nRMP versions. These records, the RMPs and any documents relating to information within the RMP may\nbe subject to audit and inspection by pharmacovigilance inspectors."
+        },
+        {
+          "num": "V.C.",
+          "text": "Operation of the EU network"
+        },
+        {
+          "num": "V.C.1.",
+          "text": "Requirements for the applicant/marketing authorisation holder in\nthe EU\nFor all new marketing applications, the applicant shall submit the risk management plan describing the\nrisk management system, together with a summary thereof [DIR Art 8(3)(iaa)].\nPage /\nIn the post-authorisation phase, an RMP update or a new RMP may need to be submitted at any time:\n At the request of the Agency or a competent authority in a Member State when there is a concern\nabout a risk affecting the risk-benefit balance.\n With an application involving a change to an existing marketing authorisation when the data\nincluded leads to a change in the list of the safety concerns, or when a new additional\npharmacovigilance activity or a new risk minimisation activity is needed or is proposed to be\nremoved. The RMP update may be warranted as a result of data submitted with applications such\nas new or significant change to the indication, a new dosage form, a new route of administration, a\nnew manufacturing process of a biotechnologically-derived product.\nThe need for an RMP or an update to the RMP should be discussed with the Agency or a competent\nauthority in a Member State, as appropriate, well in advance of the submission of an application\ninvolving a significant change to an existing marketing authorisation."
+        },
+        {
+          "num": "V.C.1.1.",
+          "text": "Risk management plans with initial marketing authorisation\napplications\nFor full initial marketing authorisation applications, all parts of an RMP should be submitted (see\nV.B.4.). For other types of initial marketing authorisation applications, the requirements for the RMP\ncontent follow the concept of proportionality to the identified risks and potential risks of the medicinal\nproduct, and the need for post-authorisation safety data [DIR Art 8(3)]; therefore certain parts or\nmodules may have reduced content requirements or may be left empty, where not applicable.\nTable V.5. Summary of minimum RMP requirements for initial marketing authorisation applications\n(for full description see text below)\nProduct PartPart II PartPartPartPart\nIIIIIVVVI\nSI SII SIII SIV SV SVI SVII SVIII"
+        },
+        {
+          "num": "0.",
+          "text": "Full MA application √ √ √ √ √ √ √ √ √ √ √ √ √"
+        },
+        {
+          "num": "1.",
+          "text": "Generic product √ ‡ √ √ * ∫ √"
+        },
+        {
+          "num": "2.",
+          "text": "Informed consent product √ √ √ √ √ √ √ √ √ √ √ √ √"
+        },
+        {
+          "num": "3.",
+          "text": "Hybrid product √ † † † √ √ √ ∫ √\n4.a. Fixed combination product – new active substance √ ₸ ₸ ₸ ₸ ₸ ₸ √ √ √ √ √ √\n4.b. Fixed combination product – no new active substance √ † † ‡ √ √ * ∫ √"
+        },
+        {
+          "num": "5.",
+          "text": "Well established medicinal use product √ √ √ √ √ √ √"
+        },
+        {
+          "num": "6.",
+          "text": "Biosimilar product √ √ √ √ √ √ √ √ √ √ √ √\n√ = applicable/relevant\n‡ = relevant only if “originator” product does not have an RMP and its safety profile is not published on\nCMDh website\n* = relevant only when a PAES was imposed for the “originator” product\n∫ = statement of alignment of safety information in PI is sufficient\n† = requirements based on risk proportionality principle, addressing new data generated or differences\nwith the “originator” product\n₸ = focus on the new active substance\nPage /"
+        },
+        {
+          "num": "V.C.1.1.1.",
+          "text": "New applications under Article 10(1), i.e. “generic”\nThe elements for new applications under DIR Art 10(1) are as follows:\n RMP part I: The elements are the same as for initial marketing authorisation application for a full\napplication;\n RMP part II: there are 3 situations possible:"
+        },
+        {
+          "num": "1.",
+          "text": "The originator product has an RMP: RMP modules SI-SVII may not be applicable. Module SVIII\nshould include the summary of the safety concerns, in line with the originator product. If the\napplicant considers that the available evidence justifies the removal or the change of a safety\nconcern, then data in module SVII should also be included to address the safety concern and\ndetailing the applicant’s arguments. Similarly, if the applicant has identified a new safety concern\nspecific to the generic product (e.g. risks associated with a new excipient or a new safety concern\nraised from any clinical data generated), this should be discussed and the new safety concern\ndetailed in module SVII."
+        },
+        {
+          "num": "2.",
+          "text": "The originator product does not have an RMP but the safety concerns of the substance are\npublished on the CMDh website. The elements under point 1 above should be followed. If more\nthan one list of safety concerns published on CMDh website apply for the same active substance,\nthe applicant should justify the choice of proposed safety concerns in module SVIII."
+        },
+        {
+          "num": "3.",
+          "text": "The originator product does not have an RMP and the safety concerns of the substance are not\npublished on the CMDh website: Full modules SVII and SVIII should be included in the RMP.\nModule SVII should critically analyse available relevant information (e.g. own pre-clinical and\nclinical data, scientific literature, originator product’s product information) and propose a list of\nimportant identified and potential risks as well as missing information.\n RMP part III: This should include a description of the routine pharmacovigilance activities, as\ndetailed in V.B.6.1..\nThe applicant is strongly encouraged to contribute to and participate in the planned or ongoing\nstudies performed by the marketing authorisation holder of the originator product, when it is\nimportant that all available (prospective) data are collected in one study. This may be the case\nfor instance when data from patients using the new product are important to further characterise\nthe safety profile of the substance and enrolling patients in separate studies with the same or\nsimilar objectives creates an unnecessary burden on patients, clinicians or investigators (e.g.\npregnancy registries, disease registries, any PASS evaluating long-term use).\nThe competent authority may also consider imposing studies to be conducted for generic\nproducts as applicable (e.g. within the context of referrals when generic products are involved or\nas consequence of the outcome of a referral imposing a study to the originator product).\n RMP part IV: This part of the RMP may be left empty unless a PAES has been imposed to be\nconducted for the generic product (e.g. following a referral).\n RMP part V: When the originator product does not have additional risk minimisation activities, a\nstatement that the safety information in the product information of the generic product is aligned\nwith the originator product is sufficient for RMP part V. Where new risks have been identified for\nthe generic product, the risk minimisation activities for such safety concerns should be presented\nin part V, following the same elements as for a full marketing authorisation application.\nSee www.hma.eu/464.html\nPage /\nIf the originator product does have additional risk minimisation activities, a full part V is required\nfor the generic product.\n RMP part VI: The elements are the same as for a full initial marketing authorisation application, to\nthe extent of data requested and provided in other parts of the RMP, as per above.\n RMP part VII: The elements are the same for a full initial marketing authorisation application. For\nRMP annexes 4 and 5, the applicant is strongly encouraged to use materials as similar, in content,\nas possible to the originator product."
+        },
+        {
+          "num": "V.C.1.1.2.",
+          "text": "New applications under Article 10c, i.e. “informed consent”\nFor new applications under DIR Art 10c, the RMP should be the same as the RMP of the cross-referred\nmedicinal product. An RMP will still be required even if the cross-referred product does not have an\nRMP. If the marketing authorisation holder is the same as for the authorised product, the marketing\nauthorisation holder is encouraged to put in place only one RMP document for their products with the\nsame active substance."
+        },
+        {
+          "num": "V.C.1.1.3.",
+          "text": "New applications under Article 10(3), i.e. “hybrid”\nFor new applications under DIR Art 10(3), the RMP elements are the same as for a generic product.\nHowever, for changes in the active substance(s), therapeutic indications, strength, pharmaceutical\nform or route of administration, the applicant should discuss in RMP module SVII whether this results\nin the addition or deletion of a safety concern. Clinical trial data generated to support the application\nshould be discussed in the RMP, as appropriate (e.g. RMP part II, modules SI, SIII). Other parts of the\nRMP should also be aligned (e.g. parts V and VI)."
+        },
+        {
+          "num": "V.C.1.1.4.",
+          "text": "New applications under Article 10b, i.e. involving “fixed combination” medicinal\nproducts\nFor new applications for fixed dose combinations, there are two situations:"
+        },
+        {
+          "num": "4.",
+          "text": "The combination contains a new active substance: A full RMP, following the elements as for full\ninitial marketing authorisation application, should be submitted. RMP modules SI-SVI should focus\non the new active substance."
+        },
+        {
+          "num": "5.",
+          "text": "The combination does not contain a new active substance: The RMP should follow the elements for\na generic product. For the purpose of establishing the elements of RMP part II, “the originator\nproduct” should be read as “any/all authorised products containing the same active substances\nincluded in the new product”.\nIn addition, new data generated with the fixed combination should be provided in modules SII and\nSIII."
+        },
+        {
+          "num": "V.C.1.1.5.",
+          "text": "New applications under Article 10a, i.e. “well established medicinal use”\nFor new applications under DIR Art 10a, RMP elements are as follows:\n RMP part I: The elements are the same as for a full initial marketing authorisation application.\n RMP part II: Only RMP modules SVII and SVIII might be applicable. The applicant is required to\njustify the proposed safety concerns, or the lack of any thereof, using available evidence from\npublished scientific literature (information available in the public domain).\nPage /\n RMP parts III-VII: The elements are the same as for a full initial marketing authorisation\napplication."
+        },
+        {
+          "num": "V.C.1.1.6.",
+          "text": "New applications under Article 10(4), i.e. “biosimilar products”\nFor new applications for biosimilar products, the RMP elements are described in GVP P.II.."
+        },
+        {
+          "num": "V.C.1.1.7.",
+          "text": "New applications for homeopathic and herbal products not falling within the scope\nof the simplified registration\nNew applications for homeopathic and herbal medicinal products not falling within the scope of the\nsimplified registration are subject to standard marketing authorisation; therefore the RMP elements are\nthe same as defined by the type of the marketing authorisation application (i.e. legal basis)."
+        },
+        {
+          "num": "V.C.1.2.",
+          "text": "Risk management plans first submitted post-authorisation"
+        },
+        {
+          "num": "V.C.1.2.1.",
+          "text": "New risk management plans at the request of a competent authority to address\none or more safety concerns\nThe elements are the same as those applicable to a generic product where the originator product does\nnot have an RMP (see V.C.1.1.1.).\nTwo possible scenarios are envisaged:"
+        },
+        {
+          "num": "1.",
+          "text": "Marketing authorisation holders may be requested to submit an RMP with a RMP module SVII\nfocused on the safety concern(s) evaluated in the procedure. Other safety concerns should be\nincluded as needed."
+        },
+        {
+          "num": "2.",
+          "text": "Marketing authorisation holders may be requested to submit an RMP based on a comprehensive\nidentification of safety concerns.\nIt is left to the discretion of the competent authority, which is the most appropriate in given\ncircumstances."
+        },
+        {
+          "num": "V.C.1.2.2.",
+          "text": "Unsolicited risk management plan submission in post-authorisation phase\nThis RMP follows the elements of the type of marketing authorisation under which this medicinal\nproduct was initially submitted (i.e. full marketing authorisation application, generic medicinal\nproducts, “informed consent” applications, etc., see V.C.1.1.)."
+        },
+        {
+          "num": "V.C.2.",
+          "text": "Submission of a risk management plan to competent authorities in\nthe EU\nFor centrally authorised medicinal products, the RMP should be submitted as PDF files within the eCTD\nsubmission. Following a Commission decision where the procedure has involved the submission of an\nRMP, marketing authorisation holders should submit the RMP annex 1 in XML format within a specified\ntimescale. RMP annex 1 provides the key information regarding the RMP in a structured electronic\nformat which, following validation at the Agency, is uploaded into an Agency database that is\naccessible and searchable by the Agency and the competent authorities in the Member States. The\nsystem for nationally authorised medicinal products varies across Member States and the national\nrequirements should be followed.\nPage /\nDetails of new submission requirements and the electronic format will be provided on the Agency and\nMember State’s websites, as appropriate, and may in future replace the requirements in the paragraph\nabove.\nThe initial RMP should be submitted as part of the initial marketing authorisation, or if required, for\nthose products that do not have an RMP, through the appropriate post-authorisation procedure."
+        },
+        {
+          "num": "V.C.2.1.",
+          "text": "Risk management plans updates\nAn RMP update is expected to be submitted at any time when there is a change in the list of the safety\nconcerns, or when there is a new or a significant change in the existing additional pharmacovigilance\nor additional risk minimisation activities. The significant changes of the existing additional\npharmacovigilance and risk minimisation activities may include removing such activities from the RMP.\nFor example, a change in study objectives, population or due date of final results, or addition of a new\nsafety concern in the key messages of the educational materials would be expected to be reflected in\nan updated RMP with the procedure triggering those changes.\nAn update of the RMP might be considered when data submitted in the procedure results or is expected\nto result in changes of routine pharmacovigilance activities beyond adverse reaction reporting and\nsignal detection activities, or of routine risk minimisation activities recommending specific clinical\nmeasures to address the risk. For example, an RMP update might also be warranted with a significant\nchange of the plans for annual enhanced safety surveillance (routine pharmacovigilance activity), or\nwhen monitoring of renal function is added as a recommendation in the Special warnings and\nprecautions for use section 4.4 of the SmPC (routine risk minimisation activity). The need to update\nthe plans to evaluate the effectiveness of risk minimisation activities should also be considered with\nsuch updates.\nWhen an emerging safety issue is still under assessment (as defined in GVP Module VI), in particular in\nthe context of a signal or potential risk that could be an important identified risk, an RMP update may\nbe required if the emerging safety issue is confirmed and the important identified or potential risk\nrequires to be added to the list of safety concerns in the RMP.\nUnless requested otherwise, a track-changes RMP document should be included with every RMP\nupdate, showing changes introduced in the latest update (as applicable), as well as compared with the\n“current” approved version of the RMP.\nA medicinal product can only have one “current” approved version of an RMP. If several updates to the\nRMP are submitted during the course of a procedure, the version considered as the “current” approved\nRMP for future updates and track-changes purposes shall be the one submitted with the closing\nsequence of the procedure.\nWhen an RMP update is submitted with a procedure, the RMP is considered approved at the end of the\nprocedure, when all changes are considered acceptable.\nIn the post-authorisation phase, submission of a new or updated RMP outside of another regulatory\nprocedure constitutes a variation in accordance with the Guidelines on Variations. For detailed\nguidance on relevant variation categories and their classification, please also refer to the EMA Practical\nGuidelines on the details of the various categories of variations, on the operation of the procedures laid down in Chapters\nII, IIa, III and IV of Commission Regulation (EC) No 1234/2008 of 24 November 2008 concerning the examination of\nvariations to the terms of marketing authorisations for medicinal products for human use and veterinary medicinal products\nand on the documentation to be submitted pursuant to those procedures.\nPage /\nQuestions and Answers to Support the Implementation of the Variations Guidelines in the Centralised\nProcedure.\nRMP management with parallel procedures\nIf a medicinal product has more than one concurrently on-going procedure which requires submission\nof an RMP, ideally a combined RMP should be submitted with appropriate separation of data in RMP\nmodule SIII. The best regulatory path for the RMP update in case of multiple procedures potentially\nimpacting on the RMP content should be discussed with the competent authority before submission.\nRMP updates with the PSUR\nIf, when preparing a PSUR, there is a need for changes to the RMP as a result of new safety concerns,\nor other data presented in the PSUR, then an updated RMP should be submitted at the same time. In\nthis case no stand-alone RMP variation is necessary. Should only the timing for submission of both\ndocuments coincide, but the changes are not related to each other, then the RMP submission should be\nhandled as a stand-alone variation.\nHowever, in the context of a PSUR EU single assessment (PSUSA), submission of RMP updates cannot\nbe accepted together with the PSURs of medicinal products (centrally and/or nationally authorised).\nMarketing authorisation holders should take the opportunity of another upcoming procedure to update\ntheir RMP. Alternatively, marketing authorisation holders should submit a separate variation to update\ntheir RMP.\nFor nationally authorised medicinal products, RMP updates should be submitted to the competent\nauthorities in the Member States for assessment."
+        },
+        {
+          "num": "V.C.3.",
+          "text": "Assessment of the risk management plan within the EU regulatory\nnetwork\nWithin the EU, the regulatory oversight of RMPs for medicinal products authorised centrally lies with\nthe Pharmacovigilance Risk Assessment Committee (PRAC). For the RMP assessment, the PRAC\nappoints a PRAC rapporteur who works closely with the (Co-)Rapporteur(s) appointed by the CHMP and\nCommittee for Advanced Therapies (CAT) (for ATMPs) or with the Reference Member State, as\nappropriate. The EMA may, on a case-by-case basis, consult healthcare professionals and patients\nduring the assessment of RMPs to gather their input on proposed risk minimisation measures.\nFor medicinal products authorised nationally, the national competent authorities are responsible of the\nassessment of the RMP. The national competent authority may impose an obligation on a marketing\nauthorisation holder to operate a risk management system for each medicinal product, as referred to in\nDIR Art 104(3)(c), if there are concerns about the risks affecting the risk-benefit balance of an\nauthorised medicinal product. In that context, the national competent authority shall also oblige the\nmarketing authorisation holder to submit a detailed description of the risk-management system which\nhe intends to introduce for the medicinal product concerned [DIR Art 104a(2)].\nFor centrally authorised medicinal products, only risk minimisation measures recommended by the\nPRAC and subsequently agreed by the CHMP should be included in the risk minimisation plan as\nadditional risk minimisation activities. Additional risk minimisation measures are conditions to the\nmarketing authorisation; key elements are detailed in annex II to the Commission decision. In\nSee\nhttp://www.ema.europa.eu/ema/index.jsp?curl=pages/regulation/document_listing/document_listing_000104.jsp&mid=WC\n0b01ac0580025b88\nPage /\naddition, exceptionally, certain conditions or restrictions with regard to the safe and effective use of\nthe medicinal product may be imposed to the Member States through a Commission decision in\naccordance with DIR Art 127a for their implementation at national level.\nWhen necessary, the competent authorities should ensure that all marketing authorisation holders of\nmedicinal products containing the same active substance make similar changes to their risk\nminimisation measures when changes are made to those of the reference medicinal product."
+        },
+        {
+          "num": "V.C.4.",
+          "text": "Transparency\nThe Agency and Member States shall make publically available, by means of the European medicines\nweb-portal and the national medicines web-portals, public assessment reports and summaries of risk\nmanagement plans [REG Art 26(1)(c), DIR Art 106(c)].\nFor centrally authorised medicinal products the Agency:\n makes public a summary of the RMP;\n includes tables relating to the RMP in the EPAR including the product information and any\nconditions to the marketing authorisation.\nThe national competent authorities will provide details of how they intend to implement the\ntransparency measures at national level [by reference to DIR Art 106].\nPage /"
+        }
+      ]
+    }
+  ],
+  "_cleanedBy": "heuristic",
+  "sourceUrl": "https://www.ema.europa.eu/en/documents/scientific-guideline/guideline-good-pharmacovigilance-practices-module-v-risk-management-systems-rev-2_en.pdf",
+  "id": "Good-pharmacovigilance-practices-GVP-Module-V-Risk-managemen",
+  "sourceTitle": "",
+  "rawFile": "ema/guideline-good-pharmacovigilance-practices-module-v-risk-management-systems-rev-.md",
+  "updatedAt": "2026-08-18T13:17:58.085Z",
+  "articleCount": 101
+}

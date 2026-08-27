@@ -1,0 +1,41 @@
+{
+  "title": "GVP Module VIII – Addendum I: Requirements for non-interventional post-authorisation safety studies (Rev 3)",
+  "shortTitle": "GVP Module VIII Addendum I",
+  "documentNumber": "",
+  "issuingAuthority": "",
+  "issueDate": "",
+  "effectiveDate": "",
+  "status": "现行有效",
+  "category": "指南",
+  "country": "欧盟",
+  "chapters": [
+    {
+      "title": "5 June 2020",
+      "articles": [
+        {
+          "num": "VIII.Add.I.1.",
+          "text": "Introduction\nThis Addendum provides additional information on legal requirements (identifiable by the modal verb\n“shall”) and recommendations (identifiable by the modal verb “should”) for the submission of study\nprotocols, progress reports and final study reports of non-interventional post-authorisation safety\nstudies (PASS) to national competent authorities and the Agency. It also provides additional\ninformation as regards the registration of non-interventional PASS in the EU PAS Register. It does not\nprovide recommendations for the transmission of information to ethics committees, national review\nboards or other bodies in place according to national legislation."
+        },
+        {
+          "num": "VIII.Add.I.2.",
+          "text": "Study registration\nAccording to Annex III.3 (Format of the final study report) of the Commission Implementing Regulation\n(EU) No 520/2012 (IR), the date of study registration in the electronic study register shall be included\nas a milestone in the final study report for non-interventional PASS imposed as an obligation. GVP\nModule VIII, in B.2., also states that marketing authorisation holders should register all non-\ninterventional PASS conducted voluntarily in the EU or included in the risk management plan (RMP)\nagreed in the EU. Non-interventional PASS should be registered in the EU PAS Register before the\nstudy commences or at the earliest possible date, and the study protocol (and its updates), the\nprogress reports and the study reports should be uploaded in the Register.\nThe EU PAS Register is a register of post-authorisation studies publicly available through the EU PAS\nRegister webpage that serves as the electronic study register mentioned in IR Annex III. The\ninformation requested at the time of study registration in the EU PAS Register includes administrative\ndetails, targets of the study and methodological aspects. The study protocol, the study report and\nother documents can be uploaded. Administrative information includes whether the study has been\nrequested by a regulatory authority, the RMP category if applicable, information about the percentage\nof funding from different sources and the country(-ies) where the study will be conducted.\nUploading of the study protocol, the progress report(s) and the final study report in the EU PAS\nRegister is not a legal obligation. Therefore, registration of a non-interventional PASS in the EU PAS\nRegister cannot be the only channel for the submission of these documents to national competent\nauthorities and the Agency."
+        },
+        {
+          "num": "VIII.Add.I.3.",
+          "text": "Requirements and recommendations for non-\ninterventional PASS conducted pursuant to an obligation\nimposed by an EU competent authority\nNon-interventional PASS conducted pursuant to an obligation imposed by an EU competent authority\ninclude non-interventional PASS of categories 1 and 2 (see GVP Module V).\nThe draft study protocol, the updated protocol following substantial amendment and the final study\nreport shall be submitted according to the normal procedure to the Pharmacovigilance Risk Assessment\nCommittee (PRAC) and the Agency, or to the national competent authority of the Member State that\nrequested the study if the study is conducted in only one Member State [DIR Art 107n to 107p]. The\nfinal study report shall be submitted within 12 months after the end of data collection [DIR Art\n107p(1)].\nhttp://www.encepp.eu/encepp_studies/indexRegister.shtml\n/3\nThe marketing authorisation holder may be required by the national competent authority to submit the\nprogress reports to the competent authorities of the Member States in which the study is conducted\n[DIR Art 107m(5)]. The national competent authority of the following Member States in which the\nstudy is conducted stated that they require submission of the progress reports through national\nprocedures:\nAll EU/EEA Member States except Denmark, Finland and Norway.\nThe progress reports should also be submitted to the Agency for centrally authorised products"
+        },
+        {
+          "num": "VIII.Add.I.4.",
+          "text": "Requirements and recommendations for non-\ninterventional PASS conducted voluntarily\nNon-interventional PASS conducted voluntarily include non-interventional PASS of category 3\n(see GVP Module V) and other non-interventional PASS voluntary conducted by marketing\nauthorisation holders.\nThe final study report shall be submitted according to national procedures to the competent\nauthorities of the Member States where the study was conducted within 12 months of the end of\ndata collection [DIR Art 107m(6)].\nThe marketing authorisation holder may be required by the national competent authority to submit\nthe study protocol and the progress reports to the competent authorities of the Member States in\nwhich the study is conducted [DIR Art 107m(5)]. The national competent authority of the following\nMember States in which the study is conducted stated that they require submission of the study\nprotocol and progress reports through national procedures:\nAustria, Bulgaria, Croatia, Czech Republic, France, Germany, Italy, Lithuania, The Netherlands,\nPortugal, Romania, Slovakia, Slovenia, Spain.\nFor studies of category 3, progress reports should also be submitted to the Agency for centrally\nauthorised products.\nFor studies of category 3, the study protocol should also be submitted with the RMP according to GVP\nModule V.\nSee https://legemiddelverket.no/english/pharmacovigilance/questions-and-answers-about-the-introduction-of-the-new-\npharmacovigilance-legislation#module-viii-post-authorisation-safety-studies-(pass)\n/3"
+        }
+      ]
+    }
+  ],
+  "_cleanedBy": "heuristic",
+  "sourceUrl": "https://www.ema.europa.eu/en/documents/scientific-guideline/guideline-good-pharmacovigilance-practices-gvp-module-viii-addendum-i-requirements-and-recommendations-submission-information-non-interventional-post-authorisation-safety-studies-rev-3_en.pdf",
+  "id": "GVP-Module-VIII-Addendum-I-Requirements-for-non-intervention",
+  "sourceTitle": "",
+  "rawFile": "ema/guideline-good-pharmacovigilance-practices-gvp-module-viii-addendum-i-requiremen.md",
+  "updatedAt": "2026-08-18T13:17:58.075Z",
+  "articleCount": 4
+}

@@ -1,0 +1,35 @@
+# 一键部署：docker compose up -d
+services:
+  pvqa:
+    build: .
+    image: pv-qa:latest
+    container_name: pv-qa
+    restart: unless-stopped
+    init: true
+    read_only: true
+    cap_drop:
+      - ALL
+    security_opt:
+      - no-new-privileges:true
+    ports:
+      - "127.0.0.1:3000:3000"
+    environment:
+      # 从 .env 文件读取（同一目录下创建 .env，参考 .env.example）
+      DEEPSEEK_API_KEY: ${DEEPSEEK_API_KEY:-}
+      DEEPSEEK_MODEL: ${DEEPSEEK_MODEL:-deepseek-v4-flash}
+      PORT: 3000
+      TRUST_PROXY_HOPS: 1
+      # 公网部署请务必设置：预置管理员 + 关闭首用户自动管理员
+      ADMIN_USERNAME: ${ADMIN_USERNAME:-}
+      ADMIN_PASSWORD: ${ADMIN_PASSWORD:-}
+      AUTO_FIRST_ADMIN: ${AUTO_FIRST_ADMIN:-false}
+    volumes:
+      - ./data:/app/data
+    tmpfs:
+      - /tmp:size=64m,mode=1777
+    healthcheck:
+      test: ["CMD", "node", "-e", "fetch('http://127.0.0.1:3000/api/health').then(r=>process.exit(r.ok?0:1)).catch(()=>process.exit(1))"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 10s

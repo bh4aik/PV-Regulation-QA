@@ -1,0 +1,162 @@
+{
+  "title": "Good pharmacovigilance practices (GVP) – Module IV: Pharmacovigilance audits (Rev 1)",
+  "shortTitle": "GVP Module IV (Rev 1)",
+  "documentNumber": "",
+  "issuingAuthority": "",
+  "issueDate": "",
+  "effectiveDate": "",
+  "status": "现行有效",
+  "category": "指南",
+  "country": "欧盟",
+  "chapters": [
+    {
+      "title": "3 August 2015",
+      "articles": [
+        {
+          "num": "IV.B.3.1.2.",
+          "text": "Qualifications, skills and experience of auditors and continuing professional"
+        },
+        {
+          "num": "IV.C.",
+          "text": "Pharmacovigilance audit policy framework and organisational"
+        },
+        {
+          "num": "IV.A.",
+          "text": "Introduction\nThe entry into force of the new legislation on pharmacovigilance in July 2012, established legal\nrequirements for competent authorities in the Member States and the European Medicines agency (the\nAgency) and marketing authorisation holders to perform audits of their pharmacovigilance systems\n[DIR Art 101(2), Art 104(2), REG Art 28f], including risk based audits of their quality systems [IR Art\n13 (1), Art 17 (1)].\nFor the purposes of this Module reference to pharmacovigilance audit(s) and pharmacovigilance audit\nactivity(ies) are deemed to include pharmacovigilance system audits and audit(s) of the quality system\nfor pharmacovigilance activities.\nThe minimum requirements of the pharmacovigilance systems and the quality system are set out in\nthe Commission Implementing Regulation (EU) No 520/2012 (IR) on the performance of\npharmacovigilance activities provided for in Regulation (EC) No 726/2004 and Directive 2001/83/EC.\nRisk-based audits of the pharmacovigilance system should cover all areas listed in Directive\n2001/83/EC (DIR) and Regulation (EC) 726/2004 (REG). The specificities of the risk-based audits of\nthe quality system [for pharmacovigilance activities] are as described in the Implementing Measures\n[IR Art 8,10, 11,12,13(1) for marketing authorisation holders, and IR Art 8,14,15,16,17(1) for the\ncompetent authorities in Member States and the Agency].\nThe overall description and objectives of pharmacovigilance systems and quality systems for\npharmacovigilance activities are referred to in GVP Module I, while the specific pharmacovigilance\nprocesses are described in each respective Module of GVP.\nIn this Module, all applicable legal requirements are referenced in the way explained in the GVP\nIntroductory Cover Note and are usually identifiable by the modal verb “shall”. Guidance for the\nimplementation of legal requirements is provided using the modal verb “should”.\nThis Module provides guidance on planning and conducting the legally required audits, and in respect\nof the operation of the EU regulatory network, the role, context and management of pharmacovigilance\naudit activity. This Module is intended to facilitate the performance of pharmacovigilance audits,\nespecially to promote harmonisation, and encourage consistency and simplification of the audit\nprocess. The principles in this Module are aligned with internationally accepted auditing standards,\nissued by relevant international auditing standardisation organisations and support a risk-based\napproach to pharmacovigilance audits."
+        }
+      ]
+    },
+    {
+      "title": "Section IV.C. provides an outline of the operation of the EU network in respect of pharmacovigilance",
+      "articles": [
+        {
+          "num": "IV.A.1.",
+          "text": "Terminology\nAudit, Audit findings, Audit plan, Audit programme, Audit recommendations,\nUpper management: see in GVP Annex I.\nAuditee: [entity] being audited (ISO 19011 (3.7) ).\nCompliance: Conformity and adherence to policies, plans, procedures, laws, regulations, contracts, or\nother requirements (IIA International Standards for the Professional Practice of Internal Auditing).\nControl(s): Any action taken by management and other parties to manage risk and increase the\nlikelihood that established objectives and goals will be achieved. Management plans, organises, and\ndirects the performance of sufficient actions to provide reasonable assurance that objectives and goals\nwill be achieved (IIA International Standards for the Professional Practice of Internal Auditing ).\nEvaluation (of audit activities): Professional auditing bodies promote compliance with standards,\nincluding in quality assurance of their own activities, and codes of conduct, which can be used to\naddress adequate fulfilment of the organisation’s basic expectations of Internal Audit activity and its\nconformity to internationally accepted auditing standards.\nFinding(s): see Audit findings\nHead of the organisation: see Upper management\nAuditors’ independence: The freedom from conditions that threaten objectivity or the appearance of\nobjectivity. Such threats to objectivity must be managed at the individual auditor, engagement,\nfunctional and organisational levels (IIA International Standards for the Professional Practice of\nInternal Auditing ).\nInternal Control: Internal control is an integral process that is effected by an entity’s management and\npersonnel and is designed to address risk and provide reasonable assurance that in pursuit of the\nentity’s mission, the following general objectives are being achieved: executing orderly, ethical,\neconomical, efficient and effective operations, fulfilling accountability obligations, complying with\napplicable laws and regulations and safeguarding resources against loss, misuse and damage (for\nfurther information refer to COSO standards).\nInternational Auditing Standards: issued by International Auditing Standardisation Organisations.\nInternational Auditing Standardisation Organisations: More details can be found at: regarding The\nInstitute of Internal Auditors (IIA) Standards at http://www.theiia.org/guidance/standards-and-\nguidance/ippf/standards/full-standards; the International Organisation for Standardisation (ISO)\nstandard 19011 Guidelines for Quality and/or Environmental Management Systems Auditing at\nhttp://www.iso.org/iso/home.html; Information Systems Audit and Control Association (ISACA)\nStandards at http://www.isaca.org/Standards; The International Auditing and Assurance Standards\nBoard (IAASB) Standards at http://www.ifac.org/auditing-assurance/clarity-center/clarified-standards;\nThe International Organisation of Supreme Audit Institutions (INTOSAI) Standards at\nhttp://www.issai.org/composite-347.htm.\nAuditors’ objectivity: An unbiased mental attitude that allows internal auditors to perform\nengagements in such a manner that they have an honest belief in their work product and that no\nsignificant quality compromises are made. Objectivity requires internal auditors not to subordinate\ntheir judgment on audit matters to that of others (IIA International Standards for the Professional\nPractice of Internal Auditing ).\nSee The Institute of Internal Auditors (IIA), www.theiia.org."
+        },
+        {
+          "num": "IV.B.",
+          "text": "Structures and processes"
+        },
+        {
+          "num": "IV.B.1.",
+          "text": "Pharmacovigilance audit and its objective\nPharmacovigilance audit activities should verify, by examination and evaluation of objective evidence,\nthe appropriateness and effectiveness of the implementation and operation of a pharmacovigilance\nsystem, including its quality system for pharmacovigilance activities.\nIn general, an audit is a systematic, disciplined, independent and documented process for obtaining\nevidence and evaluating the evidence objectively to determine the extent to which the audit criteria\nare fulfilled, contributing to the improvement of risk management, control and governance processes.\nAudit evidence consists of records, statements or other information, which are relevant to the audit\ncriteria and verifiable. Audit criteria are, for each audit objective, the standards of performance and\ncontrol against which the auditee and its activities will be assessed. In the context of\npharmacovigilance, audit criteria should reflect the requirements for the pharmacovigilance system,\nincluding its quality system for pharmacovigilance activities, as found in the legislation and guidance."
+        },
+        {
+          "num": "IV.B.2.",
+          "text": "The risk-based approach to pharmacovigilance audits\nA risk-based approach is one that uses techniques to determine the areas of risk, where risk is defined\nas the probability of an event occurring that will have an impact on the achievement of objectives,\ntaking account of the severity of its outcome and/or likelihood of non-detection by other methods. The\nrisk-based approach to audits focuses on the areas of highest risk to the organisation’s\npharmacovigilance system, including its quality system for pharmacovigilance activities. In the context\nof pharmacovigilance, the risk to public health is of prime importance. Risk can be assessed at the\nfollowing stages:\n• strategic level audit planning resulting in an audit strategy (long term approach), which should be\nendorsed by upper management;\n• tactical level audit planning resulting in an audit programme, setting audit objectives, and the\nextent and boundaries, often termed as scope, of the audits in that programme; and\n• operational level audit planning resulting in an audit plan for individual audit engagements,\nprioritising audit tasks based on risk and utilising risk-based sampling and testing approaches, and\nreporting of audit findings in line with their relative risk level and audit recommendations in line\nwith the suggested grading system (see IV.B.2.3.1.).\nRisk assessment should be documented appropriately for the strategic, tactical and operational\nplanning of pharmacovigilance audit activity in the organisation (see IV.B.2.1., IV.B.2.2. and IV.B.2.3.\nrespectively)."
+        },
+        {
+          "num": "IV.B.2.1.Strategic",
+          "text": "level audit planning\nThe audit strategy is a high level statement of how the audit activities will be delivered over a period of\ntime, longer than the annual programme, usually for a period of 2-5 years. The audit strategy includes\na list of audits that could reasonably be performed. The audit strategy is used to outline the areas\nhighlighted for audit, the audit topics as well as the methods and assumptions (including e.g. risk\nassessment) on which the audit programme is based.\nBenchmarking, reviews of qualifications, risk assessment questionnaires, surveys or other activities in which evidence of\nfulfilment of pharmacovigilance requirements is not independently obtained and evaluated, would not be regarded as an\naudit.\nThe audit strategy should cover the governance, risk management and internal controls of all parts of\nthe pharmacovigilance system including:\n• all pharmacovigilance processes and tasks;\n• the quality system for pharmacovigilance activities;\n• interactions and interfaces with other departments, as appropriate;\n• pharmacovigilance activities conducted by affiliated organisations or activities delegated to another\norganisation (e.g. regional reporting centres, MAH affiliates or third parties, such as contract\norganisations and other vendors).\nThis is a non-prioritised, non-exhaustive list of examples of risk factors that could be considered for the\npurposes of a risk assessment:\n• changes to legislation and guidance;\n• major re-organisation or other re-structuring of the pharmacovigilance system, mergers,\nacquisitions (specifically for marketing authorisation holders, this may lead to a significant increase\nin the number of products for which the system is used);\n• change in key managerial function(s);\n• risk to availability of adequately trained and experienced pharmacovigilance staff, e.g. due to\nsignificant turn-over of staff, deficiencies in training processes, re-organisation, increase in\nvolumes of work;\n• significant changes to the system since the time of a previous audit, e.g. introduction of a new\ndatabase(s) for pharmacovigilance activities or of a significant upgrade to the existing database(s),\nchanges to processes and activities in order to address new or amended regulatory requirements;\n• first medicinal product on the market (for a marketing authorisation holder);\n• medicinal product(s) on the market with specific risk minimisation measures or other specific\nsafety conditions such as requirements for additional monitoring;\n• criticality of the process, e.g.:\n− for competent authorities: how critical is the area/process to proper functioning of the\npharmacovigilance system and the overall objective of safeguarding public health;\n− for marketing authorisation holders: how critical is the area/process to proper functioning of\nthe pharmacovigilance system. When deciding when to audit an affiliate or third party, the\nmarketing authorisation holder should consider the nature and criticality of the\npharmacovigilance activities that are being performed by an affiliate or third party on behalf of\nthe marketing authorisation holder, in addition to considering the other factors included in this\nlist;\n• outcome of previous audits, e.g. has the area/process ever been audited (if not, then this may\nneed to be prioritised depending on criticality); if the area/process has previously been audited,\nthe audit findings are a factor to consider when deciding when to re-audit the area/process,\nincluding the implementation of agreed actions;\n• identified procedural gaps relating to specific areas/processes;\n• other information relating to compliance with legislation and guidance, for example:\n− for competent authorities: information from compliance metrics (as described in the\nCommission Implementing Regulation on the Performance of Pharmacovigilance Activities\nProvided for in Regulation (EC) No 726/2004 and Directive 2001/83/EC), from complaints,\nfrom external sources, e.g. audits/assessments of the competent authority conducted by\nexternal bodies;\n− for marketing authorisation holders: information from compliance metrics (as described in the\nCommission Implementing Regulation on the Performance of Pharmacovigilance Activities\nProvided for in Regulation (EC) No 726/2004 and Directive 2001/83/EC), from inspections (see\nGVP Module III), from complaints, from other external sources, e.g. audits;\n• other organisational changes that could negatively impact on the area/process, e.g. if a change\noccurs to a support function (such as information technology support) this could negatively impact\nupon pharmacovigilance activities."
+        },
+        {
+          "num": "IV.B.2.2.",
+          "text": "Tactical level audit planning\nAn audit programme is a set of one or more audits planned for a specific timeframe, normally for a\nyear. It should be prepared in line with the long term audit strategy. The audit programme should be\napproved by upper management with overall responsibility for operational and governance structure.\nThe risk-based audit programme should be based on an appropriate risk assessment and should focus\non:\n• the quality system for pharmacovigilance activities;\n• critical pharmacovigilance processes (see e.g. GVP Module I and IR Art 11, 15);\n• key control systems relied on for pharmacovigilance activities;\n• areas identified as high risk, after controls have been put in place or mitigating action taken.\nThe risk-based audit programme should also take into account historical areas with insufficient past\naudit coverage, and high risk areas identified by and/or specific requests from management and/or\npersons responsible for pharmacovigilance activities.\nThe audit programme documentation should include a brief description of the plan for each audit to be\ndelivered, including an outline of scope and objectives.\nThe rationale for the timing, periodicity and scope of the individual audits which form part of the audit\nprogramme should be based on the documented risk assessment. However, risk-based\npharmacovigilance audit(s) should be performed at regular intervals, which are in line with legislative\nrequirements.\nChanges to the audit programme may happen and will require proper documentation."
+        },
+        {
+          "num": "IV.B.2.3.",
+          "text": "Operational level audit planning and reporting"
+        },
+        {
+          "num": "IV.B.2.3.1.",
+          "text": "Planning and fieldwork\nThe organisation should ensure that written procedures are in place regarding the planning and\nconduct of individual audits that will be delivered. Timeframes for all the steps required for the\nperformance of an individual audit should be settled in the relevant audit related procedures, and the\norganisation should ensure that audits are conducted in accordance with the written procedures, in line\nwith this GVP Module.\nIndividual pharmacovigilance audits should be undertaken in line with the approved risk-based audit\nprogramme (see IV.B.2.2.). When planning individual audits, the auditor identifies and assesses the\nrisks relevant to the area under review and employs the most appropriate risk-based sampling and\ntesting methods, documenting the audit approach in an audit plan."
+        },
+        {
+          "num": "IV.B.2.3.2.",
+          "text": "Reporting\nThe findings of the auditors should be documented in an audit report and should be communicated to\nmanagement in a timely manner. The audit process should include mechanisms for communicating the\naudit findings to the auditee and receiving feedback, and reporting the audit findings to management\nand relevant parties, including those responsible for pharmacovigilance systems, in accordance with\nlegal requirements and guidance on pharmacovigilance audits. Audit findings should be reported in line\nwith their relative risk level and should be graded in order to indicate their relative criticality to risks\nimpacting the pharmacovigilance system, processes and parts of processes. The grading system\nshould be defined in the description of the quality system for pharmacovigilance, and should take into\nconsideration the thresholds noted below which would be used in further reporting under the legislation\nas set out in IV.C.2.:\n• critical is a fundamental weakness in one or more pharmacovigilance processes or practices that\nadversely affects the whole pharmacovigilance system and/or the rights, safety or well-being of\npatients, or that poses a potential risk to public health and/or represents a serious violation of\napplicable regulatory requirements.\n• major is a significant weakness in one or more pharmacovigilance processes or practices, or a\nfundamental weakness in part of one or more pharmacovigilance processes or practices that is\ndetrimental to the whole process and/or could potentially adversely affect the rights, safety or\nwell-being of patients and/or could potentially pose a risk to public health and/or represents a\nviolation of applicable regulatory requirements which is however not considered serious.\n• minor is a weakness in the part of one or more pharmacovigilance processes or practices that is\nnot expected to adversely affect the whole pharmacovigilance system or process and/or the rights,\nsafety or well-being of patients.\nIssues that need to be urgently addressed should be communicated in an expedited manner to the\nauditee’s management and the upper management."
+        },
+        {
+          "num": "IV.B.2.4.",
+          "text": "Actions based on audit outcomes and follow-up of audits\nActions referenced in this section of the guideline, i.e., immediate action, prompt action, action within\na reasonable timeframe, issues that need to be urgently addressed, or communicated in an expedited\nmanner, are intended to convey timelines that are appropriate, relevant, and in line with the relative\nrisk to the pharmacovigilance system. Corrective and preventive actions to address critical and major\nissues should be prioritised. The precise timeframe for action(s) related to a given critical finding, for\nexample, may differ depending on nature of findings and the planned action(s).\nThe management of the organisation is responsible for ensuring that the organisation has a mechanism\nin place to adequately address the issues arising from pharmacovigilance audits. Actions should include\nroot cause analysis and impact analysis of identified audit findings and preparation of a corrective and\npreventive action plan, where appropriate.\nUpper management and those charged with governance, should ensure that effective action is\nimplemented to address the audit findings. The implementation of agreed actions should be monitored\nin a systematic way, and the progress of implementation should be communicated on a periodic basis\nproportionate to the planned actions to upper management.\nEvidence of completion of actions should be recorded in order to document that issues raised during\nthe audit have been addressed.\nCapacity for follow-up audits should be foreseen in the audit programme. They should be carried out as\ndeemed necessary, in order to verify the completion of agreed actions. [IR Art 13(2), Art 17(2)]"
+        },
+        {
+          "num": "IV.B.3.",
+          "text": "Quality system and record management practices"
+        },
+        {
+          "num": "IV.B.3.1.",
+          "text": "Competence of auditors and quality management of audit\nactivities"
+        },
+        {
+          "num": "IV.B.3.1.1.",
+          "text": "Independence and objectivity of audit work and auditors\nThe organisation should assign the specific responsibilities for the pharmacovigilance audit activities.\nPharmacovigilance audit activities should be independent. The organisation’s management should\nensure this independence and objectivity in a structured manner and document this.\nAuditors should be free from interference in determining the scope of auditing, performing\npharmacovigilance audits and communicating audit results. The main reporting line should be to the\nupper management with overall responsibility for operational and governance structure that allows the\nauditor(s) to fulfil their responsibilities and to provide independent, objective audit opinion. Auditors\ncan consult with technical experts, personnel involved in pharmacovigilance processes, and with the\nperson responsible for pharmacovigilance; however auditors should maintain an unbiased attitude that\nallows them to perform audit work in such a manner that they have an honest belief in their work\nproduct and that no significant quality compromises are made. Objectivity requires auditors not to\nsubordinate their judgement on audit matters to that of others."
+        },
+        {
+          "num": "IV.B.3.1.2.",
+          "text": "Qualifications, skills and experience of auditors and continuing professional\ndevelopment\nAuditors should demonstrate and maintain proficiency in terms of the knowledge, skills and abilities\nrequired to effectively conduct and/or participate in pharmacovigilance audit activities. The proficiency\nof audit team members will have been gained through a combination of education, work experience\nand training and, as a team, should cover knowledge, skills and abilities in:\n• audit principles, procedures and techniques;\n• applicable laws, regulations and other requirements relevant to pharmacovigilance;\n• pharmacovigilance activities, processes and system(s);\n• management system(s);\n• organisational system(s)."
+        },
+        {
+          "num": "IV.B.3.1.3.",
+          "text": "Evaluation of the quality of audit activities\nEvaluation of audit work can be undertaken by means of ongoing and periodic assessment of all audit\nactivities, auditee feedback and self-assessment of audit activities (e.g. quality assurance of audit\nactivities, compliance to code of conduct, audit programme, and audit procedures)."
+        },
+        {
+          "num": "IV.B.3.2.",
+          "text": "Audits undertaken by outsourced audit service providers\nUltimate responsibility for the operation and effectiveness of the pharmacovigilance system resides\nwithin the organisation (i.e. within the Agency, competent authority or marketing authorisation\nholder). Where the organisation decides to use an outsourced audit service provider to implement the\npharmacovigilance audit requirements on the basis of this GVP Module and perform pharmacovigilance\naudits:\n• the requirements and preparation of the audit risk assessment, the audit strategy and audit\nprogramme and individual engagements should be specified to the outsourced service providers,\nby the organisation, in writing;\n• the scope, objectives and procedural requirements for the audit should be specified to the\noutsourced service provider, by the organisation, in writing;\n• the organisation should obtain and document assurance of the independence and objectivity of\noutsourced service providers;\n• the outsourced audit service provider should also follow the relevant parts of this GVP Module."
+        },
+        {
+          "num": "IV.B.3.3.",
+          "text": "Retention of audit reports\nRetention of the audit report and evidence of completion of action needs to be in line with the\nrequirements stipulated in GVP Module I."
+        },
+        {
+          "num": "IV.C.",
+          "text": "Pharmacovigilance audit policy framework and\norganisational structure"
+        },
+        {
+          "num": "IV.C.1.",
+          "text": "Marketing authorisation holders in the EU"
+        },
+        {
+          "num": "IV.C.1.1.",
+          "text": "Requirement to perform an audit\nThe marketing authorisation holder in the EU is required to perform regular risk-based audit(s) of their\npharmacovigilance system [DIR Art 104(2)], including audit(s) of its quality system to ensure that the\nquality system complies with the quality system requirements [IR Art 8,10,11,12,13(1)]. The dates\nand results of audits and follow-up audits shall be documented [IR Art 13(2)]\nSee IV.C.2. for further details of the requirements for audit reporting by the marketing authorisation\nholder."
+        },
+        {
+          "num": "IV.C.1.1.1.",
+          "text": "The qualified person responsible for pharmacovigilance in the EU (QPPV)\nThe responsibilities of the QPPV in respect of audit are provided in GVP Module I. Furthermore, the\nQPPV should receive pharmacovigilance audit reports, and provide information to the auditors relevant\nto the risk assessment, including knowledge of status of corrective and preventive actions.\nThe QPPV should be notified of any audit findings relevant to the pharmacovigilance system in the EU,\nirrespective of where the audit was conducted."
+        },
+        {
+          "num": "IV.C.1.2.",
+          "text": "Competent authorities in Member States and the European\nMedicines Agency"
+        },
+        {
+          "num": "IV.C.1.2.1.",
+          "text": "Requirement to perform an audit\nThe Agency shall perform regular independent audits of its pharmacovigilance tasks [REG Art 28f] and\ncompetent authorities in Member States shall perform a regular audit of their pharmacovigilance\nsystem [DIR Art 101(2)]. Included in their obligation to perform audits of their pharmacovigilance\nsystem/tasks, competent authorities in the Member States and the Agency shall perform risk-based\naudits of the quality system as well, at regular intervals according to a common methodology to ensure\nthat the quality system complies with the requirements [IR Art 8,14,15,16,17(1)]. The dates and\nresults of audits and follow-up audits shall be documented [IR Art 17(2)]."
+        },
+        {
+          "num": "IV.C.1.2.2.",
+          "text": "Common methodology\nIn order to have a useful audit system, all audits at the competent authorities in the Member States\nand the European Medicines Agency should have a common ground in terms of methodology. This\nshould ensure harmonised planning, implementation and reporting by every competent authority in\nMember States and at the Agency."
+        },
+        {
+          "num": "IV.C.1.2.3.",
+          "text": "The Pharmacovigilance Risk Assessment Committee (PRAC)\nThe mandate of the Pharmacovigilance Risk Assessment Committee (PRAC) shall cover all aspects of\nthe risk management of the use of medicinal products for human use, having due regard to the design\nand evaluation of pharmacovigilance audits [REG Art 61a(6)]."
+        },
+        {
+          "num": "IV.C.2.",
+          "text": "Requirements for audit reporting in the EU"
+        },
+        {
+          "num": "IV.C.2.1.",
+          "text": "Reporting by the marketing authorisation holder\nThe marketing authorisation holder shall place a note concerning critical and major audit findings of\nany audit relating to the pharmacovigilance system in the pharmacovigilance system master file\n(PSMF) (see GVP Module II). Based on the audit findings, the marketing authorisation holder shall\nensure that an appropriate plan detailing corrective and preventative action is prepared and\nimplemented. Once the corrective and preventive actions have been fully implemented, the note may\nbe removed [DIR Art 104(2), IR Art 13(2)]. Objective evidence is required in order that any note of\naudit findings can be removed from the pharmacovigilance system master file (see GVP Module II).\nThe marketing authorisation holders should ensure that a list of all scheduled and completed audits is\nkept in the annex to the pharmacovigilance system master file (IR Art 3(5)) and that they comply with\nreporting commitments in line with the legislation, GVP guidance and their internal reporting policies.\nThe dates and results of audits and follow-up audits shall be documented [IR Art 13(2)]."
+        },
+        {
+          "num": "IV.C.2.2.",
+          "text": "Reporting by competent authorities in Member States and the\nAgency\nCompetent authorities in Member States, and the Agency should ensure that they comply with\nreporting commitments in line with the legislation, GVP guidance and their internal reporting policies.\nCompetent authorities in Member States shall report the results [of their pharmacovigilance system\naudits] to the Commission on 21 September 2013 at the latest and then every 2 years thereafter [DIR\nArt 101(2)].\nThe Agency shall report the results [of its pharmacovigilance system audits] to its Management Board\non a 2-yearly basis [REG Art 28f].\nThe reports to the European Commission will follow an agreed format."
+        },
+        {
+          "num": "IV.C.3.",
+          "text": "Confidentiality\nDocuments and information collected by the internal auditor should be treated with appropriate\nconfidentiality and discretion, and also respect Directive 95/46/EC [Regulation (EC) No. 45/2001 for\nCommunity institutions and bodies] and national legislation on the protection of individuals with regard\nto the processing of personal data and on the free movement of such data."
+        },
+        {
+          "num": "IV.C.4.",
+          "text": "Transparency\nThe European Commission shall make public a report on the performance of pharmacovigilance tasks\nby the Agency on 2 January 2014 at the latest and subsequently every 3 years thereafter [REG Art 29]\nand on the performance of pharmacovigilance tasks by the competent authorities in Member States on\n21 July 2015 at the latest and then every 3 years thereafter [DIR Art 108(b)]."
+        }
+      ]
+    }
+  ],
+  "_cleanedBy": "heuristic",
+  "sourceUrl": "https://www.ema.europa.eu/en/documents/scientific-guideline/guideline-good-pharmacovigilance-practices-gvp-module-iv-pharmacovigilance-audits-rev-1_en.pdf",
+  "id": "Good-pharmacovigilance-practices-GVP-Module-IV-Pharmacovigil",
+  "sourceTitle": "",
+  "rawFile": "ema/guideline-good-pharmacovigilance-practices-gvp-module-iv-pharmacovigilance-audit.md",
+  "updatedAt": "2026-08-18T13:17:58.060Z",
+  "articleCount": 33
+}

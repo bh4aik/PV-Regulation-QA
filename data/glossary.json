@@ -1,0 +1,1346 @@
+{
+  "_comment": "药物警戒领域中英双语术语等价组。每个概念（concept）下的 terms 互为同义/近义/中英对应，检索时命中任一词即展开全部词。补充原则：中文提问查不到英文文档时加中→英；英文提问查不到中文法规时加英→中；同一概念的中文同义也归入同组（如 安全性沟通/风险沟通）。",
+  "concepts": [
+    {
+      "id": "pharmacovigilance",
+      "terms": [
+        "药物警戒",
+        "pharmacovigilance",
+        "PV"
+      ]
+    },
+    {
+      "id": "gvp",
+      "terms": [
+        "药物警戒质量管理规范",
+        "GVP",
+        "Good Pharmacovigilance Practice",
+        "good pharmacovigilance practices"
+      ]
+    },
+    {
+      "id": "psmf",
+      "terms": [
+        "药物警戒体系主文件",
+        "体系主文件",
+        "SMF",
+        "PSMF",
+        "Pharmacovigilance System Master File",
+        "pharmacovigilance system master file"
+      ]
+    },
+    {
+      "id": "qppv",
+      "terms": [
+        "药物警戒负责人",
+        "QPPV",
+        "qualified person responsible for pharmacovigilance"
+      ]
+    },
+    {
+      "id": "mah",
+      "terms": [
+        "药品上市许可持有人",
+        "上市许可持有人",
+        "持有人",
+        "MAH",
+        "Marketing Authorization Holder",
+        "marketing authorisation holder",
+        "marketing authorization holder"
+      ]
+    },
+    {
+      "id": "sdea",
+      "terms": [
+        "药物警戒协议",
+        "安全性数据交换协议",
+        "SDEA"
+      ]
+    },
+    {
+      "id": "adr",
+      "terms": [
+        "药品不良反应",
+        "不良反应",
+        "ADR",
+        "Adverse Drug Reaction",
+        "adverse drug reaction",
+        "adverse reaction"
+      ]
+    },
+    {
+      "id": "serious_adr",
+      "terms": [
+        "严重不良反应",
+        "serious adverse reaction"
+      ]
+    },
+    {
+      "id": "ade",
+      "terms": [
+        "药物不良事件",
+        "ADE"
+      ]
+    },
+    {
+      "id": "ae",
+      "terms": [
+        "不良事件",
+        "AE",
+        "Adverse Event",
+        "adverse event"
+      ]
+    },
+    {
+      "id": "sae",
+      "terms": [
+        "严重不良事件",
+        "SAE",
+        "Serious Adverse Event",
+        "serious adverse event"
+      ]
+    },
+    {
+      "id": "susar",
+      "terms": [
+        "可疑且非预期严重不良反应",
+        "SUSAR",
+        "Suspected Unexpected Serious Adverse Reaction",
+        "suspected unexpected serious adverse reaction"
+      ]
+    },
+    {
+      "id": "icsr",
+      "terms": [
+        "个例安全性报告",
+        "个例药品不良反应报告",
+        "个例报告",
+        "个例不良反应",
+        "ICSR",
+        "Individual Case Safety Report",
+        "individual case safety report",
+        "individual case report"
+      ]
+    },
+    {
+      "id": "psur",
+      "terms": [
+        "定期安全性更新报告",
+        "PSUR",
+        "Periodic Safety Update Report",
+        "periodic safety update report"
+      ]
+    },
+    {
+      "id": "pbrer",
+      "terms": [
+        "定期获益-风险评估报告",
+        "PBRER",
+        "Periodic Benefit-Risk Evaluation Report",
+        "periodic benefit-risk evaluation report"
+      ]
+    },
+    {
+      "id": "dsur",
+      "terms": [
+        "研发期间安全性更新报告",
+        "DSUR",
+        "Development Safety Update Report",
+        "development safety update report"
+      ]
+    },
+    {
+      "id": "rsi",
+      "terms": [
+        "安全性参考信息",
+        "RSI",
+        "Reference Safety Information",
+        "reference safety information"
+      ]
+    },
+    {
+      "id": "ib",
+      "terms": [
+        "研究者手册",
+        "IB"
+      ]
+    },
+    {
+      "id": "meddra",
+      "terms": [
+        "国际医学用语词典",
+        "MedDRA"
+      ]
+    },
+    {
+      "id": "rmp",
+      "terms": [
+        "风险管理计划",
+        "RMP",
+        "Risk Management Plan",
+        "risk management plan"
+      ]
+    },
+    {
+      "id": "rcp",
+      "terms": [
+        "风险控制计划",
+        "RCP",
+        "Risk Control Plan",
+        "risk control plan"
+      ]
+    },
+    {
+      "id": "gcp",
+      "terms": [
+        "药物临床试验质量管理规范",
+        "GCP",
+        "Good Clinical Practice",
+        "good clinical practice"
+      ]
+    },
+    {
+      "id": "cro",
+      "terms": [
+        "合同研究组织",
+        "CRO"
+      ]
+    },
+    {
+      "id": "smo",
+      "terms": [
+        "临床试验现场管理组织",
+        "SMO"
+      ]
+    },
+    {
+      "id": "pi",
+      "terms": [
+        "主要研究者",
+        "PI"
+      ]
+    },
+    {
+      "id": "irb",
+      "terms": [
+        "伦理审查委员会",
+        "机构审查委员会",
+        "IRB"
+      ]
+    },
+    {
+      "id": "ec",
+      "terms": [
+        "伦理委员会",
+        "EC"
+      ]
+    },
+    {
+      "id": "icf",
+      "terms": [
+        "知情同意书",
+        "ICF",
+        "Informed Consent Form",
+        "informed consent form"
+      ]
+    },
+    {
+      "id": "crf",
+      "terms": [
+        "病例报告表",
+        "CRF",
+        "Case Report Form",
+        "case report form"
+      ]
+    },
+    {
+      "id": "ecrf",
+      "terms": [
+        "电子病例报告表",
+        "eCRF"
+      ]
+    },
+    {
+      "id": "edc",
+      "terms": [
+        "电子数据采集",
+        "EDC"
+      ]
+    },
+    {
+      "id": "sop",
+      "terms": [
+        "标准操作规程",
+        "SOP",
+        "Standard Operating Procedure",
+        "standard operating procedure"
+      ]
+    },
+    {
+      "id": "dsmb",
+      "terms": [
+        "数据安全监察委员会",
+        "DSMB"
+      ]
+    },
+    {
+      "id": "dmc",
+      "terms": [
+        "数据监察委员会",
+        "DMC"
+      ]
+    },
+    {
+      "id": "ind",
+      "terms": [
+        "新药临床试验申请",
+        "试验用新药",
+        "IND",
+        "Investigational New Drug",
+        "investigational new drug"
+      ]
+    },
+    {
+      "id": "nda",
+      "terms": [
+        "新药上市申请",
+        "NDA",
+        "New Drug Application",
+        "new drug application"
+      ]
+    },
+    {
+      "id": "anda",
+      "terms": [
+        "简化新药申请",
+        "ANDA"
+      ]
+    },
+    {
+      "id": "be",
+      "terms": [
+        "生物等效性",
+        "BE"
+      ]
+    },
+    {
+      "id": "pk",
+      "terms": [
+        "药代动力学",
+        "PK"
+      ]
+    },
+    {
+      "id": "pd",
+      "terms": [
+        "药效动力学",
+        "PD"
+      ]
+    },
+    {
+      "id": "ich",
+      "terms": [
+        "国际人用药品注册技术协调会",
+        "ICH"
+      ]
+    },
+    {
+      "id": "nmpa",
+      "terms": [
+        "国家药品监督管理局",
+        "NMPA"
+      ]
+    },
+    {
+      "id": "cde",
+      "terms": [
+        "药品审评中心",
+        "CDE"
+      ]
+    },
+    {
+      "id": "cioms",
+      "terms": [
+        "国际医学科学组织理事会",
+        "CIOMS"
+      ]
+    },
+    {
+      "id": "fda",
+      "terms": [
+        "美国食品药品监督管理局",
+        "FDA"
+      ]
+    },
+    {
+      "id": "ema",
+      "terms": [
+        "欧洲药品管理局",
+        "EMA"
+      ]
+    },
+    {
+      "id": "signal_detection",
+      "terms": [
+        "信号检测",
+        "信号管理",
+        "Signal Detection",
+        "signal detection",
+        "Signal Management",
+        "signal management",
+        "Safety Signal",
+        "安全信号",
+        "安全性信号"
+      ]
+    },
+    {
+      "id": "risk_minimization",
+      "terms": [
+        "风险最小化",
+        "Risk Minimization",
+        "risk minimisation",
+        "risk minimization"
+      ]
+    },
+    {
+      "id": "risk_management",
+      "terms": [
+        "风险管理",
+        "Risk Management",
+        "risk management"
+      ]
+    },
+    {
+      "id": "benefit_risk",
+      "terms": [
+        "获益-风险评估",
+        "Benefit-Risk Assessment",
+        "Benefit Risk Assessment",
+        "Risk-Benefit Assessment",
+        "benefit-risk assessment",
+        "risk-benefit assessment"
+      ]
+    },
+    {
+      "id": "safety_monitoring",
+      "terms": [
+        "安全性监测",
+        "Safety Monitoring",
+        "safety monitoring"
+      ]
+    },
+    {
+      "id": "eu",
+      "terms": [
+        "欧盟",
+        "欧洲",
+        "欧共体",
+        "European Union",
+        "EU",
+        "Europe",
+        "EMA"
+      ]
+    },
+    {
+      "id": "literature",
+      "terms": [
+        "文献",
+        "文献报告",
+        "文献检索",
+        "literature",
+        "published reports",
+        "literature reports",
+        "literature reporting",
+        "literature search"
+      ]
+    },
+    {
+      "id": "death",
+      "terms": [
+        "死亡病例",
+        "死亡",
+        "fatal cases",
+        "deaths",
+        "fatal"
+      ]
+    },
+    {
+      "id": "reporting_timeframe",
+      "terms": [
+        "报告时限",
+        "提交时限",
+        "时限",
+        "submission time frame",
+        "submission time frames",
+        "reporting time frame",
+        "reporting time frames",
+        "deadline",
+        "calendar days",
+        "time frame",
+        "time frames"
+      ]
+    },
+    {
+      "id": "day0",
+      "terms": [
+        "第0天",
+        "第零天",
+        "day 0",
+        "day zero"
+      ]
+    },
+    {
+      "id": "reporting_frequency",
+      "terms": [
+        "报告频率",
+        "reporting frequency"
+      ]
+    },
+    {
+      "id": "search_frequency",
+      "terms": [
+        "检索频率",
+        "search frequency",
+        "literature screening frequency"
+      ]
+    },
+    {
+      "id": "database",
+      "terms": [
+        "数据库",
+        "database",
+        "databases"
+      ]
+    },
+    {
+      "id": "safety_communication",
+      "terms": [
+        "安全性沟通",
+        "安全沟通",
+        "风险沟通",
+        "沟通",
+        "安全信息发布",
+        "safety communication",
+        "risk communication",
+        "communication",
+        "public communication"
+      ]
+    },
+    {
+      "id": "dhpc",
+      "terms": [
+        "直接医疗专业人员沟通",
+        "致医务人员函",
+        "致医疗专业人员函",
+        "DHPC",
+        "direct healthcare professional communication"
+      ]
+    },
+    {
+      "id": "signal_detection_method",
+      "terms": [
+        "信号检测方法",
+        "统计信号检测",
+        "signal detection method",
+        "statistical signal detection",
+        "disproportionality analysis",
+        "disproportionate reporting"
+      ]
+    },
+    {
+      "id": "inspection",
+      "terms": [
+        "药物警戒检查",
+        "检查",
+        "监管检查",
+        "现场检查",
+        "远程检查",
+        "延伸检查",
+        "inspection",
+        "pharmacovigilance inspection",
+        "regulatory inspection"
+      ]
+    },
+    {
+      "id": "audit",
+      "terms": [
+        "药物警戒审计",
+        "内审",
+        "内部审核",
+        "审计",
+        "audit",
+        "pharmacovigilance audit",
+        "internal audit"
+      ]
+    },
+    {
+      "id": "non_compliance",
+      "terms": [
+        "不合规",
+        "违规",
+        "缺陷",
+        "不符合要求",
+        "non-compliance",
+        "noncompliance",
+        "deficiency"
+      ]
+    },
+    {
+      "id": "sanction",
+      "terms": [
+        "处罚",
+        "制裁",
+        "监管措施",
+        "sanction",
+        "regulatory action",
+        "enforcement action"
+      ]
+    },
+    {
+      "id": "eudravigilance",
+      "terms": [
+        "EudraVigilance",
+        "eudravigilance",
+        "欧盟药物警戒数据库",
+        "EV数据库"
+      ]
+    },
+    {
+      "id": "evdas",
+      "terms": [
+        "EVDAS",
+        "EudraVigilance Data Analysis System",
+        "EudraVigilance数据分析系统",
+        "EudraVigilance 数据分析系统"
+      ]
+    },
+    {
+      "id": "xevmpd",
+      "terms": [
+        "XEVMPD",
+        "xEVMPD",
+        "Extended EudraVigilance Medicinal Product Dictionary",
+        "扩展EudraVigilance药品词典",
+        "EudraVigilance药品词典"
+      ]
+    },
+    {
+      "id": "ermr",
+      "terms": [
+        "eRMR",
+        "electronic Reaction Monitoring Report",
+        "电子反应监测报告"
+      ]
+    },
+    {
+      "id": "vigibase",
+      "terms": [
+        "VigiBase",
+        "vigiBase",
+        "WHO全球个例报告数据库",
+        "WHO全球ICSR数据库",
+        "乌普萨拉监测中心数据库"
+      ]
+    },
+    {
+      "id": "vigiflow",
+      "terms": [
+        "VigiFlow",
+        "vigiFlow",
+        "个例报告管理系统"
+      ]
+    },
+    {
+      "id": "vigilyze",
+      "terms": [
+        "VigiLyze",
+        "vigilyze",
+        "VigiBase信号分析工具"
+      ]
+    },
+    {
+      "id": "who_umc",
+      "terms": [
+        "WHO-UMC",
+        "WHO UMC",
+        "乌普萨拉监测中心",
+        "Uppsala Monitoring Centre",
+        "WHO药物警戒协作中心",
+        "世界卫生组织乌普萨拉监测中心"
+      ]
+    },
+    {
+      "id": "e2b",
+      "terms": [
+        "E2B",
+        "ICH E2B",
+        "E2B(R2)",
+        "E2B(R3)",
+        "E2B R2",
+        "E2B R3",
+        "个例安全性报告电子传输标准",
+        "ICSR电子传输"
+      ]
+    },
+    {
+      "id": "gateway",
+      "terms": [
+        "电子传输网关",
+        "报告网关",
+        "gateway",
+        "eSubmission",
+        "电子提交",
+        "电子递交"
+      ]
+    },
+    {
+      "id": "ack",
+      "terms": [
+        "ACK",
+        "确认信息",
+        "acknowledgement",
+        "电子回执"
+      ]
+    },
+    {
+      "id": "smq",
+      "terms": [
+        "SMQ",
+        "Standardised MedDRA Queries",
+        "标准化MedDRA查询",
+        "MedDRA标准查询",
+        "标准MedDRA查询"
+      ]
+    },
+    {
+      "id": "pt",
+      "terms": [
+        "PT",
+        "Preferred Term",
+        "首选术语",
+        "首选语"
+      ]
+    },
+    {
+      "id": "llt",
+      "terms": [
+        "LLT",
+        "Lowest Level Term",
+        "低位语",
+        "最低层级术语"
+      ]
+    },
+    {
+      "id": "hlt",
+      "terms": [
+        "HLT",
+        "High Level Term",
+        "高位语"
+      ]
+    },
+    {
+      "id": "soc",
+      "terms": [
+        "SOC",
+        "System Organ Class",
+        "系统器官分类"
+      ]
+    },
+    {
+      "id": "meddra_coding",
+      "terms": [
+        "MedDRA编码",
+        "医学编码",
+        "MedDRA coding",
+        "医学字典编码"
+      ]
+    },
+    {
+      "id": "causality",
+      "terms": [
+        "因果关系评价",
+        "关联性评价",
+        "因果判定",
+        "causality assessment",
+        "causality evaluation"
+      ]
+    },
+    {
+      "id": "dechallenge",
+      "terms": [
+        "去激发",
+        "停药后反应消失",
+        "dechallenge",
+        "再激发阴性",
+        "去激发试验"
+      ]
+    },
+    {
+      "id": "rechallenge",
+      "terms": [
+        "再激发",
+        "再次用药",
+        "rechallenge",
+        "再激发试验",
+        "再激发阳性"
+      ]
+    },
+    {
+      "id": "who_umc_causality",
+      "terms": [
+        "WHO-UMC因果关系评价",
+        "WHO-UMC causality categories",
+        "乌普萨拉因果关系分级"
+      ]
+    },
+    {
+      "id": "naranjo",
+      "terms": [
+        "Naranjo量表",
+        "Naranjo评分",
+        "Naranjo algorithm",
+        "Naranjo因果关系评价"
+      ]
+    },
+    {
+      "id": "aggregate_report",
+      "terms": [
+        "汇总报告",
+        "聚合报告",
+        "aggregate report",
+        "定期报告",
+        "安全性汇总报告"
+      ]
+    },
+    {
+      "id": "line_listing",
+      "terms": [
+        "逐例清单",
+        "行列表",
+        "line listing",
+        "病例列表",
+        "行清单"
+      ]
+    },
+    {
+      "id": "cioms_form",
+      "terms": [
+        "CIOMS I表格",
+        "CIOMS表",
+        "CIOMS form",
+        "CIOMS I Form",
+        "CIOMS报告表"
+      ]
+    },
+    {
+      "id": "expedited_report",
+      "terms": [
+        "快速报告",
+        "加急报告",
+        "expedited report",
+        "expedited reporting",
+        "15天报告"
+      ]
+    },
+    {
+      "id": "pass",
+      "terms": [
+        "PASS",
+        "Post-Authorisation Safety Study",
+        "上市后安全性研究",
+        "授权后安全性研究",
+        "post-authorisation safety study"
+      ]
+    },
+    {
+      "id": "paes",
+      "terms": [
+        "PAES",
+        "Post-Authorisation Efficacy Study",
+        "上市后有效性研究",
+        "授权后有效性研究",
+        "post-authorisation efficacy study"
+      ]
+    },
+    {
+      "id": "pms",
+      "terms": [
+        "PMS",
+        "Post-Marketing Surveillance",
+        "上市后监测",
+        "药品上市后监测"
+      ]
+    },
+    {
+      "id": "additional_monitoring",
+      "terms": [
+        "额外监测",
+        "附加监测",
+        "additional monitoring",
+        "加强监测",
+        "黑三角"
+      ]
+    },
+    {
+      "id": "black_triangle",
+      "terms": [
+        "黑三角",
+        "black triangle",
+        "额外监测标识",
+        "倒黑三角"
+      ]
+    },
+    {
+      "id": "sdr",
+      "terms": [
+        "SDR",
+        "Signal of Disproportionate Reporting",
+        "不相称报告信号",
+        "失衡报告信号"
+      ]
+    },
+    {
+      "id": "prr",
+      "terms": [
+        "PRR",
+        "Proportional Reporting Ratio",
+        "比例报告比值",
+        "比例报告比"
+      ]
+    },
+    {
+      "id": "ror",
+      "terms": [
+        "ROR",
+        "Reporting Odds Ratio",
+        "报告比值比"
+      ]
+    },
+    {
+      "id": "ic025",
+      "terms": [
+        "IC025",
+        "Information Component",
+        "信息成分",
+        "贝叶斯信号检测"
+      ]
+    },
+    {
+      "id": "ebgm",
+      "terms": [
+        "EBGM",
+        "Empirical Bayesian Geometric Mean",
+        "经验贝叶斯几何均值"
+      ]
+    },
+    {
+      "id": "prac",
+      "terms": [
+        "PRAC",
+        "Pharmacovigilance Risk Assessment Committee",
+        "药物警戒风险评估委员会",
+        "欧盟药物警戒风险评估委员会"
+      ]
+    },
+    {
+      "id": "chmp",
+      "terms": [
+        "CHMP",
+        "Committee for Medicinal Products for Human Use",
+        "人用药品委员会"
+      ]
+    },
+    {
+      "id": "phvig",
+      "terms": [
+        "PhVIG",
+        "Pharmacovigilance Inspectors Working Group",
+        "药物警戒检查员工作组"
+      ]
+    },
+    {
+      "id": "tga",
+      "terms": [
+        "TGA",
+        "Therapeutic Goods Administration",
+        "澳大利亚药品管理局"
+      ]
+    },
+    {
+      "id": "mhra",
+      "terms": [
+        "MHRA",
+        "Medicines and Healthcare products Regulatory Agency",
+        "英国药品和健康产品管理局"
+      ]
+    },
+    {
+      "id": "pmda",
+      "terms": [
+        "PMDA",
+        "Pharmaceuticals and Medical Devices Agency",
+        "日本药品医疗器械综合机构",
+        "日本PMDA"
+      ]
+    },
+    {
+      "id": "swissmedic",
+      "terms": [
+        "Swissmedic",
+        "瑞士药品监督管理局",
+        "瑞士药监局"
+      ]
+    },
+    {
+      "id": "benefit_risk_ratio",
+      "terms": [
+        "获益风险比",
+        "风险获益比",
+        "benefit-risk ratio",
+        "benefit risk balance",
+        "获益风险平衡"
+      ]
+    },
+    {
+      "id": "off_label",
+      "terms": [
+        "超说明书用药",
+        "标示外使用",
+        "off-label",
+        "off label use",
+        "超适应症用药"
+      ]
+    },
+    {
+      "id": "medication_error",
+      "terms": [
+        "用药错误",
+        "medication error",
+        "用药差错",
+        "给药错误"
+      ]
+    },
+    {
+      "id": "misuse",
+      "terms": [
+        "误用",
+        "滥用",
+        "misuse",
+        "abuse",
+        "药物滥用",
+        "药物误用"
+      ]
+    },
+    {
+      "id": "counterfeit",
+      "terms": [
+        "假药",
+        "假冒药品",
+        "伪劣药品",
+        "counterfeit medicine",
+        "falsified medicine",
+        "falsified medicinal product"
+      ]
+    },
+    {
+      "id": "signal_validation",
+      "terms": [
+        "信号验证",
+        "信号确认",
+        "signal validation",
+        "signal confirmation"
+      ]
+    },
+    {
+      "id": "signal_prioritization",
+      "terms": [
+        "信号优先级排序",
+        "信号优先排序",
+        "signal prioritisation",
+        "signal prioritization"
+      ]
+    },
+    {
+      "id": "risk_evaluation",
+      "terms": [
+        "风险评估",
+        "risk evaluation",
+        "risk assessment",
+        "安全性风险评估"
+      ]
+    },
+    {
+      "id": "safety_update_report",
+      "terms": [
+        "安全性更新报告",
+        "safety update report",
+        "安全性定期报告"
+      ]
+    },
+    {
+      "id": "psmf_location",
+      "terms": [
+        "PSMF存放地",
+        "主文件存放地",
+        "PSMF location",
+        "pharmacovigilance system master file location"
+      ]
+    },
+    {
+      "id": "qppv_access",
+      "terms": [
+        "QPPV可访问",
+        "药物警戒负责人访问",
+        "永久访问",
+        "continuous access",
+        "permanent access"
+      ]
+    },
+    {
+      "id": "risk_communication_plan",
+      "terms": [
+        "风险沟通计划",
+        "communication plan",
+        "沟通计划",
+        "风险沟通方案"
+      ]
+    },
+    {
+      "id": "educational_material",
+      "terms": [
+        "教育材料",
+        "患者教育材料",
+        "educational material",
+        "医务人员教育材料",
+        "patient education material"
+      ]
+    },
+    {
+      "id": "label_update",
+      "terms": [
+        "说明书更新",
+        "标签更新",
+        "label update",
+        "产品信息更新",
+        "product information update"
+      ]
+    },
+    {
+      "id": "periodic_safety_report",
+      "terms": [
+        "定期安全性报告",
+        "periodic safety report",
+        "PSR"
+      ]
+    },
+    {
+      "id": "valid_icsr",
+      "terms": [
+        "有效个例报告",
+        "有效ICSR",
+        "valid ICSR",
+        "valid individual case safety report",
+        "四要素"
+      ]
+    },
+    {
+      "id": "submission",
+      "terms": [
+        "递交",
+        "提交",
+        "报送",
+        "上报",
+        "申报",
+        "submission",
+        "submit",
+        "submitting",
+        "filing"
+      ]
+    },
+    {
+      "id": "frequency",
+      "terms": [
+        "频率",
+        "频次",
+        "周期",
+        "frequency",
+        "how often"
+      ]
+    },
+    {
+      "id": "target_recipient",
+      "terms": [
+        "递交对象",
+        "报送对象",
+        "提交对象",
+        "报告对象",
+        "recipient",
+        "addressee",
+        "submission target"
+      ]
+    },
+    {
+      "id": "deadline_period",
+      "terms": [
+        "期限",
+        "时限要求",
+        "period",
+        "timeline",
+        "due date"
+      ]
+    },
+    {
+      "id": "scope",
+      "terms": [
+        "范围",
+        "适用范围",
+        "scope",
+        "coverage"
+      ]
+    },
+    {
+      "id": "content_requirement",
+      "terms": [
+        "内容要求",
+        "格式要求",
+        "content requirement",
+        "format requirement",
+        "content and format"
+      ]
+    },
+    {
+      "id": "obligation",
+      "terms": [
+        "义务",
+        "责任",
+        "职责",
+        "obligation",
+        "responsibility",
+        "duty"
+      ]
+    },
+    {
+      "id": "exemption",
+      "terms": [
+        "豁免",
+        "例外",
+        "免除",
+        "exemption",
+        "exception",
+        "waiver",
+        "derogation"
+      ]
+    },
+    {
+      "id": "amendment",
+      "terms": [
+        "变更",
+        "修订",
+        "修改",
+        "更新",
+        "amendment",
+        "variation",
+        "update",
+        "change"
+      ]
+    },
+    {
+      "id": "record_keeping",
+      "terms": [
+        "记录保存",
+        "归档",
+        "保存记录",
+        "record keeping",
+        "retention",
+        "archiving",
+        "documentation"
+      ]
+    },
+    {
+      "id": "screening",
+      "terms": [
+        "筛查",
+        "筛选",
+        "screening",
+        "screened"
+      ]
+    },
+    {
+      "id": "collection",
+      "terms": [
+        "收集",
+        "采集",
+        "collection",
+        "collecting",
+        "gathering"
+      ]
+    },
+    {
+      "id": "assessment",
+      "terms": [
+        "评估",
+        "评价",
+        "审查",
+        "审核",
+        "核查",
+        "assessment",
+        "evaluation",
+        "review"
+      ]
+    },
+    {
+      "id": "notification",
+      "terms": [
+        "通知",
+        "告知",
+        "反馈",
+        "notification",
+        "inform",
+        "communication to authority"
+      ]
+    },
+    {
+      "id": "transparency",
+      "terms": [
+        "透明",
+        "公开",
+        "公布",
+        "transparency",
+        "disclosure",
+        "publication"
+      ]
+    },
+    {
+      "id": "delegation",
+      "terms": [
+        "委托",
+        "外包",
+        "受托方",
+        "委托方",
+        "合同委托",
+        "delegation",
+        "outsourcing",
+        "subcontracting",
+        "subcontracted",
+        "third party",
+        "entrust"
+      ]
+    },
+    {
+      "id": "qualification",
+      "terms": [
+        "资质",
+        "资格",
+        "资质要求",
+        "学历",
+        "职称",
+        "专业背景",
+        "工作经历",
+        "qualification",
+        "educational background",
+        "professional background",
+        "work experience"
+      ]
+    }
+  ]
+}
