@@ -1,0 +1,25 @@
+{
+  "name": "pv-qa",
+  "version": "0.4.0",
+  "description": "中国药物警戒/药品安全法规 AI 问答库 — 本地后端 + 网页",
+  "type": "module",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "node --watch server/index.js",
+    "test": "node --test test/*.test.js"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "@node-rs/jieba": "^1.10.3",
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mammoth": "^1.8.0",
+    "multer": "^2.2.0",
+    "node-cron": "^4.6.0",
+    "unpdf": "^1.8.1"
+  }
+}

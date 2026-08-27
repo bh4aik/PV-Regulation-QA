@@ -1,0 +1,29 @@
+{
+  "title": "Reporting requirements for marketing authorisation holders in the EU regarding suspected adverse reactions in public health programmes outside the EU",
+  "shortTitle": "MAH Reporting Outside EU Programmes",
+  "documentNumber": "",
+  "issuingAuthority": "",
+  "issueDate": "",
+  "effectiveDate": "",
+  "status": "现行有效",
+  "category": "指南",
+  "country": "欧盟",
+  "chapters": [
+    {
+      "title": "27 April 2015",
+      "articles": [
+        {
+          "num": "30",
+          "text": "Churchill Place ● Canary Wharf ● London E14 5EU ● United Kingdom\nTelephone +44 (0)20 3660 6000 Facsimile +44 (0)20 3660 5525\nSend a question via our website www.ema.europa.eu/contactAn agency of the European Union\n© European Medicines Agency, 2015. Reproduction is authorised provided the source is acknowledged.\n(1) report to EU competent authorities, as individual case safety reports by means of EudraVigilance,\nserious suspected adverse reactions which occur outside the EU in these public health programmes and\nwhich are brought to the attention of these marketing authorisation holders;\n(2) report to EU competent authorities, by means of summary tabulations and discussion in the\nperiodic safety update reports, non-serious adverse reactions which occur outside the EU in these\npublic health programmes and which are brought to the attention of these marketing authorisation\nholders.\nFurther guidance on (1) and (2) is provided in Modules VI and VII of the EU guidelines on good\npharmacovigilance practices.\nThe above clarifications are based on the EU legislative framework and good pharmacovigilance\npractices, which were endorsed by the EU regulatory network.\nReporting requirements of marketing authorisation holders in the EU regarding suspected adverse\nreactions occurring with medicinal products they donate outside the EU to public health programmes\nagainst neglected tropical diseases"
+        }
+      ]
+    }
+  ],
+  "_cleanedBy": "heuristic",
+  "sourceUrl": "https://www.ema.europa.eu/en/documents/other/reporting-requirements-marketing-authorisation-holders-european-union-eu-regarding-suspected-adverse-reactions-occurring-medicinal-products-they-donate-outside-eu-public-health-programmes-against_en.pdf",
+  "id": "Reporting-requirements-for-marketing-authorisation-holders-i",
+  "sourceTitle": "",
+  "rawFile": "ema/reporting-requirements-marketing-authorisation-holders-european-union-eu-regardi.md",
+  "updatedAt": "2026-08-18T13:17:58.095Z",
+  "articleCount": 1
+}

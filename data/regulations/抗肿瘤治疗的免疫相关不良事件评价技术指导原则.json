@@ -1,0 +1,72 @@
+{
+  "title": "抗肿瘤治疗的免疫相关不良事件评价技术指导原则",
+  "shortTitle": "抗肿瘤治疗的免疫相关不良事件评价技术指导原则",
+  "documentNumber": "''",
+  "issuingAuthority": "国家药品监督管理局药品审评中心（CDE）",
+  "issueDate": "2022-05-17",
+  "effectiveDate": "2022-05-17",
+  "status": "现行有效",
+  "category": "指导原则",
+  "country": "中国",
+  "chapters": [
+    {
+      "title": "一、背景",
+      "articles": [
+        {
+          "num": "",
+          "text": "肿瘤免疫治疗（immuno-oncology，IO）是当前抗肿瘤新\n药的重要研发领域 ， 随着多个靶向程序性死亡受体\n（programmed death-1, PD-）或其配体等免疫检查点抑制剂\n[1-3]\n（immune checkpoint inhibitors, ICIs）、双特异性 T 细胞\n连接抗体（Bispecific T cell Engager, BiTE）、激动剂抗体以及\n[4, 5]\n细胞治疗产品等在全球批准上市，免疫治疗已逐渐成为多\n种恶性肿瘤的标准治疗手段，目前尚有大量新的免疫靶点药\n物正处在临床研发的不同阶段。制药企业和学术界在不断\n探索新靶点、更精准的治疗人群和更有效联合治疗方案的同\n时，也越来越清楚地认识到免疫治疗药物与传统的细胞毒药\n物和小分子靶向药物在安全性上具有显著的差异，也发现少\n数非免疫治疗与免疫治疗具有相似的安全性特征。\n免疫相关不良事件（immune-related adverse event, irAE）\n的识别和判定领域目前尚无相关技术指导原则，使得在不同\n的药物临床试验中，存在不同的 irAE 定义和判定流程，在对\n安全性数据进行汇总时，难以全面系统地识别和分析 irAE，\n这将不利于说明书安全性信息的充分呈现，并可能影响患者\n的用药安全。为此，我们根据免疫治疗药物的作用机制和\nirAE 特点，对 irAE 的定义和判定流程提出科学性建议，明\n确在不同研究设计的临床试验中 irAE 的数据呈现形式，并\n阐明说明书中相关不良反应信息撰写考虑。\n本指导原则适用于肿瘤免疫治疗。本指导原则旨在提升\n肿瘤免疫治疗临床试验 irAE 识别和判定的科学性和稳健性，\n提高研究者手册、临床研究报告（clinical study report, CSR）、\n临床安全性总结（summary of clinical safety, SCS）和说明书\n药物不良反应（adverse drug reaction, ADR）的撰写质量，加\n强对参加试验的受试者和上市后用药患者人群的保护。\n本指导原则仅代表药品监管部门当前的观点和认知，随\n着医学科学和临床试验的发展，本指导原则中的相关内容将\n不断完善与更新。应用本指导原则设计和实施研究时，请同\n时参考药物临床试验质量管理规范（good clinical practice，\nGCP）、国际人用药品注册技术协调会（International Council\nfor Harmonisation of Technical Requirements for\nPharmaceuticals for Human Use, ICH）和其他国内已发布的相\n关指导原则。"
+        }
+      ]
+    },
+    {
+      "title": "二、 定义及判定考虑",
+      "articles": [
+        {
+          "num": "（一）",
+          "text": "免疫相关不良事件的定义\n当前，建议 irAE 定义为：抗肿瘤药物/治疗临床试验中，\n经判定与免疫机制有因果关系的所有级别的药物不良反应。\n虽然称为免疫相关“不良事件”，但 irAE 实际是因抗肿瘤药\n物作用机制导致的免疫机制介导引起的“不良反应”。irAE 应\n基于药物警戒标准和 MedDRA 术语编码进行识别和表征，\n是 AE、治疗中出现的不良事件（treatment emergent adverse\nevent, TEAE）和 ADR 的子集（图 ）。\n图 、免疫相关不良事件的定义及关系\n当前肿瘤免疫治疗临床试验方案中免疫相关事件存在\n多种定义——免疫相关不良事件（immune-related adverse\nevent, irAE）、免疫介导不良事件（immune-mediated adverse\nevent, imAE）和免疫相关不良反应（immune-related adverse\ndrug reaction, irADR）等，上述术语定义存在交集和差异。为\n提高 irAE 判定的科学性、一致性和可操作性，结合当前临床\n实践，并便于国际之间、学术界与行业间的交流，建议采用\n免疫相关不良事件（irAE）统一描述肿瘤免疫治疗临床试验\n中的免疫相关安全性事件。如需在临床试验中应用其它免疫\n相关术语，如 imAE 或 irADR 等，建议申办者明确不同术语\n的定义及使用场景，明确其与 irAE 的异同。"
+        },
+        {
+          "num": "（二）",
+          "text": "判定医学考虑\nIrAE 是由免疫机制介导发生的，临床表现主要与免疫细\n胞的活化相关，具有如下特征：\n● 通常为脱靶免疫反应，可累及单个或多个器官系统；\n● 部分产品的剂量-暴露量-安全性特征不明确，低剂量\n也可能导致严重 irAE；\n● 发生时间多样，部分在用药后较快发生（如细胞因子\n释放综合征通常在小时内发生），并迅速加重；部\n分具有迟滞效应，在用药数月后发生；部分在停药后\n发生并持续加重；\n● 部分 irAE 的发生率极低，需大样本和长时间观察才\n能暴露；\n● 不同作用机制的产品可具有相似的 irAE。\n如前所述，irAE 为 ADR。常规 ADR 的判定通常考虑如\n下因素：事件与治疗的时间相关性，生物学合理性，去激发\n或再激发试验结果（如有），试验组与对照组之间 AE 发生率\n的比较，药理学和/或毒理学研究数据支持，剂量-暴露量-事\n件相关性（如有），以及同靶点药物不良反应等。对于存在时\n间相关性且不存在其他重要混杂因素的罕见严重事件，也常\n被判定为 ADR，如史蒂文斯-约翰逊综合征（Stevens-Johnson\nsyndrome, SJS）和中毒性表皮坏死解松解症（toxic epidermal\nnecrosis, TEN）。\n基于前述 irAE 的特点，在临床试验中，往往难以完全参\n照 ADR 判定的一般性原则判定 irAE。因此，建议进一步考\n虑如下因素判定 irAE：\n（）针对目标 irAE（包括疑似 irAE）是否使用了全身\n类固醇治疗、其他免疫抑制治疗或内分泌替代治疗，以及治\n疗后转归；\n（）病理检测结果（如有）；\n（）靶点免疫学机制；\n（）事件与治疗的时间相关性，包括长期用药后发生，\n重新用药后事件是否再次出现或加重，以及停药后发生并加\n重的情形；\n（）该事件同靶点药物已报告并明确为 irAE；\n（）目标 irAE 严重程度，单器官还是多器官/系统累及；\n（）患者自身免疫疾病病史和基线疾病状态；\n（）安全性相关生物标记物的支持（如有）；\n（）排除其他病因，与临床表现相似的非免疫事件的重\n要临床鉴别诊断（如免疫相关性肺炎和感染性肺炎）；\n（）排除其他可导致目标不良事件的合理解释（例如\n感染、合并用药和基础疾病等）。"
+        },
+        {
+          "num": "（三）",
+          "text": "判定流程\n在产品总体医学判定上，申办者可结合研究方案的定义、\n数据收集等各方面考量，制定科学的流程进行判定。当前针\n对 irAE 总体判定流程，包括但不限于以下方式：\n（）基于试验总体 AE 通过预设流程进行综合评价。该\n判定流程是先对所有 AE 进行汇总，在汇总 AE 的基础上，\n通过预设流程，从 AE 中筛选并判定 irAE。\n（）在研究者判定结果基础上，申办者按照预先设定的\n流程进一步评价汇总。研究者通常基于医疗经验进行 irAE 判\n定；申办者在研究者判定的基础上，基于在既往临床试验中\n获得的经验，再次进行 irAE 判定。\n（）采用预设医学逻辑进行计算机程序判定。需要考虑\n程序预设医学逻辑的科学性、严谨性和全面性，并经过充分\n无论采用上述哪一种流程，或探索新的判定流程，均建\n议申办者参考本指导原则提供的 irAE 定义和医学判定考虑，\n设计科学合理的流程综合判定。申办者的判定人员应具备相\n应医学资质和判定经验，推荐采用多学科参与的判定模式提\n高判定结果的科学性和稳健性。对于通用不良事件评价\n（common terminology criteria for adverse events, CTCAE）严\n重等级 ~5 级 irAE 以及后续造成了严重危害的非预期级\nirAE，建议申办者采用多学科机制逐例判定相关性，发挥研\n究者的作用。"
+        }
+      ]
+    },
+    {
+      "title": "三、说明书免疫相关不良事件的呈现",
+      "articles": [
+        {
+          "num": "（一）",
+          "text": "一般原则\n研究者是临床试验中 AE 药物相关性的首个判定主体，\n直接与受试者接触掌握其全面临床信息，因此，研究者的评\n价结果有重要的价值。建议在 SCS 等研究资料中，合理呈现\n研究者和申办者的判定结果，提供申办者的详细评价流程，\nCTCAE 严重等级 ~5 级判定不一致的病例宜有合理的分析\n说明书通常呈现经申办者判断、技术审评部门核定后确\n认与药物相关的不良反应。建议采用本指导原则所推荐的\nirAE 定义，并参照已发布的《抗肿瘤药物说明书不良反应数\n据汇总指导原则》和《抗肿瘤创新药上市申请安全性总结\n资料准备技术指导原则》，以汇总形式在说明书【不良反\n应】项下呈现 irAE。原则上，说明书【不良反应】信息的撰\n写基于申办者汇总判定后的数据。\n说明书中应呈现重要器官/系统（如免疫相关性心肌炎、\n免疫相关性肺炎和免疫相关性内分泌疾病）的 irAE 信息，包\n括临床试验中发生率较高的 irAE，以及发生率低但可导致严\n重后果的 irAE。可合并情况下，建议以术语簇形式呈现 irAE\n（例如免疫相关性内分泌疾病），减少呈现单个 PT 术语所导\n致的发生率分散和临床关注度的下降，汇总同时建议准确呈\n现单个免疫相关事件的发生率，如垂体炎、甲状腺功能减退\n症、肾上腺功能不全和糖尿病等。在系统性呈现 irAE 时，建\n议涵盖如下因素：目标 irAE 在临床试验中的汇总累积发生\n率、严重级别级及以上事件发生率、导致死亡结局的 irAE\n发生率、典型临床表现、至事件发生时间、持续时间、是否\n导致治疗暂停或终止、剂量-暴露量-效应特点（如有）、高危\n人群特征（如有）、预后和临床转归等。建议明确目标 irAE\n需要使用系统性皮质醇激素、其他免疫抑制剂治疗或内分泌\n替代治疗的比例以及转归，为医患提供更有价值信息。对于\n不同适应症，如果特定 irAE 在某个特定肿瘤类型下具有显\n著的性质、频率或严重程度差异，呈现时应加以强调。\n同靶点产品可能具备的相似的 irAE 特征，靶点机制相\n关的严重、罕见和需要特别关注的 irAE 可能因产品当前暴\n露量和访视时间有限而尚未报告，因此，建议在说明书中提\n示本品尚未报告但同类上市产品已报告的 irAE，以充分提醒\n医患用药风险。"
+        },
+        {
+          "num": "（二）",
+          "text": "特殊情形的考虑\n（）对照设计的临床试验，在 CSR 和 SCS 中可考虑呈\n现试验组和对照组的 irAE，但当对照组为安慰剂或非免疫治\n疗药物/疗法时，不建议在说明书中呈现安慰剂/阳性对照药\n的 irAE。\n（）对照临床试验中采用交叉设计时，由于试验组和对\n照组交叉人群所接受的免疫治疗方案和暴露时间可能不同，\n建议在 CSR 和 SCS 中单独呈现交叉人群的 irAE。在说明书\n【不良反应】撰写中，可参照《抗肿瘤药物说明书不良反应\n数据汇总指导原则》，将相对同质人群的 irAE 数据汇总呈\n（）免疫联合治疗设计的试验，判定 irAE 与其中特定\n药物的相关性存在一定挑战，当前有如下建议：\n①如免疫联合治疗与单药治疗具有相似的 irAE 特征，\n建议明确 irAE 与联合治疗的相关性，不过度强调与某一目\n标药物的相关性。与单药相比，免疫联合治疗在 irAE 性质、\n频率或严重程度方面观察到提高时，呈现时应加以强调。\n②如免疫联合治疗与单药治疗具有显著不同的 irAE 特\n征，建议尽可能明确 irAE 与方案中的单药的相关性。\n（）免疫联合非免疫治疗中，如果免疫与非免疫治疗具\n有相似的 AE 特征（例如，免疫治疗和靶向治疗均已知与甲\n状腺疾病有关），经充分医学评价仍无法确定所观察到的 AE\n是 irAE 还是非 irAE 时，须用保守方法，将 AE 视为 irAE，\n不应仅依据两者特征相似，而排除 irAE。"
+        },
+        {
+          "num": "（三）",
+          "text": "安全信息的更新\n足够的暴露量和相对充分的暴露时间对发现相对罕见、\n严重的 irAE 具有重要意义，应关注肿瘤免疫治疗药物/疗法\n的全生命周期药物安全性数据的收集，特别是上市后收集到\n的罕见、严重和致死性不良事件，应全面收集数据，评估事\n件与治疗的相关性。参照 ICH 相关指南建议制定合理的核心\n[10]\n数据表（core data sheet, CDS）更新计划，并依据更新数据\n及时修订说明书。当明确了新的免疫相关的已识别重要风险\n时，应及时补充至说明书中。"
+        }
+      ]
+    },
+    {
+      "title": "四、总结",
+      "articles": [
+        {
+          "num": "",
+          "text": "本技术指导原则旨在阐述药品监管机构当前对抗肿瘤\n治疗临床试验 irAE 的评价和说明书撰写考虑，目标是提高\n安全性报告和说明书等资料质量，加强对参与临床试验的受\n试者和上市后用药的患者人群的保护。本技术指导原则尚不\n能涵盖抗肿瘤治疗中 irAE 识别、判定和说明书撰写的所有\n情形，鼓励研发从业者与药品监管机构及时沟通，持续完善\n本指导原则。\n参考文献\n[1] Paz-Ares L, Luft A, Vicente D, et al. Pembrolizumab plus Chemotherapy for Squamous\nNon-Small-Cell Lung Cancer. N Engl J Med. 2018. 379(21): 2040-2051.\n[2] Schmid P, Adams S, Rugo HS, et al. Atezolizumab and Nab-Paclitaxel in Advanced\nTriple-Negative Breast Cancer. N Engl J Med. 2018. 379(22): 2108-2121.\n[3] Baas P, Scherpereel A, Nowak AK, et al. First-line nivolumab plus ipilimumab in\nunresectable malignant pleural mesothelioma (CheckMate 3): a multicentre,\nrandomised, open-label, phase 3 trial. Lancet. 2021. 397(10272): 375-386.\n[4] Foà R, Bassan R, Vitale A, et al. Dasatinib-Blinatumomab for Ph-Positive Acute\nLymphoblastic Leukemia in Adults. N Engl J Med. 2020. 383(17): 1613-1623.\n[5] Wang M, Munoz J, Goy A, et al. KTE-X19 CAR T-Cell Therapy in Relapsed or\nRefractory Mantle-Cell Lymphoma. N Engl J Med. 2020. 382(14): 1331-1342.\n[6] Kraehenbuehl L, Weng CH, Eghbali S, Wolchok JD, Merghoub T. Enhancing\nimmunotherapy in cancer by targeting emerging immunomodulatory pathways. Nat Rev\nClin Oncol. 2021 .\n[7] Zhou X, Yao Z, Bai H, et al. Treatment-related adverse events of PD-1 and PD-L1\ninhibitor-based combination therapies in clinical trials: a systematic review and meta-\nanalysis. Lancet Oncol. 2021. 22(9): 1265-1274.\n[8] 国家药监局药审中心关于公开征求《抗肿瘤药物说明书不良反应数据汇总指导\n原则》意见的通知，\nhttps://www.cde.org.cn/main/news/viewInfoCommon/9d3092a2592e5097bb60b34d54\n224336.\n[9] 国家药监局药审中心关于发布《抗肿瘤创新药上市申请安全性总结资料准备技术\n指导原则》的通告（2020 年第号）\nhttps://www.cde.org.cn/main/news/viewInfoCommon/6539f28b92b2d7b57579b76006\n2ed75a\n[10] E2F：研发期间安全性更新报告\nhttps://www.cde.org.cn/ichWeb/guideIch/downloadAtt/2/6defa80786ae8fac5524f9152\na495c84"
+        }
+      ]
+    }
+  ],
+  "_cleanedBy": "heuristic",
+  "sourceUrl": "https://www.cde.org.cn/zdyz/domesticinfopage?zdyzIdCODE=cc090bfd53ece9d54393ba3ae16b306a",
+  "id": "抗肿瘤治疗的免疫相关不良事件评价技术指导原则",
+  "sourceTitle": "",
+  "rawFile": "cde/抗肿瘤治疗的免疫相关不良事件评价技术指导原则.md",
+  "updatedAt": "2026-08-18T13:19:47.840Z",
+  "articleCount": 8
+}

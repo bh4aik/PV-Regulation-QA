@@ -1,0 +1,25 @@
+# Caddy 反向代理配置（HTTPS 自动证书）
+# 用法：把 pv.example.com 换成你的子域名，保存到 /etc/caddy/Caddyfile
+# 然后：systemctl restart caddy
+#
+# 前提：Cloudflare DNS 中该子域名解析到服务器 IP（代理关闭/灰云朵，仅 DNS），
+#       否则 Caddy 无法完成 HTTP-01 证书验证。
+
+pv.example.com {
+    reverse_proxy 127.0.0.1:3000
+
+    # 可选：限制上传体积
+    request_body {
+        max_size 35MB
+    }
+
+    # 可选：安全响应头
+    header {
+        X-Content-Type-Options nosniff
+        X-Frame-Options DENY
+        Strict-Transport-Security "max-age=31536000; includeSubDomains"
+    }
+
+    # 可选：Gzip 压缩（文本内容收益明显）
+    encode gzip
+}

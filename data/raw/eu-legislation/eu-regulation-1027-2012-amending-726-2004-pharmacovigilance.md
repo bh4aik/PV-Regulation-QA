@@ -1,0 +1,22 @@
+---
+title: Regulation (EU) No 1027/2012 amending Regulation (EC) No 726/2004 as regards pharmacovigilance
+documentNumber: Regulation (EU) No 1027/2012
+issuingAuthority: European Parliament and Council
+issueDate: 2012-10-25
+effectiveDate: 2012-11-14
+country: 欧盟
+status: 现行有效
+category: 法规
+sourceUrl: https://www.legislation.gov.uk/eur/2012/1027
+---
+
+# Regulation (EU) No 1027/2012 amending Regulation (EC) No 726/2004 as regards pharmacovigilance
+
+**Article 1**
+
+Regulation (EC) No 726/2004 is hereby amended as follows: in Article 13(4), the second subparagraph is replaced by the following: The marketing authorisation holder shall notify the Agency if the product ceases to be placed on the market of a Member State, either temporarily or permanently. Such notification shall, other than in exceptional circumstances, be made no less than two months before the interruption in the placing on the market of the product. The marketing authorisation holder shall inform the Agency of the reasons for such action in accordance with Article 14b. ; the following Article is inserted: The marketing authorisation holder shall notify the Agency forthwith of any action the holder takes to suspend the marketing of a medicinal product, to withdraw a medicinal product from the market, to request the withdrawal of a marketing authorisation or not to apply for the renewal of a marketing authorisation, together with the reasons for such action. The marketing authorisation holder shall in particular declare if such action is based on any of the grounds set out in Article 116 or Article 117(1) of Directive 2001/83/EC. The marketing authorisation holder shall also make the notification pursuant to paragraph 1 of this Article if the action is taken in a third country and such action is based on any of the grounds set out in Article 116 or Article 117(1) of Directive 2001/83/EC. In the cases referred to in paragraphs 1 and 2, the Agency shall forward the information to the competent authorities of the Member States without undue delay.
+
+**Article 2**
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union . It shall apply from 5 June 2013 with the exception of Article 23(4), points (c) and (d) of the second subparagraph of Article 57(1) and point (b) of the second subparagraph of Article 57(2) of Regulation (EC) No 726/2004, as amended by this Regulation, which shall apply from 4 December 2012.
+
